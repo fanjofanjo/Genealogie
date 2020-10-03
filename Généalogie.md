@@ -45,6 +45,16 @@ Parfois j'ai des doutes sur certaines informations, auquel cas elles sont en *it
   - [HÉRAULT, Philomène Florine](#vion7)
   
   - [Mariage de Alexandre VION et de Philomène HÉRAULT](#vionherault)
+  
+  - [VION, Pierre Louis](#vion8)
+  
+  - [HAYE, Marie Jeanne](#vion9)
+  
+  - [Mariage de Pierre VION et de Marie HAYE](#vionhaye)
+  
+  - [VION, Pierre](#vion10)
+  
+  - 
 
 # Souche de l'arbre <a name="souche"></a>
 
@@ -255,11 +265,7 @@ Ils vivaient tous les deux en 1906 chez la famille du frère de Pierre (qui s'ap
 
 Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vtad3843cd9a4ffc3ea/daogrp/0#id:677790955?gallery=true¢er=1405.000,-2467.000&zoom=11&rotation=0.000&brightness=100.00&contrast=100.00](https://archives-deux-sevres-vienne.fr/ark:/58825/vtad3843cd9a4ffc3ea/daogrp/0#id:677790955?gallery=true&center=1405.000,-2467.000&zoom=11&rotation=0.000&brightness=100.00&contrast=100.00)
 
-
-
 ---
-
-
 
 <img src="./Arbre/vion3.png"/>
 
@@ -391,7 +397,9 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta17416c30b8588002/
 
 ## Préambule
 
-Je n'ai trouvé aucune preuve de mariage entre Pierre Louis VION et Marie Jeanne HAYE.  Mais Marie HAYE s'est bien mariée à Pierre Henri VION, le petit frère de Pierre Louis. Et c'est bien Pierre Louis et Marie HAYE les parents d'Alexandre et d'Auguste. Donc quand Pierre Louis se remarie avec Celeste PERIDY en 1853 (2 ans après la mort de sa prétendue femme), et qu'il est dit qu'il est veuf en premières noces, bah j'ai des doutes ...
+Je n'ai trouvé aucune preuve de mariage entre Pierre Louis VION et Marie Jeanne HAYE.  Mais Marie HAYE s'est mariée en 1845 à Pierre Henri VION, le petit frère de Pierre Louis  Cependant, ce vrai Pierre Henri VION est décédé à l'âge de 11 ans en 1828. Et c'est bien Pierre Louis et Marie HAYE les parents d'Alexandre et d'Auguste. 
+
+Donc il semble évident que l'acte de mariage que j'ai trouvé soit bien celui de Pierre Louis VION et de Marie HAYE, mais Pierre Louis a été confondu avec son frère décédé. Le plus probable selon moi est que le maire de Brétignolles a fait une bonne grosse boulette quand on lui a demandé de fournir l'acte de naissance de Pierre Louis. Et que le maire de Nueil a recopié tout ça sans réfléchir. En plus la mauvaise orthographe du nom de famille "VILLON" n'a été faite que sur Pierre Henri, sur tous les autres papiers il s'agit bien de l'orthographe VION. Et au moment de signer, il est très probable que Pierre Louis et les témoins n'ont pas lu ou qu'ils ne savaient pas bien lire.
 
 
 
@@ -423,7 +431,7 @@ terres de son père.
 
 ### Acte de décès, Nueil-les-Aubiers, 24 août 1881
 
-![](C:\Users\Benjamin\AppData\Roaming\marktext\images\2020-10-02-22-05-32-image.png)
+<img src="./ActeDeces/vion_pierre_louis.png"/>
 
 Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta0a935bc3b471bb0b/daogrp/0/layout:table/idsearch:RECH_82000e6461037f5748515e017cb8b754#id:186568532?gallery=true&brightness=100.00&contrast=100.00¢er=2697.034,-1935.750&zoom=10&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vta0a935bc3b471bb0b/daogrp/0/layout:table/idsearch:RECH_82000e6461037f5748515e017cb8b754#id:186568532?gallery=true&brightness=100.00&contrast=100.00&center=2697.034,-1935.750&zoom=10&rotation=0.000)
 
@@ -438,8 +446,6 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta0a935bc3b471bb0b/
 | **Domicile**              | L'Antaizière, Nueil-sous-les-Aubiers (proche de Mauléon)                                                                                                           |
 | **Témoin 1 et déclarant** | VION Alexandre, son fils de 34 ans cultivateur à Galard au Pin                                                                                                     |
 | **Témoin 2**              | FUSEAU Victor, son gendre de 30 ans, cultivateur à Rorthais                                                                                                        |
-
-
 
 ### Second mariage à Rorthais, 22 novembre 1853
 
@@ -463,8 +469,6 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta07975308ebf35f86/
 | **Témoin 2 ami  du marié**             | François PERIDY, cultivateur de Saint-Aubin de Baubigné, 32 ans                      |
 | **Témoin 3 : frère de la mariée**      | Alexis PERIDY, cultivateur de Saint-Aubin de Baubigné, 30 ans                        |
 | **Témoin 4 : beau-frère de la mariée** | Boris _JANVIER_, maréchal à Saint-Aubin de Baubigné, 26 ans                          |
-
-
 
 ## HAYE, Marie Jeanne <a name="vion9"/>
 
@@ -504,13 +508,11 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vtae9bf5651e49ffdda/
 | **Témoin 1 et déclarant** | Jacques BOISSINOT, cultivateur de 55 ans demeurant à VIlleneuve à Boësse, voisin de la défunte |
 | **Témoin 2**              | Louis POINT, cultivateur de 59 ans demeurant à VIlleneuve à Boësse, voisin de la défunte       |
 
-## Mariage de Pierre VION et de Marie HAYE
+## Mariage de Pierre VION et de Marie HAYE <a name="vionhaye"/>
 
 <img src="./ActeMariage/vion_haye.png"/>
 
 Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta258e1a056ace7688/daogrp/0/layout:table/idsearch:RECH_82000e6461037f5748515e017cb8b754#id:879573280?gallery=true&brightness=100.00&contrast=100.00¢er=2750.896,-1287.889&zoom=8&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vta258e1a056ace7688/daogrp/0/layout:table/idsearch:RECH_82000e6461037f5748515e017cb8b754#id:879573280?gallery=true&brightness=100.00&contrast=100.00&center=2750.896,-1287.889&zoom=8&rotation=0.000)
-
-
 
 ### Résumé
 
@@ -531,4 +533,26 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta258e1a056ace7688/
 
 ---
 
+## Recensement en 1866 à Nueil-sur-Argent
+
+A ce moment-là, Pierre Louis VION s'était remarié avec Celeste Peridy. Ils habitaient ensemble à l'Antaizière avec les deux enfants de Pierre Louis (Alexandre et Auguste) et les 5 autres enfants qu'ils ont eu ensemble.
+
+<img src="./Recensement/vion_peridy.png"/>
+
+Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta9d80c608f03495a9/daogrp/0/layout:table/idsearch:RECH_1448bb136174b690ba907d290cfe639b#id:517462869?gallery=true&brightness=100.00&contrast=100.00¢er=1281.596,-2529.934&zoom=11&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vta9d80c608f03495a9/daogrp/0/layout:table/idsearch:RECH_1448bb136174b690ba907d290cfe639b#id:517462869?gallery=true&brightness=100.00&contrast=100.00&center=1281.596,-2529.934&zoom=11&rotation=0.000)
+
+
+
+---
+
+
+
+<img src="./Arbre/vion5.png"/>
+
 ## VION, Pierre <a name="vion10"/>
+
+## Recensement en 1836 à La Coudre
+
+A ce moment-là, ils vivaient seuls avec leur dernière fille Marie née en 1824 (11 ans)
+
+Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vtab4b867e370b804e7/daogrp/0/layout:table/idsearch:RECH_ac8759c32f4fed7e511f97fa759541fe#id:67093996?gallery=true&brightness=100.00&contrast=100.00¢er=639.461,-2666.837&zoom=12&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vtab4b867e370b804e7/daogrp/0/layout:table/idsearch:RECH_ac8759c32f4fed7e511f97fa759541fe#id:67093996?gallery=true&brightness=100.00&contrast=100.00&center=639.461,-2666.837&zoom=12&rotation=0.000)
