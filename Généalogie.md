@@ -397,7 +397,7 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta17416c30b8588002/
 
 ## Préambule
 
-Je n'ai trouvé aucune preuve de mariage entre Pierre Louis VION et Marie Jeanne HAYE.  Mais Marie HAYE s'est mariée en 1845 à Pierre Henri VION, le petit frère de Pierre Louis  Cependant, ce vrai Pierre Henri VION est décédé à l'âge de 11 ans en 1828. Et c'est bien Pierre Louis et Marie HAYE les parents d'Alexandre et d'Auguste. 
+Je n'ai trouvé aucune preuve de mariage entre Pierre Louis VION et Marie Jeanne HAYE.  Mais Marie HAYE s'est mariée en 1845 à Pierre Henri VION, le petit frère de Pierre Louis. Cependant, ce vrai Pierre Henri VION est décédé à l'âge de 11 ans en 1828. Et c'est bien Pierre Louis et Marie HAYE les parents d'Alexandre et d'Auguste. 
 
 Donc il semble évident que l'acte de mariage que j'ai trouvé soit bien celui de Pierre Louis VION et de Marie HAYE, mais Pierre Louis a été confondu avec son frère décédé. Le plus probable selon moi est que le maire de Brétignolles a fait une bonne grosse boulette quand on lui a demandé de fournir l'acte de naissance de Pierre Louis. Et que le maire de Nueil a recopié tout ça sans réfléchir. En plus la mauvaise orthographe du nom de famille "VILLON" n'a été faite que sur Pierre Henri, sur tous les autres papiers il s'agit bien de l'orthographe VION. Et au moment de signer, il est très probable que Pierre Louis et les témoins n'ont pas lu ou qu'ils ne savaient pas bien lire.
 
