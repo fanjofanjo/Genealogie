@@ -53,8 +53,8 @@ Parfois j'ai des doutes sur certaines informations, auquel cas elles sont en *it
   - [Mariage de Pierre VION et de Marie HAYE](#vionhaye)
   
   - [VION, Pierre](#vion10)
-  
-  - 
+    
+    
 
 # Souche de l'arbre <a name="souche"></a>
 
@@ -554,5 +554,7 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta9d80c608f03495a9/
 ## Recensement en 1836 à La Coudre
 
 A ce moment-là, ils vivaient seuls avec leur dernière fille Marie née en 1824 (11 ans)
+
+<img src="./Recensement/vion_moreau.png"/>
 
 Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vtab4b867e370b804e7/daogrp/0/layout:table/idsearch:RECH_ac8759c32f4fed7e511f97fa759541fe#id:67093996?gallery=true&brightness=100.00&contrast=100.00¢er=639.461,-2666.837&zoom=12&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vtab4b867e370b804e7/daogrp/0/layout:table/idsearch:RECH_ac8759c32f4fed7e511f97fa759541fe#id:67093996?gallery=true&brightness=100.00&contrast=100.00&center=639.461,-2666.837&zoom=12&rotation=0.000)
