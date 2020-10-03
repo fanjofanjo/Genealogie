@@ -255,6 +255,12 @@ Ils vivaient tous les deux en 1906 chez la famille du frère de Pierre (qui s'ap
 
 Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vtad3843cd9a4ffc3ea/daogrp/0#id:677790955?gallery=true¢er=1405.000,-2467.000&zoom=11&rotation=0.000&brightness=100.00&contrast=100.00](https://archives-deux-sevres-vienne.fr/ark:/58825/vtad3843cd9a4ffc3ea/daogrp/0#id:677790955?gallery=true&center=1405.000,-2467.000&zoom=11&rotation=0.000&brightness=100.00&contrast=100.00)
 
+
+
+---
+
+
+
 <img src="./Arbre/vion3.png"/>
 
 ## VION, Alexandre Pierre <a name="vion6" />
@@ -279,7 +285,7 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta9d5327f8a243a368/
 
 ### Acte de décès, Combrand, 04 janvier 1892
 
-<img src="./ActeNaissance/vion_alexandre_pierre.png"/>
+<img src="./ActeDeces/vion_alexandre_pierre.png"/>
 
 Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta9949bf08ff2ef02c/daogrp/0/layout:table/idsearch:RECH_4c0fcec1a3e5ebbf674360db1ff654a4#id:83859069?gallery=true&brightness=100.00&contrast=100.00¢er=3073.358,-1855.405&zoom=12&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vta9949bf08ff2ef02c/daogrp/0/layout:table/idsearch:RECH_4c0fcec1a3e5ebbf674360db1ff654a4#id:83859069?gallery=true&brightness=100.00&contrast=100.00&center=3073.358,-1855.405&zoom=12&rotation=0.000)
 
@@ -295,11 +301,28 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta9949bf08ff2ef02c/
 | **Témoin 1 et déclarant** | VION Auguste, frère, 44 ans, cultivateur au Pin               |
 | **Témoin 2**              | MAROLLEAU Auguste, 31 ans, cultivateur à Combrand, beau-frère |
 
-### Second mariage à Combrand
+### Second mariage à Combrand, 29 avril 1884
 
 <img src="./ActeMariage/vion_marolleau.png"/>
 
 Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta1d14e756a3ce1e86/daogrp/0/layout:table/idsearch:RECH_4c0fcec1a3e5ebbf674360db1ff654a4#id:508798388?gallery=true&brightness=100.00&contrast=100.00¢er=1779.938,-1377.973&zoom=9&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vta1d14e756a3ce1e86/daogrp/0/layout:table/idsearch:RECH_4c0fcec1a3e5ebbf674360db1ff654a4#id:508798388?gallery=true&brightness=100.00&contrast=100.00&center=1779.938,-1377.973&zoom=9&rotation=0.000)
+
+### Résumé
+
+| Commune                            | Combrand, canton de Cerizay                                                                                                                |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Mari**                           | Pierre Alexandre VION, 37 ans, né à la Coudre le 18 avril 1847, cultivateur demeurant au Pin, veuf en premières noces de Philomène HERAULT |
+| **Femme**                          | Elisa Victorine MAROLLEAU, 29 ans, née à Noirterre le 7 octobre 1854, sans profession, demeurant à Combrand                                |
+| **Mariage**                        | 7 novembre 1905 à 09h00 du matin                                                                                                           |
+| **Père du marié**                  | Pierre VION, décédé à Nueil-les-Aubiers le 24 août 1881                                                                                    |
+| **Mère du marié**                  | Marie-Jeanne HAYE, décédée à Boësse le 3 octobre 1851                                                                                      |
+| **Père de la mariée**              | Pierre MAROLLEAU, cultivateur de 68 ans à Combrand                                                                                         |
+| **Mère de la mariée**              | Euphrosine GOTREAU, 58 ans à Combrand                                                                                                      |
+| **Domicile**                       | N/A                                                                                                                                        |
+| **Témoin 1 : frère du marié**      | Auguste VION, 35 ans, cultivateur à Rorthais                                                                                               |
+| **Témoin 2 : beau-frère du marié** | Elie COUTANT, 35 ans, cultivateur à Nueil                                                                                                  |
+| **Témoin 3 : frère de la mariée**  | Pierre MAROLLEAU, 33 ans, cultivateur à Terves                                                                                             |
+| **Témoin 4 : frère de la mariée**  | Auguste MAROLLEAU, 27 ans, cultivateur à Terves                                                                                            |
 
 ## HÉRAULT, Philomène Florine <a name="vion7"/>
 
@@ -344,3 +367,168 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vtadbe01efe1f23abc2/
 <img src="./ActeMariage/vion_herault.png"/>
 
 Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta17416c30b8588002/daogrp/0/layout:table/idsearch:RECH_333c0f504637b9034e708644fad3f5d6#id:168751679?gallery=true&brightness=100.00&contrast=100.00¢er=1691.138,-1221.279&zoom=9&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vta17416c30b8588002/daogrp/0/layout:table/idsearch:RECH_333c0f504637b9034e708644fad3f5d6#id:168751679?gallery=true&brightness=100.00&contrast=100.00&center=1691.138,-1221.279&zoom=9&rotation=0.000)
+
+### Résumé
+
+| Commune                           | Rorthais, canton de Châtillon                                                                                                |
+| --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Mari**                          | Pierre Alexandre VION, 27 ans, né à la Coudre le 18 avril 1847, cultivateur demeurant à Nueil                                |
+| **Femme**                         | Philomène Florine HERAULT, 24 ans née à Rorthais le 30 juillet 1849, sans profession, demeurant à la Basse Trappe à Rorthais |
+| **Mariage**                       | 16 juin 1874 à 8h00 du matin                                                                                                 |
+| **Père du marié**                 | Pierre VION, 60 ans, cultivateur à Nueil                                                                                     |
+| **Mère du marié**                 | Marie-Jeanne HAYE, décédée à Boësse le 3 octobre 1851                                                                        |
+| **Père de la mariée**             | Pierre HERAULT, cultivateur de 60 ans à Rorthais                                                                             |
+| **Mère de la mariée**             | Celeste MANCEAU, cultivateur à Rorthais                                                                                      |
+| **Domicile**                      | N/A                                                                                                                          |
+| **Témoin 1 : oncle du marié**     | Pierre BAUDIN, 52 ans, cultivateur à Combrand                                                                                |
+| **Témoin 2 : frère du marié**     | Auguste VION, 26 ans, cultivateur à Rorthais                                                                                 |
+| **Témoin 3 : oncle de la mariée** | Joseph ROI, 48 ans, cultivateur au Pin                                                                                       |
+| **Témoin 4 : oncle de la mariée** | Antoine HERAULT, 34 ans, cultivateur au Pin                                                                                  |
+
+---
+
+<img src="./Arbre/vion4.png"/>
+
+## Préambule
+
+Je n'ai trouvé aucune preuve de mariage entre Pierre Louis VION et Marie Jeanne HAYE.  Mais Marie HAYE s'est bien mariée à Pierre Henri VION, le petit frère de Pierre Louis. Et c'est bien Pierre Louis et Marie HAYE les parents d'Alexandre et d'Auguste. Donc quand Pierre Louis se remarie avec Celeste PERIDY en 1853 (2 ans après la mort de sa prétendue femme), et qu'il est dit qu'il est veuf en premières noces, bah j'ai des doutes ...
+
+
+
+## VION, Pierre Louis <a name="vion8"/>
+
+### Acte de naissance, Brétignolles, 10 février 1813
+
+<img src="./ActeNaissance/vion_pierre_louis.png"/>
+
+Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta81aa9c192a625b6c/daogrp/0/layout:table/idsearch:RECH_e19763a27cc693b1c31268ba86d62704#id:194212694?gallery=true&brightness=100.00&contrast=100.00¢er=2595.171,-1864.932&zoom=11&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vta81aa9c192a625b6c/daogrp/0/layout:table/idsearch:RECH_e19763a27cc693b1c31268ba86d62704#id:194212694?gallery=true&brightness=100.00&contrast=100.00&center=2595.171,-1864.932&zoom=11&rotation=0.000)
+
+#### Résumé
+
+| Commune                     | Brétignolles, canton de Cerizay              |
+| --------------------------- | -------------------------------------------- |
+| **Enfant**                  | Pierre Louis VION                            |
+| **Naissance**               | 10 février 1813 à 04h00 du matin             |
+| **Père, âge et profession** | Pierre Vion, <mark>bordier </mark> de 33 ans |
+| **Mère, âge et profession** | Marie MOREAU                                 |
+| **Domicile**                | Non indiqué (mais probablement Brétignolles) |
+| **Témoin 1**                | _Pierre HÉRAULT_, bordier                    |
+| **Témoin 2**                | Louis, oncle de l'enfant, bordier            |
+
+<mark>bordier</mark> : Exploitant (et souvent 
+habitant) un bourdou c'est-à-dire une grange. Ce terme désigne parfois 
+un métayer (la grange désignant aussi le pré qui l'entoure), mais le 
+plus souvent un fils non encore émancipé et exploitant une partie des 
+terres de son père.
+
+### Acte de décès, Nueil-les-Aubiers, 24 août 1881
+
+![](C:\Users\Benjamin\AppData\Roaming\marktext\images\2020-10-02-22-05-32-image.png)
+
+Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta0a935bc3b471bb0b/daogrp/0/layout:table/idsearch:RECH_82000e6461037f5748515e017cb8b754#id:186568532?gallery=true&brightness=100.00&contrast=100.00¢er=2697.034,-1935.750&zoom=10&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vta0a935bc3b471bb0b/daogrp/0/layout:table/idsearch:RECH_82000e6461037f5748515e017cb8b754#id:186568532?gallery=true&brightness=100.00&contrast=100.00&center=2697.034,-1935.750&zoom=10&rotation=0.000)
+
+#### Résumé
+
+| Commune                   | Nueil-sous-les-Aubiers, canton de Chatillon-sur-Sèvre                                                                                                              |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Décédé**                | Pierre VION, cultivateur, 68 ans. Marié à PERIDY Celeste                                                                                                           |
+| **le**                    | 24 août 1881 à 07h00 du matin                                                                                                                                      |
+| **Père**                  | Pierre VION, décédé à Nueil                                                                                                                                        |
+| **Mère**                  | Marie BOISSINOT (elle est née MOREAU, je sais pas si c'est une erreur ou si elle s'était remariée... improbable car son mari est décédé bien après elle), décédée. |
+| **Domicile**              | L'Antaizière, Nueil-sous-les-Aubiers (proche de Mauléon)                                                                                                           |
+| **Témoin 1 et déclarant** | VION Alexandre, son fils de 34 ans cultivateur à Galard au Pin                                                                                                     |
+| **Témoin 2**              | FUSEAU Victor, son gendre de 30 ans, cultivateur à Rorthais                                                                                                        |
+
+
+
+### Second mariage à Rorthais, 22 novembre 1853
+
+<img src="./ActeMariage/vion_peridy.png"/>
+
+Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta07975308ebf35f86/daogrp/0/layout:table/idsearch:RECH_333c0f504637b9034e708644fad3f5d6#id:2087173765?gallery=true&brightness=100.00&contrast=100.00¢er=2159.605,-1070.120&zoom=12&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vta07975308ebf35f86/daogrp/0/layout:table/idsearch:RECH_333c0f504637b9034e708644fad3f5d6#id:2087173765?gallery=true&brightness=100.00&contrast=100.00&center=2159.605,-1070.120&zoom=12&rotation=0.000)
+
+### Résumé
+
+| Commune                                | Rorthais, canton de Châtillon                                                        |
+| -------------------------------------- | ------------------------------------------------------------------------------------ |
+| **Mari**                               | Pierre Louis VION, 40 ans, demeurant à Boësse, veuf en premières noces de Marie HAYE |
+| **Femme**                              | Celeste PERIDY, sans profession, 30 ans                                              |
+| **Mariage**                            | 22 novembre 1853                                                                     |
+| **Père du marié**                      | Pierre VION, présent                                                                 |
+| **Mère du marié**                      | Marie MOREAU, décédée                                                                |
+| **Père de la mariée**                  | François PERIDY, décédé                                                              |
+| **Mère de la mariée**                  | Renée GUIET, présente                                                                |
+| **Domicile**                           | N/A                                                                                  |
+| **Témoin 1 : ami du marié**            | Pierre Marie PERIDY, cultivateur de Saint-Aubin de Baubigné, 40 ans                  |
+| **Témoin 2 ami  du marié**             | François PERIDY, cultivateur de Saint-Aubin de Baubigné, 32 ans                      |
+| **Témoin 3 : frère de la mariée**      | Alexis PERIDY, cultivateur de Saint-Aubin de Baubigné, 30 ans                        |
+| **Témoin 4 : beau-frère de la mariée** | Boris _JANVIER_, maréchal à Saint-Aubin de Baubigné, 26 ans                          |
+
+
+
+## HAYE, Marie Jeanne <a name="vion9"/>
+
+### Acte de naissance, Breuil-Chaussée, 7 août 1815
+
+<img src="./ActeNaissance/haye_marie.png"/>
+
+Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta2edfc844fea6bf59/daogrp/0/layout:table/idsearch:RECH_fad56a0db115df3938e14f91b895896e#id:1282733887?gallery=true&brightness=100.00&contrast=100.00¢er=2734.514,-1043.561&zoom=9&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vta2edfc844fea6bf59/daogrp/0/layout:table/idsearch:RECH_fad56a0db115df3938e14f91b895896e#id:1282733887?gallery=true&brightness=100.00&contrast=100.00&center=2734.514,-1043.561&zoom=9&rotation=0.000)
+
+#### Résumé
+
+| Commune                     | Breuil-Chaussée, canton de Bressuire                        |
+| --------------------------- | ----------------------------------------------------------- |
+| **Enfant**                  | Marie Jeanne HAYE                                           |
+| **Naissance**               | 07 août 1815 à 5h00 du matin                                |
+| **Père, âge et profession** | Jean HAYE, métayer                                          |
+| **Mère, âge et profession** | Jeanne THIBAUDEAU                                           |
+| **Domicile**                | Breuil-Chaussée                                             |
+| **Témoin 1**                | Louis THIBAUDEAU, grand-père de l'enfant, métayer de 60 ans |
+| **Témoin 2**                | Pierre THIBAUDEAU, oncle de l'enfant, métayer de 33 ans     |
+
+### Acte de décès, Boësse, 3 octobre 1851
+
+<img src="./ActeDeces/haye_marie.png"/>
+
+Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vtae9bf5651e49ffdda/daogrp/0/layout:table/idsearch:RECH_c40043737f5517e9095eb4c4cc81709c#id:94438502?gallery=true&brightness=100.00&contrast=100.00¢er=984.637,-2044.405&zoom=10&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vtae9bf5651e49ffdda/daogrp/0/layout:table/idsearch:RECH_c40043737f5517e9095eb4c4cc81709c#id:94438502?gallery=true&brightness=100.00&contrast=100.00&center=984.637,-2044.405&zoom=10&rotation=0.000)
+
+#### Résumé
+
+| Commune                   | Boësse, canton d'Argenton-Château                                                              |
+| ------------------------- | ---------------------------------------------------------------------------------------------- |
+| **Décédé**                | Marie HAYE, 36 ans                                                                             |
+| **le**                    | 3 octobre 1851 à 11h du matin                                                                  |
+| **Père**                  | Jean HAYE                                                                                      |
+| **Mère**                  | Marie THIBAUDEAU                                                                               |
+| **Domicile**              | La Basse Roche, Boësse                                                                         |
+| **Témoin 1 et déclarant** | Jacques BOISSINOT, cultivateur de 55 ans demeurant à VIlleneuve à Boësse, voisin de la défunte |
+| **Témoin 2**              | Louis POINT, cultivateur de 59 ans demeurant à VIlleneuve à Boësse, voisin de la défunte       |
+
+## Mariage de Pierre VION et de Marie HAYE
+
+<img src="./ActeMariage/vion_haye.png"/>
+
+Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta258e1a056ace7688/daogrp/0/layout:table/idsearch:RECH_82000e6461037f5748515e017cb8b754#id:879573280?gallery=true&brightness=100.00&contrast=100.00¢er=2750.896,-1287.889&zoom=8&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vta258e1a056ace7688/daogrp/0/layout:table/idsearch:RECH_82000e6461037f5748515e017cb8b754#id:879573280?gallery=true&brightness=100.00&contrast=100.00&center=2750.896,-1287.889&zoom=8&rotation=0.000)
+
+
+
+### Résumé
+
+| Commune                           | Nueil-sous-les-Aubiers, canton de Châtillon                                                                                                                                                           |
+| --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Mari**                          | Henri Pierre VILLON (j'ai failli ne jamais retrouver ce foutu mariage à cause de cette orthographe de VILLON ...), bordier, demeurant à La Coudre, 29 ans, né le 19 mai (erreur c'était en août) 1817 |
+| **Femme**                         | Marie Jeanne HAYE, sans profession, domiciliée à Nueil-sous-les-Aubiers, 29 ans, veuve de feu Jean Baptiste XXXX                                                                                      |
+| **Mariage**                       | 17 juin 1845 à 8h00 du matin                                                                                                                                                                          |
+| **Père du marié**                 | Pierre VION , cultivateur, présent                                                                                                                                                                    |
+| **Mère du marié**                 | Marie MOREAU, décédée à La Coudre le 3 mars 1845                                                                                                                                                      |
+| **Père de la mariée**             | Jean HAYE, décédé à Breuil-Chaussée le 22 décembre 1830                                                                                                                                               |
+| **Mère de la mariée**             | Marie Jeanne THIBAUDEAU, demeurant à Nueil, présente                                                                                                                                                  |
+| **Domicile**                      | N/A                                                                                                                                                                                                   |
+| **Témoin 1 : ami du marié**       | Pierre BEAU, instituteur, 31 ans                                                                                                                                                                      |
+| **Témoin 2 : ami du marié**       | Jean Pierre XXXXX, 39 ans, menuisier                                                                                                                                                                  |
+| **Témoin 3 : frère de la mariée** | Jean HAYE, métayer, 43 ans, à Brétignolles                                                                                                                                                            |
+| **Témoin 4 : frère de la mariée** | Louis HAYE, bordier, 25 ans, au Pin                                                                                                                                                                   |
+
+---
+
+## VION, Pierre <a name="vion10"/>
