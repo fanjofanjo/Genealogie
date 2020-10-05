@@ -53,8 +53,12 @@ Parfois j'ai des doutes sur certaines informations, auquel cas elles sont en *it
   - [Mariage de Pierre VION et de Marie HAYE](#vionhaye)
   
   - [VION, Pierre](#vion10)
-    
-    
+  
+  - [MOREAU, Marie Madeleine](#vion11)
+  
+  - [Mariage de Pierre VION et de Marie MOREAU](#vionmoreau)
+  
+  - [VION, Jean Pierre](#vion12)
 
 # Souche de l'arbre <a name="souche"></a>
 
@@ -401,8 +405,6 @@ Je n'ai trouvé aucune preuve de mariage entre Pierre Louis VION et Marie Jeanne
 
 Donc il semble évident que l'acte de mariage que j'ai trouvé soit bien celui de Pierre Louis VION et de Marie HAYE, mais Pierre Louis a été confondu avec son frère décédé. Le plus probable selon moi est que le maire de Brétignolles a fait une bonne grosse boulette quand on lui a demandé de fournir l'acte de naissance de Pierre Louis. Et que le maire de Nueil a recopié tout ça sans réfléchir. En plus la mauvaise orthographe du nom de famille "VILLON" n'a été faite que sur Pierre Henri, sur tous les autres papiers il s'agit bien de l'orthographe VION. Et au moment de signer, il est très probable que Pierre Louis et les témoins n'ont pas lu ou qu'ils ne savaient pas bien lire.
 
-
-
 ## VION, Pierre Louis <a name="vion8"/>
 
 ### Acte de naissance, Brétignolles, 10 février 1813
@@ -541,11 +543,7 @@ A ce moment-là, Pierre Louis VION s'était remarié avec Celeste Peridy. Ils ha
 
 Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta9d80c608f03495a9/daogrp/0/layout:table/idsearch:RECH_1448bb136174b690ba907d290cfe639b#id:517462869?gallery=true&brightness=100.00&contrast=100.00¢er=1281.596,-2529.934&zoom=11&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vta9d80c608f03495a9/daogrp/0/layout:table/idsearch:RECH_1448bb136174b690ba907d290cfe639b#id:517462869?gallery=true&brightness=100.00&contrast=100.00&center=1281.596,-2529.934&zoom=11&rotation=0.000)
 
-
-
 ---
-
-
 
 <img src="./Arbre/vion5.png"/>
 
@@ -565,7 +563,7 @@ Malheureusement les actes de naissances à Beaulieu n'existent que depuis 1795.
 
 ## Acte de décès
 
-// TODO : image
+<img src="./ActeDeces/vion_pierre.png"/>
 
 Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vtaaadeac145ba14ac2/daogrp/0/layout:table/idsearch:RECH_82000e6461037f5748515e017cb8b754#id:1531540785?gallery=true&brightness=100.00&contrast=100.00¢er=1150.488,-1851.225&zoom=11&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vtaaadeac145ba14ac2/daogrp/0/layout:table/idsearch:RECH_82000e6461037f5748515e017cb8b754#id:1531540785?gallery=true&brightness=100.00&contrast=100.00&center=1150.488,-1851.225&zoom=11&rotation=0.000)
 
@@ -581,7 +579,43 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vtaaadeac145ba14ac2/
 | **Témoin 1 et déclarant** | Pierre VION, 45 ans, demeurant à l'Antaizière, cultivateur, fils du défunt |
 | **Témoin 2**              | Pierre BERNIER, 38 ans, cultivateur à St Clémentin et gendre du défunt     |
 
-## MOREAU, Marie Madeleine
+## Registre de déclarations de successions
+
+<img src="./TableSuccessions/vion_pierre.png""/>
+
+Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta10663c0044ac9b89/daogrp/0/layout:table/idsearch:RECH_b4fdde5c5160327c207f47ec67c26344#id:1493916748?gallery=true&brightness=100.00&contrast=100.00¢er=2178.166,-1854.237&zoom=11&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vta10663c0044ac9b89/daogrp/0/layout:table/idsearch:RECH_b4fdde5c5160327c207f47ec67c26344#id:1493916748?gallery=true&brightness=100.00&contrast=100.00&center=2178.166,-1854.237&zoom=11&rotation=0.000)
+
+### Résumé
+
+"Succession directe de Pierre VEILLON décédé à Nueil le 22 août 1857"
+
+A comparu Pierre Louis VEILLON, métayer à Nueil 
+
+<u>Testament reçu à Argenton le 26 novembre 1853. Le défunt a stipulé qu'un tiers de ses possessions soit distribué comme suit</u>
+
+| Légataire                     | Part |
+| ----------------------------- | ---- |
+| Son fils Pierre Louis VION    | 4/24 |
+| Son petit-fils Alexandre VION | 3/24 |
+| Son petit-fils Auguste VION   | 1/24 |
+
+<u>Répartition des possessions restantes</u>
+
+| Légataire                                                                | Part |
+| ------------------------------------------------------------------------ | ---- |
+| Son fils Pierre Louis VION                                               | 8/24 |
+| Sa fille Marie VION, épouse de Pierre BERNIER, domestique à St-Clémentin | 8/24 |
+
+<u>Liste des possessions</u>
+
+| Possession            | Valeur en FRANCS       |
+| --------------------- | ---------------------- |
+| Mobilier              | 8269,70 F              |
+| Les recettes en terre | 300 F                  |
+| L'argent comptant     | 1521,09 F              |
+| **Total**             | <u>**10090, 79 F**</u> |
+
+## MOREAU, Marie Madeleine <a name="vion11"/>
 
 ### Acte de naissance
 
@@ -589,7 +623,7 @@ Malheureusement les actes de naissances à Brétignolles n'existent que depuis 1
 
 ## Acte de décès
 
-// TODO : image
+<img src="./ActeDeces/moreau_marie.png"/>
 
 Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta37c4d2048de7b5a9/daogrp/0/layout:table/idsearch:RECH_f9df069e235ccfcde6359174366ba5a7#id:920331379?gallery=true&brightness=100.00&contrast=100.00¢er=2471.827,-1841.569&zoom=11&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vta37c4d2048de7b5a9/daogrp/0/layout:table/idsearch:RECH_f9df069e235ccfcde6359174366ba5a7#id:920331379?gallery=true&brightness=100.00&contrast=100.00&center=2471.827,-1841.569&zoom=11&rotation=0.000)
 
@@ -605,9 +639,31 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta37c4d2048de7b5a9/
 | **Témoin 1 et déclarant** | René POUPLIN, bordier, 64 ans à La Coudre, voisin de la défunte                                                                |
 | **Témoin 2**              | Pierre BILLY, propriétaire, 37 ans à La Coudre,voisin de la défunte                                                            |
 
-## Mariage de Pierre VION et de Marie MOREAU
 
-// TODO : image
+
+## Registre de déclarations de successions
+
+<img src="./TableSuccessions/moreau_marie.png"/>
+
+Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta61e712b3e9d7e7df/daogrp/0/layout:table/idsearch:RECH_7ca1f985198eeef10c1e4acd82054e82#id:1797995227?gallery=true&brightness=100.00&contrast=100.00¢er=5011.437,-2222.686&zoom=12&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vta61e712b3e9d7e7df/daogrp/0/layout:table/idsearch:RECH_7ca1f985198eeef10c1e4acd82054e82#id:1797995227?gallery=true&brightness=100.00&contrast=100.00&center=5011.437,-2222.686&zoom=12&rotation=0.000)
+
+### Résumé
+
+<u>Comparants </u>
+
+Pierre Louis VEILLON et sa soeur Marie VEILLON
+
+<u>Possessions</u>
+
+Pas très lisibile malheureusement mais que des meubles. Une armoire, des vases, etc d'une valeur totale de <u>**2000 francs**</u>.
+
+<u>Légataires</u>
+
+Les comparants
+
+## Mariage de Pierre VION et de Marie MOREAU <a name="vionmoreau"/>
+
+<img src="./ActeMariage/vion_moreau.png"/>
 
 Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta929ed78528611645/daogrp/0/layout:table/idsearch:RECH_e19763a27cc693b1c31268ba86d62704#id:1745393667?gallery=true&brightness=100.00&contrast=100.00¢er=2304.483,-1915.025&zoom=11&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vta929ed78528611645/daogrp/0/layout:table/idsearch:RECH_e19763a27cc693b1c31268ba86d62704#id:1745393667?gallery=true&brightness=100.00&contrast=100.00&center=2304.483,-1915.025&zoom=11&rotation=0.000)
 
@@ -630,7 +686,7 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta929ed78528611645/
 
 ---
 
-## Jean Pierre VION
+## VION, Jean Pierre <a name="vion12"/>
 
 serait décédé entre 1780 et 1784 (date de naissance de Louis MORIN, le demi-frère de Pierre VION)
 
