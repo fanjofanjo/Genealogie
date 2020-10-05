@@ -558,3 +558,26 @@ A ce moment-là, ils vivaient seuls avec leur dernière fille Marie née en 1824
 <img src="./Recensement/vion_moreau.png"/>
 
 Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vtab4b867e370b804e7/daogrp/0/layout:table/idsearch:RECH_ac8759c32f4fed7e511f97fa759541fe#id:67093996?gallery=true&brightness=100.00&contrast=100.00¢er=639.461,-2666.837&zoom=12&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vtab4b867e370b804e7/daogrp/0/layout:table/idsearch:RECH_ac8759c32f4fed7e511f97fa759541fe#id:67093996?gallery=true&brightness=100.00&contrast=100.00&center=639.461,-2666.837&zoom=12&rotation=0.000)
+
+## Acte de naissance
+
+Malheureusement les actes de naissances à Beaulieu n'existent que depuis 1795.
+
+## Acte de décès
+
+// TODO : image
+
+Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vtaaadeac145ba14ac2/daogrp/0/layout:table/idsearch:RECH_82000e6461037f5748515e017cb8b754#id:1531540785?gallery=true&brightness=100.00&contrast=100.00¢er=1150.488,-1851.225&zoom=11&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vtaaadeac145ba14ac2/daogrp/0/layout:table/idsearch:RECH_82000e6461037f5748515e017cb8b754#id:1531540785?gallery=true&brightness=100.00&contrast=100.00&center=1150.488,-1851.225&zoom=11&rotation=0.000)
+
+#### Résumé
+
+| Commune                   | Nueil-sous-les-Aubiers, canton de Chatillon                                |
+| ------------------------- | -------------------------------------------------------------------------- |
+| **Décédé**                | Pierre VION, 79 ans, né à Beaulieu, cultivateur                            |
+| **le**                    | 23 août 1857, 9h du matin                                                  |
+| **Père**                  | Pierre VION                                                                |
+| **Mère**                  | Renseignement non fourni                                                   |
+| **Domicile**              | L'Antaizière, Nueil-sous-les-Aubiers                                       |
+| **Témoin 1 et déclarant** | Pierre VION, 45 ans, demeurant à l'Antaizière, cultivateur, fils du défunt |
+| **Témoin 2**              | Pierre BERNIER, 38 ans, cultivateur à St Clémentin et gendre du défunt     |
+
