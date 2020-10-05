@@ -581,3 +581,57 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vtaaadeac145ba14ac2/
 | **Témoin 1 et déclarant** | Pierre VION, 45 ans, demeurant à l'Antaizière, cultivateur, fils du défunt |
 | **Témoin 2**              | Pierre BERNIER, 38 ans, cultivateur à St Clémentin et gendre du défunt     |
 
+## MOREAU, Marie Madeleine
+
+### Acte de naissance
+
+Malheureusement les actes de naissances à Brétignolles n'existent que depuis 1803.
+
+## Acte de décès
+
+// TODO : image
+
+Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta37c4d2048de7b5a9/daogrp/0/layout:table/idsearch:RECH_f9df069e235ccfcde6359174366ba5a7#id:920331379?gallery=true&brightness=100.00&contrast=100.00¢er=2471.827,-1841.569&zoom=11&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vta37c4d2048de7b5a9/daogrp/0/layout:table/idsearch:RECH_f9df069e235ccfcde6359174366ba5a7#id:920331379?gallery=true&brightness=100.00&contrast=100.00&center=2471.827,-1841.569&zoom=11&rotation=0.000)
+
+#### Résumé
+
+| Commune                   | La Coudre, canton d'Argenton-le-Château                                                                                        |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Décédée**               | Marie MOREAU, 63 ans, cultivatrice à La Coudre, née à Brétignolles, de son vivant épouse de Pierre VION, cultivateur de 65 ans |
+| **le**                    | 3 mars 1845 à 11h00 du matin                                                                                                   |
+| **Père**                  | Pierre MOREAU                                                                                                                  |
+| **Mère**                  | Marie PALLUAUT, décédée à Brétignolles                                                                                         |
+| **Domicile**              | La Coudre                                                                                                                      |
+| **Témoin 1 et déclarant** | René POUPLIN, bordier, 64 ans à La Coudre, voisin de la défunte                                                                |
+| **Témoin 2**              | Pierre BILLY, propriétaire, 37 ans à La Coudre,voisin de la défunte                                                            |
+
+## Mariage de Pierre VION et de Marie MOREAU
+
+// TODO : image
+
+Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta929ed78528611645/daogrp/0/layout:table/idsearch:RECH_e19763a27cc693b1c31268ba86d62704#id:1745393667?gallery=true&brightness=100.00&contrast=100.00¢er=2304.483,-1915.025&zoom=11&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vta929ed78528611645/daogrp/0/layout:table/idsearch:RECH_e19763a27cc693b1c31268ba86d62704#id:1745393667?gallery=true&brightness=100.00&contrast=100.00&center=2304.483,-1915.025&zoom=11&rotation=0.000)
+
+### Résumé
+
+| Commune                            | Brétignolles, arrondissement de Bressuire                               |
+| ---------------------------------- | ----------------------------------------------------------------------- |
+| **Mari**                           | Pierre VION, domestique âgé de 28 ans, né à Beaulieu le 10 mars 1780    |
+| **Femme**                          | Marie Madeleine MOREAU, née à Brétignolles le 28 novembre 1782 (25 ans) |
+| **Mariage**                        | 15 novembre 1808                                                        |
+| **Père du marié**                  | Jean Pierre VION , bordier de son vivant en la commune de Beaulieu      |
+| **Mère du marié**                  | Perrine RICHARD, 62 ans, habite à Beaulieu, ici présente                |
+| **Père de la mariée**              | François MOREAU                                                         |
+| **Mère de la mariée**              | Marie Madeleine PALLUAU , décédée                                       |
+| **Domicile**                       | N/A                                                                     |
+| **Témoin 1 : demi-frère du marié** | Louis André MORIN, domestique à Beaulieu, 24 ans                        |
+| **Témoin 2 : ami du marié**        | Jacques XXXXXXX, 45 ans                                                 |
+| **Témoin 3 : frère de la mariée**  | Pierre MOREAU, 36 ans, domestique                                       |
+| **Témoin 4 : frère de la mariée**  | Pierre HERAULT, bordier à Brétignolles, 40 ans                          |
+
+---
+
+## Jean Pierre VION
+
+serait décédé entre 1780 et 1784 (date de naissance de Louis MORIN, le demi-frère de Pierre VION)
+
+se serait marié probablement à Boismé (commune de naissance de son épouse) avant 1780
