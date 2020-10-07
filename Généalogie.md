@@ -14,7 +14,7 @@
 
 Ce document vise à regrouper l'intégralité de mes recherches sur ma généalogie. Chaque individu en ligne directe a fait l'objet de recherches approfondies et a une section dédiée qui rassemble toutes les sources et toutes les informations que j'ai pu glaner au fil de mes recherches. On y retrouve essentiellement les extraits d'actes de naissance, mariage, décès pour les individus nés après 1795 et avant 1912 (ou 1902 selon le département de naissance). 
 
-Chaque famille possède sa section qui permet de connaître l'ensemble de la fratrie, les remariages, etc. 
+Chaque famille possède sa section qui permet de connaître l'ensemble de la fratrie, les remariages, les héritages, etc. 
 
 Parfois j'ai des doutes sur certaines informations, auquel cas elles sont en *italique* dans le document.
 
@@ -176,7 +176,7 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta1e5ca6803dd75d52/
 
 Le 7 novembre 1905, à la mairie du Pin avec Adélina BRÉBION
 
-#### Service militaire
+### Service militaire
 
 <img src="./Militaire/vion_pierre.png"/>
 
@@ -261,7 +261,7 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta03f2d1e6f4f4b20b/
 | __Témoin 3 : ami de la mariée__   | Louis CHAUVET, 54 ans, cultivateur au Pin                                                                        |
 | __Témoin 4 : oncle de la mariée__ | Alexis *PERRAULT*, 59 ans,  cultivateur à Nueil les Aubiers                                                      |
 
-### Recensement
+## Recensement
 
 Ils vivaient tous les deux en 1906 chez la famille du frère de Pierre (qui s'appelait aussi Pierre)
 
@@ -317,7 +317,7 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta9949bf08ff2ef02c/
 
 Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta1d14e756a3ce1e86/daogrp/0/layout:table/idsearch:RECH_4c0fcec1a3e5ebbf674360db1ff654a4#id:508798388?gallery=true&brightness=100.00&contrast=100.00¢er=1779.938,-1377.973&zoom=9&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vta1d14e756a3ce1e86/daogrp/0/layout:table/idsearch:RECH_4c0fcec1a3e5ebbf674360db1ff654a4#id:508798388?gallery=true&brightness=100.00&contrast=100.00&center=1779.938,-1377.973&zoom=9&rotation=0.000)
 
-### Résumé
+#### Résumé
 
 | Commune                            | Combrand, canton de Cerizay                                                                                                                |
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -333,6 +333,66 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta1d14e756a3ce1e86/
 | **Témoin 2 : beau-frère du marié** | Elie COUTANT, 35 ans, cultivateur à Nueil                                                                                                  |
 | **Témoin 3 : frère de la mariée**  | Pierre MAROLLEAU, 33 ans, cultivateur à Terves                                                                                             |
 | **Témoin 4 : frère de la mariée**  | Auguste MAROLLEAU, 27 ans, cultivateur à Terves                                                                                            |
+
+### Succession
+
+<img src="./TableSuccessions/vion_alexandre_table.png"/>
+
+Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vtae98b68646e650325/daogrp/0/layout:table/idsearch:RECH_8562a597d4443226cae4b5c39798c61d#id:127863338?gallery=true&brightness=100.00&contrast=100.00¢er=1331.110,-2830.822&zoom=12&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vtae98b68646e650325/daogrp/0/layout:table/idsearch:RECH_8562a597d4443226cae4b5c39798c61d#id:127863338?gallery=true&brightness=100.00&contrast=100.00&center=1331.110,-2830.822&zoom=12&rotation=0.000)
+
+<img src="./TableSuccessions/vion_alexandre_registre.png"/>
+
+Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vtab0cb69672803d878/daogrp/0/layout:table/idsearch:RECH_504bb3a226108d5d6470491ce18e345f#id:1790817912?gallery=true&brightness=100.00&contrast=100.00¢er=4481.442,-3098.329&zoom=14&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vtab0cb69672803d878/daogrp/0/layout:table/idsearch:RECH_504bb3a226108d5d6470491ce18e345f#id:1790817912?gallery=true&brightness=100.00&contrast=100.00&center=4481.442,-3098.329&zoom=14&rotation=0.000)
+
+#### Résumé
+
+Succession directe et entre époux de VION Alexandre (46 ans) décédé à Combrand le 4 janvier 1892
+
+VION Alexandre, cultivateur à Ligonière (Combrand), veuf en premières noces avec 3 enfants de Philomène HERAULT (**succession payée le 10 novembre 1887**) et époux en secondes noces de Elilsa Victorine MAROLLEAU, laisse pour héritier :
+
+- ses enfants issus du premier lit (j'adore l'expression), tous les 3 mineurs sous la tutelle de leur oncle VION Auguste, cultivateur au Pin
+  
+  - VION Philomène
+  
+  - VION Alexandre
+  
+  - VION Pierre
+
+- ses enfants issus du second lit
+  
+  - VION Augustine Alexandrie Virginie
+  
+  - Marie-Victoire
+    
+    - toutes deux mineures sous la tutelle de leur mère Victorine MAROLLEAU à Combrand
+  
+  - Victor Joseph
+  
+  - Marguerite Euphrosine Juliette
+    
+    - tous deux habile à recueillir l'usufruit d'1/4 de la succession en vertu de la loi du 9 mars 1891
+
+Inventaire enreigstré le 20 janvier 1892
+
+Divers meubles et objets mobiiliers ont été vendus
+
+La succession consiste en :
+
+- Meubles
+  
+  - Vendus : 2656,25 francs
+  
+  - Non vendus : 952,80 francs
+
+- Argent comptant : 10 francs
+
+- Recettes en terre : 100 francs
+
+Dans cette somme sont compris les droits des enfants du premier lit dont:
+
+1. la succession de leur mère décédée le 9 juin 1880 : 395,49 francs
+
+2. la succession de leur grand-père Pierre HERAULT décédé au Pin le 17 juin 1887 : 2047,32 francs
 
 ## HÉRAULT, Philomène Florine <a name="vion7"/>
 
@@ -455,7 +515,7 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta0a935bc3b471bb0b/
 
 Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta07975308ebf35f86/daogrp/0/layout:table/idsearch:RECH_333c0f504637b9034e708644fad3f5d6#id:2087173765?gallery=true&brightness=100.00&contrast=100.00¢er=2159.605,-1070.120&zoom=12&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vta07975308ebf35f86/daogrp/0/layout:table/idsearch:RECH_333c0f504637b9034e708644fad3f5d6#id:2087173765?gallery=true&brightness=100.00&contrast=100.00&center=2159.605,-1070.120&zoom=12&rotation=0.000)
 
-### Résumé
+#### Résumé
 
 | Commune                                | Rorthais, canton de Châtillon                                                        |
 | -------------------------------------- | ------------------------------------------------------------------------------------ |
@@ -471,6 +531,54 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta07975308ebf35f86/
 | **Témoin 2 ami  du marié**             | François PERIDY, cultivateur de Saint-Aubin de Baubigné, 32 ans                      |
 | **Témoin 3 : frère de la mariée**      | Alexis PERIDY, cultivateur de Saint-Aubin de Baubigné, 30 ans                        |
 | **Témoin 4 : beau-frère de la mariée** | Boris _JANVIER_, maréchal à Saint-Aubin de Baubigné, 26 ans                          |
+
+### Registre de déclarations de successions
+
+<img src="./TableSuccessions/vion_pierre_louis.png"/>
+
+Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vtaa4c60d09826e5083/daogrp/0/layout:table/idsearch:RECH_b4fdde5c5160327c207f47ec67c26344#id:449030490?gallery=true&brightness=100.00&contrast=100.00¢er=5106.223,-3794.977&zoom=11&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vtaa4c60d09826e5083/daogrp/0/layout:table/idsearch:RECH_b4fdde5c5160327c207f47ec67c26344#id:449030490?gallery=true&brightness=100.00&contrast=100.00&center=5106.223,-3794.977&zoom=11&rotation=0.000)
+
+#### Résumé
+
+Le 26 octobre 1881 a comparu Auguste VION, cultivateur à la Basse-Trappe à Rorthais. Il a déclaré le décès de son père Pierre VION, demeurant à l'Antaizière à Nueil, le 23 août 1881, époux de Celeste PERIDY.
+
+Il laisse pour hériter ses enfants :
+
+- Enfants qu'il a eu avec Marie HAYE
+  
+  - Auguste (le comparant)
+  
+  - Alexandre VION, cultivateur à Gallard, commune du Pin
+
+- Enfants qu'il a eu avec Celeste PERIDY
+  
+  - Célestin, soldat, domicilié à l'Antaizière
+  
+  - Marie, femme de Victor FUSEAU, cultivateur à Rorthais
+  
+  - Alexandrine, femme d'Elie Coutant, domestique à l'Antaizière
+  
+  - Pierre, mineur
+  
+  - Célestine, mineur
+
+Ainsi que les membres de la famille JOFFRION, tous cultivateurs au lieu dit de La Planche
+
+- Henri
+
+- Louis
+
+- Anastasie, femme de Pierre PASQUIER
+
+- Julie
+
+et Rosalie JOFFRION, femme de Louis GUIGNARD.
+
+**Succession**
+
+| Légataire                                            | Part                                                                            |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------- |
+| Henri JOFFRION, Louis JOFFRION et les époux PASQUIER | 1/4 chacun des parts de la société verbale d'agriculture (total de 3990 francs) |
 
 ## HAYE, Marie Jeanne <a name="vion9"/>
 
@@ -549,19 +657,11 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta9d80c608f03495a9/
 
 ## VION, Pierre <a name="vion10"/>
 
-## Recensement en 1836 à La Coudre
-
-A ce moment-là, ils vivaient seuls avec leur dernière fille Marie née en 1824 (11 ans)
-
-<img src="./Recensement/vion_moreau.png"/>
-
-Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vtab4b867e370b804e7/daogrp/0/layout:table/idsearch:RECH_ac8759c32f4fed7e511f97fa759541fe#id:67093996?gallery=true&brightness=100.00&contrast=100.00¢er=639.461,-2666.837&zoom=12&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vtab4b867e370b804e7/daogrp/0/layout:table/idsearch:RECH_ac8759c32f4fed7e511f97fa759541fe#id:67093996?gallery=true&brightness=100.00&contrast=100.00&center=639.461,-2666.837&zoom=12&rotation=0.000)
-
-## Acte de naissance
+### Acte de naissance
 
 Malheureusement les actes de naissances à Beaulieu n'existent que depuis 1795.
 
-## Acte de décès
+### Acte de décès
 
 <img src="./ActeDeces/vion_pierre.png"/>
 
@@ -579,7 +679,7 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vtaaadeac145ba14ac2/
 | **Témoin 1 et déclarant** | Pierre VION, 45 ans, demeurant à l'Antaizière, cultivateur, fils du défunt |
 | **Témoin 2**              | Pierre BERNIER, 38 ans, cultivateur à St Clémentin et gendre du défunt     |
 
-## Registre de déclarations de successions
+## Succession
 
 <img src="./TableSuccessions/vion_pierre.png""/>
 
@@ -639,9 +739,7 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta37c4d2048de7b5a9/
 | **Témoin 1 et déclarant** | René POUPLIN, bordier, 64 ans à La Coudre, voisin de la défunte                                                                |
 | **Témoin 2**              | Pierre BILLY, propriétaire, 37 ans à La Coudre,voisin de la défunte                                                            |
 
-
-
-## Registre de déclarations de successions
+## Succession
 
 <img src="./TableSuccessions/moreau_marie.png"/>
 
@@ -667,7 +765,7 @@ Les comparants
 
 Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta929ed78528611645/daogrp/0/layout:table/idsearch:RECH_e19763a27cc693b1c31268ba86d62704#id:1745393667?gallery=true&brightness=100.00&contrast=100.00¢er=2304.483,-1915.025&zoom=11&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vta929ed78528611645/daogrp/0/layout:table/idsearch:RECH_e19763a27cc693b1c31268ba86d62704#id:1745393667?gallery=true&brightness=100.00&contrast=100.00&center=2304.483,-1915.025&zoom=11&rotation=0.000)
 
-### Résumé
+#### Résumé
 
 | Commune                            | Brétignolles, arrondissement de Bressuire                               |
 | ---------------------------------- | ----------------------------------------------------------------------- |
@@ -684,6 +782,16 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta929ed78528611645/
 | **Témoin 3 : frère de la mariée**  | Pierre MOREAU, 36 ans, domestique                                       |
 | **Témoin 4 : frère de la mariée**  | Pierre HERAULT, bordier à Brétignolles, 40 ans                          |
 
+## Recensement en 1836 à La Coudre
+
+A ce moment-là, ils vivaient seuls avec leur dernière fille Marie née en 1824 (11 ans)
+
+<img src="./Recensement/vion_moreau.png"/>
+
+Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vtab4b867e370b804e7/daogrp/0/layout:table/idsearch:RECH_ac8759c32f4fed7e511f97fa759541fe#id:67093996?gallery=true&brightness=100.00&contrast=100.00¢er=639.461,-2666.837&zoom=12&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vtab4b867e370b804e7/daogrp/0/layout:table/idsearch:RECH_ac8759c32f4fed7e511f97fa759541fe#id:67093996?gallery=true&brightness=100.00&contrast=100.00&center=639.461,-2666.837&zoom=12&rotation=0.000)
+
+
+
 ---
 
 ## VION, Jean Pierre <a name="vion12"/>
@@ -691,3 +799,25 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta929ed78528611645/
 serait décédé entre 1780 et 1784 (date de naissance de Louis MORIN, le demi-frère de Pierre VION)
 
 se serait marié probablement à Boismé (commune de naissance de son épouse) avant 1780
+
+
+
+## RICHARD, Perrine
+
+### Acte de décès
+
+<img src="./ActeDeces/richard_perrine.png"/>
+
+Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vtadfabf3cb8952ff5b/daogrp/0/layout:table/idsearch:RECH_edcc25fdef6a134941483e5e6a96d0ef#id:1586280093?gallery=true&brightness=100.00&contrast=100.00¢er=2792.194,-2009.145&zoom=10&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vtadfabf3cb8952ff5b/daogrp/0/layout:table/idsearch:RECH_edcc25fdef6a134941483e5e6a96d0ef#id:1586280093?gallery=true&brightness=100.00&contrast=100.00&center=2792.194,-2009.145&zoom=10&rotation=0.000)  
+
+#### Résumé
+
+| Commune                   | Beaulieu-sous-Bressuire, arrondissement de Bressuire                 |
+| ------------------------- | -------------------------------------------------------------------- |
+| **Décédée**               | Perrine RICHARD, fileuse de quenouille, 74 ans, femme de Louis MORIN |
+| **le**                    | 31 janvier 1815 à 8h du matin                                        |
+| **Père**                  |                                                                      |
+| **Mère**                  |                                                                      |
+| **Domicile**              | Beaulieu                                                             |
+| **Témoin 1 et déclarant** | Louis MORIN, son fils de 31 ans demeurant à Beaulieu                 |
+| **Témoin 2**              |                                                                      |
