@@ -59,6 +59,8 @@ Parfois j'ai des doutes sur certaines informations, auquel cas elles sont en *it
   - [Mariage de Pierre VION et de Marie MOREAU](#vionmoreau)
   
   - [VION, Jean Pierre](#vion12)
+  
+  - [RICHARD, Perrine](#vion13)
 
 # Souche de l'arbre <a name="souche"></a>
 
@@ -455,6 +457,36 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta17416c30b8588002/
 | **Témoin 3 : oncle de la mariée** | Joseph ROI, 48 ans, cultivateur au Pin                                                                                       |
 | **Témoin 4 : oncle de la mariée** | Antoine HERAULT, 34 ans, cultivateur au Pin                                                                                  |
 
+
+
+## Recensement au Pin en 1876
+
+5 ans plus tôt, Philomène était encore de ce monde et ils avaient leur petite fille de 2 ans. Ils habitaient chez les beaux-parents.
+
+<img src="./Recensement/vion_herault_1876.png"/>
+
+Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta09db87e5d1fe9181/daogrp/0/layout:table/idsearch:RECH_be74a4e13b968804ba02072bf4c8f668#id:979053937?gallery=true&brightness=100.00&contrast=100.00¢er=1239.888,-2162.188&zoom=12&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vta09db87e5d1fe9181/daogrp/0/layout:table/idsearch:RECH_be74a4e13b968804ba02072bf4c8f668#id:979053937?gallery=true&brightness=100.00&contrast=100.00&center=1239.888,-2162.188&zoom=12&rotation=0.000)
+
+
+
+## Recensement au Pin en 1881
+
+Philomène HERAULT la mère de famille était décédée l'année passée. Ils habitaient à 9 à Galard. Alexandre (49 ans) habitait chez ses beaux-parents Pierre HERAULT et Celestine MANCEAU, avec ses 3 enfants Philomène 6 ans, Alexandre 5 ans et Pierre 2 ans.
+
+<img src="./Recensement/vion_herault_1881.png"/>
+
+Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vtaae2a264435398c4d/daogrp/0/layout:table/idsearch:RECH_c9ddcebc46ea43efdb5c3fd3c568544c#id:839602266?gallery=true&brightness=100.00&contrast=100.00¢er=1227.009,-1610.911&zoom=10&rotation=0.000
+
+
+
+## Recensement au Pin en 1886
+
+Seule Philomène VION l'ainée de 10 ans est recensée avec la belle-famille. Elle ne voulait peut-être pas vivre avec la nouvelle femme de son père (mariés en 1884) ...
+
+<img src="./Recensement/vion_herault_1886.png"/>
+
+Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vtaae2a264435398c4d/daogrp/0/layout:table/idsearch:RECH_c9ddcebc46ea43efdb5c3fd3c568544c#id:839602266?gallery=true&brightness=100.00&contrast=100.00¢er=1227.009,-1610.911&zoom=10&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vtaae2a264435398c4d/daogrp/0/layout:table/idsearch:RECH_c9ddcebc46ea43efdb5c3fd3c568544c#id:839602266?gallery=true&brightness=100.00&contrast=100.00%C2%A2er=1227.009,-1610.911&zoom=10&rotation=0.000)
+
 ---
 
 <img src="./Arbre/vion4.png"/>
@@ -790,8 +822,6 @@ A ce moment-là, ils vivaient seuls avec leur dernière fille Marie née en 1824
 
 Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vtab4b867e370b804e7/daogrp/0/layout:table/idsearch:RECH_ac8759c32f4fed7e511f97fa759541fe#id:67093996?gallery=true&brightness=100.00&contrast=100.00¢er=639.461,-2666.837&zoom=12&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vtab4b867e370b804e7/daogrp/0/layout:table/idsearch:RECH_ac8759c32f4fed7e511f97fa759541fe#id:67093996?gallery=true&brightness=100.00&contrast=100.00&center=639.461,-2666.837&zoom=12&rotation=0.000)
 
-
-
 ---
 
 ## VION, Jean Pierre <a name="vion12"/>
@@ -800,9 +830,7 @@ serait décédé entre 1780 et 1784 (date de naissance de Louis MORIN, le demi-f
 
 se serait marié probablement à Boismé (commune de naissance de son épouse) avant 1780
 
-
-
-## RICHARD, Perrine
+## RICHARD, Perrine <a name="vion13"/>
 
 ### Acte de décès
 
