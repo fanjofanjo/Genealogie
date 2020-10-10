@@ -897,3 +897,15 @@ Source : [POUPARD YVONNE (1906 - 1994) &#224; Saumur - d&#233;c&#232;s](https://
 <img src="./Justice/tribunal_saumur_1927.png"/>
 
 Source : [L'Ouest-Éclair | 1927-10-10 | Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k612106k/f6.item.zoom)
+
+
+
+
+
+<img src="./Arbre/desvallon2.png"/>
+
+## DESVALLON, Louis Eugène <a name="desvallon4"/>
+
+
+
+## BOUGUIER Joséphine <a name="desvallon5"/>
