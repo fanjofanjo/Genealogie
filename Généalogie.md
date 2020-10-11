@@ -76,7 +76,33 @@ Parfois j'ai des doutes sur certaines informations, auquel cas elles sont en *it
 
 - [Famille DESVALLON](#desvallon)
   
-  - [DESVALLON, Marcel Louis Gabriel](#desvallon1)
+  - Grand-père et arrières-grands-parents paternels
+    
+    - [DESVALLON, Marcel Louis Gabriel](#desvallon1)
+    
+    - [DESVALLON, Marcel Gabriel Louis](#desvallon2)
+    
+    - [POUPARD, Yvonne](#desvallon3)
+  
+  - Trisaïeuls paternels (les parents de l'arrière-grand père)
+    
+    - [DESVALLON, Louis Eugène](#desvallon4)
+    
+    - [BOUGUIER, Joséphine](#desvallon5)
+    
+    - [Mariage de Louis DESVALLON et de Joséphine BOUGUIER](#desvallonbouguier)
+  
+  - Quadrisaïeuls paternels
+    
+    - [DESVALLON, Henri Pierre](#desvallon6)
+    
+    - [JOUET, Françoise Francisque](#desvallon7)
+    
+    - [Mariage de Henri DESVALLON et de Françoise JOUET](#desvallonjouet)
+  
+  - Quinquisaïeuls paternels
+  
+  - 
 
 ---
 
@@ -701,11 +727,11 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta9d80c608f03495a9/
 
 ## VION, Pierre <a name="vion10"/>
 
-### Acte de naissance
+### Acte de naissance, Beaulieu-sous-Bressuire, 10 mars 1780
 
 Malheureusement les actes de naissances à Beaulieu n'existent que depuis 1795.
 
-### Acte de décès
+### Acte de décès, Nueil-les-Aubiers, 23 août 1857
 
 <img src="./ActeDeces/vion_pierre.png"/>
 
@@ -761,11 +787,11 @@ A comparu Pierre Louis VEILLON, métayer à Nueil
 
 ## MOREAU, Marie Madeleine <a name="vion11"/>
 
-### Acte de naissance
+### Acte de naissance, Brétignolles, 28 nobembre 1782
 
 Malheureusement les actes de naissances à Brétignolles n'existent que depuis 1803.
 
-## Acte de décès
+## Acte de décès, La Coudre, 3 mars 1845
 
 <img src="./ActeDeces/moreau_marie.png"/>
 
@@ -844,7 +870,7 @@ se serait marié probablement à Boismé (commune de naissance de son épouse) a
 
 ## RICHARD, Perrine <a name="vion13"/>
 
-### Acte de décès
+### Acte de décès, Beaulieu-sous-Bressuire, 31 janvier 1815
 
 <img src="./ActeDeces/richard_perrine.png"/>
 
@@ -878,7 +904,7 @@ Les arrières-grands-parents DESVALLON sont issus du Maine-et-Loire, qui est un 
 
 Source : "[DESVALLON MARCEL GABRIEL LOUIS (1927 - 1974) &#224; Cersay - d&#233;c&#232;s](https://deces.politologue.com/desvallon-marcel-gabriel-louis.uOvYVG70rO7OVpv0MO9jKOvjROLThGv0rG7Y9GLn)"
 
-## DESVALLON, Marcel <a name="desvallon2"/>
+## DESVALLON, Marcel Gabriel Louis <a name="desvallon2"/>
 
 ### Succession
 
@@ -890,22 +916,229 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta156cbad4a8c6111a/
 
 Source : [POUPARD YVONNE (1906 - 1994) &#224; Saumur - d&#233;c&#232;s](https://deces.politologue.com/poupard-yvonne.uOvYRG70gOvX8pvOApP0-OL-MCvXrpv0MOvjApvxROv08)
 
-
-
 ## Condamnation pour vol d'octobre 1927
 
 <img src="./Justice/tribunal_saumur_1927.png"/>
 
 Source : [L'Ouest-Éclair | 1927-10-10 | Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k612106k/f6.item.zoom)
 
-
-
-
+---
 
 <img src="./Arbre/desvallon2.png"/>
 
 ## DESVALLON, Louis Eugène <a name="desvallon4"/>
 
+### Acte de naissance, Nueil-sur-Layon, 7 janvier 1875
 
+<img src="./ActeNaissance/desvallon_louis_eugene.png"/>
 
-## BOUGUIER Joséphine <a name="desvallon5"/>
+Source : [Registres d'état civil - Visualiseur](https://www.archinoe.fr/v2/ad49/visualiseur/registre.html?id=490039242)
+
+#### Résumé
+
+| Commune                     | Nueil-sur-Layon, canton de Vihiers                            |
+| --------------------------- | ------------------------------------------------------------- |
+| **Enfant**                  | Gabriel Joseph Alexandre VION                                 |
+| **Naissance**               | 7 janvier 1875 à 15h00                                        |
+| **Père, âge et profession** | Henri DESVALLON, journalier de 42 ans                         |
+| **Mère, âge et profession** | Françoise JOUET, journalière de 38 ans                        |
+| **Domicile**                | La Boissonière, Nueil-sur-Layon                               |
+| **Témoin 1**                | Alexandre Auguste JAUDOIN, instituteur de 32 ans, ami du père |
+| **Témoin 2**                | François DECRON, journalier de 69 ans, ami du père            |
+
+### Service militaire
+
+<img src="./Militaire/desvallon_louis.png"/>
+
+Source : [1 R 1246 - Classe 1895 - matricule n°1297 - Visualiseur](https://www.archinoe.fr/v2/ark:/71821/56701557196d982e417d724773da3ae0)
+
+Matricule n° 1297, Louis Eugène DESVALLON
+
+Né le 7 janvier 1875 à Nueil s/ Passavant, canton de Vihiers, y résidant, fils de Henri DESVALLON et de Françoise JOUET, habitants aussi à Nueil s/ Passavant
+
+Cheveux et sourcils bruns, yeux roux, front ordinaire, nez moyen, bouche moyenne, menton rond, visage ovale. Taille : 1m63
+
+Appelé à l'activité le 16 novembre 1896 au 7ème régiment de chasseurs à cheval. Chasseur de 1ère classe
+
+Père de 6 enfants (au moment de la rédaction de la fiche)
+
+## BOUGUIER, Joséphine <a name="desvallon5"/>
+
+### Acte de naissance, Les Verchers-sur-Layon, 15 octobre 1882
+
+<img src="./ActeNaissance/bouguier_josephine.png"/>
+
+Source : [Registres d'état civil - Visualiseur](https://www.archinoe.fr/v2/ad49/visualiseur/registre.html?id=490038742)
+
+#### Résumé
+
+| Commune                     | Les Verchers-sur-Layon, canton de Doué-la-Fontaine  |
+| --------------------------- | --------------------------------------------------- |
+| **Enfant**                  | Joséphine BOUGUIER                                  |
+| **Naissance**               | 15 octobre 1882 à 11h00                             |
+| **Père, âge et profession** | Joseph BOUGUIER, 32 ans, cultivateur                |
+| **Mère, âge et profession** | Modeste Henriette CHARPENTIER, 28 ans, cultivatrice |
+| **Domicile**                | Les Verchers-sur-Layon                              |
+| **Témoin 1**                | Auguste MORILLON, <mark>charron </mark> de 34 ans   |
+| **Témoin 2**                | Pierre COCU, maréchal de 30 ans                     |
+
+Le **<mark>charron</mark>** utilise le bois et le fer pour construire et réparer des véhicules attelés. Le cœur de son métier est sa maîtrise de la roue. Le moyeu est en orme, les raies en acacia et les jantes en frêne.
+
+## Mariage de Louis DESVALLON et de Joséphine BOUGUIER <a name="desvallonbouguier"/>
+
+<img src="./ActeMariage/desvallon_bouguier.png"/>
+
+Source : [Registres d'état civil - Visualiseur](https://www.archinoe.fr/v2/ad49/visualiseur/registre.html?id=490041681)
+
+#### Résumé
+
+| Commune                           | Nueil-sur-Layon, canton de Vihiers                                                                                                              |
+| --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Mari**                          | Louis Eugène DESVALLON, domestique âgé de 26 ans, né le 7 janvier 1875 dans cette commune. Fils de Henri DESVALLON et , cultivateurs domiciliés |
+| **Femme**                         | Joséphine BOUGUIER, couturière de 19 ans, née le 15 octobre 1882 aux Verchers                                                                   |
+| **Mariage**                       | 18 novembre 1901                                                                                                                                |
+| **Père du marié**                 | Henri DESVALLON, cultivateur à la Caillonnerie de Nueil, ici présent                                                                            |
+| **Mère du marié**                 | Françoise JOUET, cultivateur à la Caillonnerie de Nueil, ici présente                                                                           |
+| **Père de la mariée**             | Joseph BOUGUIER, cultivateur à Nueil, ici présent                                                                                               |
+| **Mère de la mariée**             | Modeste Henriette CHARPENTIER, cultivateur à Nueil, ici présente                                                                                |
+| **Domicile**                      | Nueil-sur-Layon                                                                                                                                 |
+| **Témoin 1 : frère du marié**     | François DESVALLON, cultivateur de 37 ans domicilié à Bouillé-Saint-Paul                                                                        |
+| **Témoin 2 : cousin du marié**    | Auguste FRESNEAU, journalier de 45 ans à Nueil                                                                                                  |
+| **Témoin 3 : oncle de la mariée** | Pierre BOUGUIER, cultivateur de 48 ans à Nueil                                                                                                  |
+| **Témoin 4 : oncle de la mariée** | David LOUIS, cultivateur de 63 ans à Cléré                                                                                                      |
+
+---
+
+<img src="./Arbre/desvallon3.png"/>
+
+## DESVALLON, Henri Pierre <a name="desvallon6">
+
+### Acte de naissance, Moutiers-sous-Argenton, 4 mai 1833
+
+<img src="./ActeNaissance/desvallon_pierre_henri.png"/>
+
+Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta38a8995f24456bf9/daogrp/0/layout:table/idsearch:RECH_9f327360164f4f6d8503478c6f421560#id:1120044653?gallery=true&brightness=100.00&contrast=100.00¢er=1440.968,-1845.069&zoom=11&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vta38a8995f24456bf9/daogrp/0/layout:table/idsearch:RECH_9f327360164f4f6d8503478c6f421560#id:1120044653?gallery=true&brightness=100.00&contrast=100.00&center=1440.968,-1845.069&zoom=11&rotation=0.000)
+
+#### Résumé
+
+| Commune                     | Moutiers-sous-Argenton, arrondissement de Bressuire |
+| --------------------------- | --------------------------------------------------- |
+| **Enfant**                  | Pierre Henri DESVALLON                              |
+| **Naissance**               | 4 mai 1833 à 14h00                                  |
+| **Père, âge et profession** | Louis DESVALLON, 46 ans, bordier                    |
+| **Mère, âge et profession** | Louise BRAULT, 34 ans                               |
+| **Domicile**                | Bourg de Moutiers                                   |
+| **Témoin 1**                | Louis MERCERON, cultivateur de 45 ans à Moutiers    |
+| **Témoin 2**                | François MERCERON, cultivateur de 42 ans à Moutiers |
+
+## Acte de décès, Nueil-sur-Layon, 10 décembre 1901
+
+<img src="./ActeDeces/desvallon_henri.png"/>
+
+Source : [Registres d'état civil - Visualiseur](https://www.archinoe.fr/v2/ad49/visualiseur/registre.html?id=490041681)
+
+#### Résumé
+
+| Commune                   | Nueil-sur-Layon, canton de Vihiers                                                 |
+| ------------------------- | ---------------------------------------------------------------------------------- |
+| **Décédé**                | Pierre Henri DESVALLON, jouurnalier de 68 ans, époux de Françoise Francisque JOUET |
+| **le**                    | 10 décembre 1901 à 2h00 du matin                                                   |
+| **Père**                  | Louis DESVALLON, décédé                                                            |
+| **Mère**                  | Louise BRAULT, décédée                                                             |
+| **Domicile**              | La Caillonerie, Nueil-sur-Layon                                                    |
+| **Témoin 1 et déclarant** | Joseph TALBOT, fermier de 59 ans, voisin du défunt                                 |
+| **Témoin 2**              | Pierre MORET, cultivateur de 66 ans, ami du défunt                                 |
+
+## JOUET, Françoise Francisque <a name="desvallon7"/>
+
+### Acte de naissance, Nueil-sur-Layon, 15 décembre 1836
+
+<img src="./ActeNaissance/jouet_francoise.png"/>
+
+Source : [Registres d'état civil - Visualiseur](https://www.archinoe.fr/v2/ad49/visualiseur/registre.html?id=490005397)
+
+#### Résumé
+
+| Commune                     | Nueil-sur-Layon, canton de Vihiers        |
+| --------------------------- | ----------------------------------------- |
+| **Enfant**                  | Françoise Francisque JOUET                |
+| **Naissance**               | 15 décembre 1836 à 6h00 du matin          |
+| **Père, âge et profession** | Louis JOUET, 30 ans, cultivateur          |
+| **Mère, âge et profession** | Margueritte NOMBALAIS, 31 ans             |
+| **Domicile**                | Nueil-sur-Layon                           |
+| **Témoin 1**                | André Lemoine, propriétaire, 24 ans       |
+| **Témoin 2**                | Michel Claude GUJARD, instituteur, 29 ans |
+
+## Mariage de Henri DESVALLON et de Françoise JOUET <a name="desvallonjouet"/>
+
+<img src="./ActeMariage/desvallon_jouet.png"/>
+
+Source : [Registres d'état civil - Visualiseur](https://www.archinoe.fr/v2/ad49/visualiseur/registre.html?id=490005399)
+
+#### Résumé
+
+| Commune                           | Nueil-sur-Layon, canton de Vihiers                          |
+| --------------------------------- | ----------------------------------------------------------- |
+| **Mari**                          | Pierre Henri DESVALLON, domestique,                         |
+| **Femme**                         | Françoise Francisque JOUET, domestique                      |
+| **Mariage**                       | 25 juin 1857                                                |
+| **Père du marié**                 | Louis DESVALLON, décédé à Mauzé-Thouarsais le 11 avril 1849 |
+| **Mère du marié**                 | Louise BRAULT, journalière, ici présente                    |
+| **Père de la mariée**             | Louis JOUET, ici présent                                    |
+| **Mère de la mariée**             | Margueritte NOMBALAIS, ici présente                         |
+| **Domicile**                      | La Touche, les Verchers-sur-Layon                           |
+| **Témoin 1 : frère du marié**     | Alexis DESVALLON, journalier de 42 ans à Nueil              |
+| **Témoin 2 : ami des mariés**     | Suzanne PERDRIX, cordonnier à Nueil de 26 ans               |
+| **Témoin 3 : frère de la mariée** | Jean JOUET, domestique de 24 ans à Nueil                    |
+| **Témoin 4 : ami des mariés**     | Charles LEMOINE, meunier à Nueil de 44 ans                  |
+
+---
+
+<img src="./Arbre/desvallon4.png"/>
+
+## DESVALLON, Louis Alexis
+
+### Baptême, Louin, 27 août 1786
+
+<img src="./ActeNaissance/desvallon_alexis_louis.png"/>
+
+Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta39b3739a54f651fc/daogrp/0/layout:table/idsearch:RECH_070c9ef961e726461ccd0738ce4cf696#id:889279093?gallery=true&brightness=100.00&contrast=100.00¢er=1484.533,-1173.236&zoom=10&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vta39b3739a54f651fc/daogrp/0/layout:table/idsearch:RECH_070c9ef961e726461ccd0738ce4cf696#id:889279093?gallery=true&brightness=100.00&contrast=100.00&center=1484.533,-1173.236&zoom=10&rotation=0.000)
+
+#### Résumé
+
+| Commune                     | Louin, entre Bressuire et Parthenay |
+| --------------------------- | ----------------------------------- |
+| **Enfant**                  | Alexis Louis DESVALLON              |
+| **Baptême et naissance**    | 27 août 1786                        |
+| **Père, âge et profession** | Louis DESVALLON                     |
+| **Mère, âge et profession** | Madeleine ROCHARD                   |
+| **Domicile**                | Louin                               |
+| **Parrain**                 | Alexis BERTHONNIAU                  |
+| **Marraine**                | Marine Marie Jeanne JAULAIN         |
+
+### Premier mariage avec Jeanne CLOCHARD à La Chapelle-Gaudin
+
+<img src="./Arbre/desvallon4bis.png"/>
+
+<img src="./ActeMariage/desvallon_clochard.png"/>
+
+Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta95c8bae27bc1820e/daogrp/0/layout:table/idsearch:RECH_93d969024badb02de635635579bf8bb9#id:1446391965?gallery=true&brightness=100.00&contrast=100.00¢er=1799.594,-1055.046&zoom=7&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vta95c8bae27bc1820e/daogrp/0/layout:table/idsearch:RECH_93d969024badb02de635635579bf8bb9#id:1446391965?gallery=true&brightness=100.00&contrast=100.00&center=1799.594,-1055.046&zoom=7&rotation=0.000)
+
+#### Résumé
+
+| Commune                           | Nueil-sur-Layon, canton de Vihiers                                                                                                              |
+| --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Mari**                          | Louis Eugène DESVALLON, domestique âgé de 26 ans, né le 7 janvier 1875 dans cette commune. Fils de Henri DESVALLON et , cultivateurs domiciliés |
+| **Femme**                         | Joséphine BOUGUIER, couturière de 19 ans, née le 15 octobre 1882 aux Verchers                                                                   |
+| **Mariage**                       | 18 novembre 1901                                                                                                                                |
+| **Père du marié**                 | Henri DESVALLON, cultivateur à la Caillonnerie de Nueil, ici présent                                                                            |
+| **Mère du marié**                 | Françoise JOUET, cultivateur à la Caillonnerie de Nueil, ici présente                                                                           |
+| **Père de la mariée**             | Joseph BOUGUIER, cultivateur à Nueil, ici présent                                                                                               |
+| **Mère de la mariée**             | Modeste Henriette CHARPENTIER, cultivateur à Nueil, ici présente                                                                                |
+| **Domicile**                      | Nueil-sur-Layon                                                                                                                                 |
+| **Témoin 1 : frère du marié**     | François DESVALLON, cultivateur de 37 ans domicilié à Bouillé-Saint-Paul                                                                        |
+| **Témoin 2 : cousin du marié**    | Auguste FRESNEAU, journalier de 45 ans à Nueil                                                                                                  |
+| **Témoin 3 : oncle de la mariée** | Pierre BOUGUIER, cultivateur de 48 ans à Nueil                                                                                                  |
+| **Témoin 4 : oncle de la mariée** | David LOUIS, cultivateur de 63 ans à Cléré                                                                                                      |
+
+### Acte de décès, Mauzé-Thouarsais, 11 avril 1849
