@@ -1,4 +1,4 @@
-# Généalogie de la famille VION
+# Généalogie de la famille DESVALLON
 
 ## par Benjamin François VION, 2020
 
@@ -12,7 +12,7 @@ Chaque famille possède sa section qui permet de connaître l'ensemble de la fra
 
 Parfois j'ai des doutes sur certaines informations, auquel cas elles sont en *italique* dans le document.
 
-# Famille DESVALLON
+
 
 Les arrières-grands-parents DESVALLON sont issus du Maine-et-Loire, qui est un département assez avare en terme de documents. 1902 est la date limite de consultation des actes d'état civil, et il n'y a ni recensement (en cours de numérisation apparemment) et ni successions. Les premières sources ne sont donc pas fiables à 100%.
 
@@ -62,11 +62,11 @@ Les arrières-grands-parents DESVALLON sont issus du Maine-et-Loire, qui est un 
 
 ## Souche de l'arbre <a name=souche/>
 
-![](file://D:\Mes documents\Git Fanjo\Genealogie\Arbre\soucheArbre.png)
+<img src="./Arbre/soucheArbre.png"/>
 
 ---
 
-![](file://D:\Mes documents\Git Fanjo\Genealogie\Arbre\desvallon1.png)
+<img src="./Arbre/desvallon1.png"/>
 
 ## DESVALLON, Marcel Louis Gabriel <a name="desvallon1"/>
 
@@ -76,7 +76,7 @@ Source : "[DESVALLON MARCEL GABRIEL LOUIS (1927 - 1974) à Cersay - décès](htt
 
 ### Succession
 
-![](file://D:\Mes documents\Git Fanjo\Genealogie\TableSuccessions\desvallon_marcel.png)
+<img src="./TableSuccessions/desvallon_marcel.png"/>
 
 Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta156cbad4a8c6111a/daogrp/0/layout:table/idsearch:RECH_7ca1f985198eeef10c1e4acd82054e82#id:1017175636?gallery=true&brightness=100.00&contrast=100.00¢er=3405.495,-1403.948&zoom=8&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vta156cbad4a8c6111a/daogrp/0/layout:table/idsearch:RECH_7ca1f985198eeef10c1e4acd82054e82#id:1017175636?gallery=true&brightness=100.00&contrast=100.00&center=3405.495,-1403.948&zoom=8&rotation=0.000)
 
@@ -86,19 +86,19 @@ Source : [POUPARD YVONNE (1906 - 1994) à Saumur - décès](https://deces.polito
 
 ## Condamnation pour vol d'octobre 1927
 
-![](file://D:\Mes documents\Git Fanjo\Genealogie\Justice\tribunal_saumur_1927.png)
+<img src="./Justice/tribunal_saumur_1927.png"/>
 
 Source : [L'Ouest-Éclair | 1927-10-10 | Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k612106k/f6.item.zoom)
 
 ---
 
-![](file://D:\Mes documents\Git Fanjo\Genealogie\Arbre\desvallon2.png)
+<img src="./Arbre/desvallon2.png"/>
 
 ## DESVALLON, Louis Eugène <a name="desvallon4"/>
 
 ### Acte de naissance, Nueil-sur-Layon, 7 janvier 1875
 
-![](file://D:\Mes documents\Git Fanjo\Genealogie\ActeNaissance\desvallon_louis_eugene.png)
+<img src="./ActeNaissance/desvallon_louis_eugene.png"/>
 
 Source : [Registres d'état civil - Visualiseur](https://www.archinoe.fr/v2/ad49/visualiseur/registre.html?id=490039242)
 
@@ -116,7 +116,7 @@ Source : [Registres d'état civil - Visualiseur](https://www.archinoe.fr/v2/ad49
 
 ### Service militaire
 
-![](file://D:\Mes documents\Git Fanjo\Genealogie\Militaire\desvallon_louis.png)
+<img src="./Militaire/desvallon_louis.png"/>
 
 Source : [1 R 1246 - Classe 1895 - matricule n°1297 - Visualiseur](https://www.archinoe.fr/v2/ark:/71821/56701557196d982e417d724773da3ae0)
 
@@ -134,7 +134,7 @@ Père de 6 enfants (au moment de la rédaction de la fiche)
 
 ### Acte de naissance, Les Verchers-sur-Layon, 15 octobre 1882
 
-![](file://D:\Mes documents\Git Fanjo\Genealogie\ActeNaissance\bouguier_josephine.png)
+<img src="./ActeNaissance/bouguier_josephine.png"/>
 
 Source : [Registres d'état civil - Visualiseur](https://www.archinoe.fr/v2/ad49/visualiseur/registre.html?id=490038742)
 
@@ -154,7 +154,7 @@ Le **charron** utilise le bois et le fer pour construire et réparer des véhicu
 
 ## Mariage de Louis DESVALLON et de Joséphine BOUGUIER <a name="desvallonbouguier"/>
 
-![](file://D:\Mes documents\Git Fanjo\Genealogie\ActeMariage\desvallon_bouguier.png)
+<img src="./ActeMariage/desvallon_bouguier.png"/>
 
 Source : [Registres d'état civil - Visualiseur](https://www.archinoe.fr/v2/ad49/visualiseur/registre.html?id=490041681)
 
@@ -177,13 +177,13 @@ Source : [Registres d'état civil - Visualiseur](https://www.archinoe.fr/v2/ad49
 
 ---
 
-![](file://D:\Mes documents\Git Fanjo\Genealogie\Arbre\desvallon3.png)
+<img src="./Arbre/desvallon3.png"/>
 
 ## DESVALLON, Henri Pierre <a name="desvallon6"/>
 
 ### Acte de naissance, Moutiers-sous-Argenton, 4 mai 1833
 
-![](file://D:\Mes documents\Git Fanjo\Genealogie\ActeNaissance\desvallon_pierre_henri.png)
+<img src="./ActeNaissance/desvallon_pierre_henri.png"/>
 
 Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta38a8995f24456bf9/daogrp/0/layout:table/idsearch:RECH_9f327360164f4f6d8503478c6f421560#id:1120044653?gallery=true&brightness=100.00&contrast=100.00¢er=1440.968,-1845.069&zoom=11&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vta38a8995f24456bf9/daogrp/0/layout:table/idsearch:RECH_9f327360164f4f6d8503478c6f421560#id:1120044653?gallery=true&brightness=100.00&contrast=100.00&center=1440.968,-1845.069&zoom=11&rotation=0.000)
 
@@ -201,7 +201,7 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta38a8995f24456bf9/
 
 ## Acte de décès, Nueil-sur-Layon, 10 décembre 1901
 
-![](file://D:\Mes documents\Git Fanjo\Genealogie\ActeDeces\desvallon_henri.png)
+<img src="./ActeDeces/desvallon_henri.png"/>
 
 Source : [Registres d'état civil - Visualiseur](https://www.archinoe.fr/v2/ad49/visualiseur/registre.html?id=490041681)
 
@@ -221,7 +221,7 @@ Source : [Registres d'état civil - Visualiseur](https://www.archinoe.fr/v2/ad49
 
 ### Acte de naissance, Nueil-sur-Layon, 15 décembre 1836
 
-![](file://D:\Mes documents\Git Fanjo\Genealogie\ActeNaissance\jouet_francoise.png)
+<img src="./ActeNaissance/jouet_francoise.png"/>
 
 Source : [Registres d'état civil - Visualiseur](https://www.archinoe.fr/v2/ad49/visualiseur/registre.html?id=490005397)
 
@@ -239,7 +239,7 @@ Source : [Registres d'état civil - Visualiseur](https://www.archinoe.fr/v2/ad49
 
 ## Mariage de Henri DESVALLON et de Françoise JOUET <a name="desvallonjouet"/>
 
-![](file://D:\Mes documents\Git Fanjo\Genealogie\ActeMariage\desvallon_jouet.png)
+<img src="./ActeMariage/desvallon_jouet.png"/>
 
 Source : [Registres d'état civil - Visualiseur](https://www.archinoe.fr/v2/ad49/visualiseur/registre.html?id=490005399)
 
@@ -262,13 +262,13 @@ Source : [Registres d'état civil - Visualiseur](https://www.archinoe.fr/v2/ad49
 
 ---
 
-![](file://D:\Mes documents\Git Fanjo\Genealogie\Arbre\desvallon4.png)
+<img src="./Arbre/desvallon4.png"/>
 
 ## DESVALLON, Louis Alexis <a name="desvallon8"/>
 
 ### Baptême, Louin, 27 août 1786
 
-![](file://D:\Mes documents\Git Fanjo\Genealogie\ActeNaissance\desvallon_alexis_louis.png)
+<img src="./ActeNaissance/desvallon_alexis_louis.png"/>
 
 Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta39b3739a54f651fc/daogrp/0/layout:table/idsearch:RECH_070c9ef961e726461ccd0738ce4cf696#id:889279093?gallery=true&brightness=100.00&contrast=100.00¢er=1484.533,-1173.236&zoom=10&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vta39b3739a54f651fc/daogrp/0/layout:table/idsearch:RECH_070c9ef961e726461ccd0738ce4cf696#id:889279093?gallery=true&brightness=100.00&contrast=100.00&center=1484.533,-1173.236&zoom=10&rotation=0.000)
 
@@ -286,9 +286,9 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta39b3739a54f651fc/
 
 ### Premier mariage avec Jeanne CLOCHARD à La Chapelle-Gaudin
 
-![](file://D:\Mes documents\Git Fanjo\Genealogie\Arbre\desvallon4bis.png)
+<img src="./Arbre/desvallon4bis.png"/>
 
-![](file://D:\Mes documents\Git Fanjo\Genealogie\ActeMariage\desvallon_clochard.png)
+<img src="./ActeMariage/desvallon_clochard.png"/>
 
 Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta95c8bae27bc1820e/daogrp/0?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta95c8bae27bc1820e%2Fcanvas%2F0%2F44&vx=1303.66&vy=-1585.53&vr=0&vz=6.29503
 
@@ -312,7 +312,7 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta95c8bae27bc1820e/d
 
 ### Acte de décès, Mauzé-Thouarsais, 11 avril 1849
 
-![](file://D:\Mes documents\Git Fanjo\Genealogie\ActeDeces\desvallon_louis.png)
+<img src="./ActeDeces/desvallon_louis.png"/>
 
 Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vtaa38f97c11d0e3865/daogrp/0/layout:table/idsearch:RECH_35b6139bae0b8576991cd29f7531f7bb?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvtaa38f97c11d0e3865%2Fcanvas%2F0%2F116&vx=2886.23&vy=-2409.56&vr=0&vz=6.8998
 
@@ -332,7 +332,7 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vtaa38f97c11d0e3865/d
 
 ### Acte de naissance, Cersay, 6 Ventôse an 7 (24 février 1799)
 
-![](file://D:\Mes documents\Git Fanjo\Genealogie\ActeNaissance\brault_louise.png)
+<img src="./ActeNaissance/brault_louise.png"/>
 
 Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vtab323397ddaa0481e/daogrp/0/layout:table/idsearch:RECH_c9158ef91556665bcd59e4e8b195eb95?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvtab323397ddaa0481e%2Fcanvas%2F0%2F186&vx=1830.06&vy=-1041.05&vr=0&vz=4.92098
 
@@ -350,7 +350,7 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vtab323397ddaa0481e/d
 
 ## Mariage de Alexis Louis DESVALLON et de Louise BRAULT <a name="desvallonbrault"/>
 
-![](file://D:\Mes documents\Git Fanjo\Genealogie\ActeMariage\desvallon_brault.png)
+<img src="./ActeMariage/desvallon_brault.png"/>
 
 Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta5a647b6a440575c7/daogrp/0/layout:table/idsearch:RECH_8fb7cbc243aedc783d0e6408de38e628?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta5a647b6a440575c7%2Fcanvas%2F0%2F161&vx=2540.39&vy=-1403.23&vr=0&vz=5.21828
 
@@ -373,7 +373,7 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta5a647b6a440575c7/d
 
 <img src="./Arbre/desvallon5.png"/>
 
-## DESVALLON Louis <a name="desvallon9"/>
+## DESVALLON Louis <a name="desvallon10"/>
 
 ### Acte de décès, Moutiers-sous-Argenton, 9 octobre 1820
 
@@ -393,7 +393,7 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta1b9a2d4ad71fe8dc/d
 | **Témoin 1 et déclarant** | Charles CHARRIER, maréchal de 37 ans, voisin du défunt |
 | **Témoin 2**              | Pierre DESVALLON, 28 ans, fils du défunt               |
 
-## ROCHARD Marie Magdeleine <a name="desvallon10"/>
+## ROCHARD Marie Magdeleine <a name="desvallon11"/>
 
 ## Mariage de Louis DESVALLON et de Madeleine ROCHARD <a name="desvallonrochard"/>
 
