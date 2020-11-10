@@ -12,8 +12,6 @@ Chaque famille possède sa section qui permet de connaître l'ensemble de la fra
 
 Parfois j'ai des doutes sur certaines informations, auquel cas elles sont en *italique* dans le document.
 
-
-
 Les arrières-grands-parents DESVALLON sont issus du Maine-et-Loire, qui est un département assez avare en terme de documents. 1902 est la date limite de consultation des actes d'état civil, et il n'y a ni recensement (en cours de numérisation apparemment) et ni successions. Les premières sources ne sont donc pas fiables à 100%.
 
 # Table des matières
@@ -54,11 +52,27 @@ Les arrières-grands-parents DESVALLON sont issus du Maine-et-Loire, qui est un 
 
 - Sextaïeuls paternels
   
-  - [DESVALLON, Louis](#desvallon10)
+  - [DESVALLON, Antoine Louis](#desvallon10)
   
   - [ROCHARD, Madeleine](#desvallon11)
   
   - [Mariage de Louis DESVALLON et de Madeleine ROCHARD](#desvallonrochard)
+
+- Septaïeuls paternels
+  
+  - [DESVALLON, Louis Pierre](#desvallon12)
+  
+  - [BICHON, Marie-Anne](#desvallon13)
+  
+  - [Mariage de Louis DESVALLON et de Marie-Anne BICHON](#desvallonbichon)
+
+- Octaïeuls paternels
+  
+  - [DESVALLON, Pierre](#desvallon14)
+  
+  - [FAUVEAU, Marie](#desvallon15)
+  
+  - [Mariage de Pierre DESVALLON et de Marie FAUVEAU](#desvallonfauveau)
 
 ## Souche de l'arbre <a name=souche/>
 
@@ -371,9 +385,31 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta5a647b6a440575c7/d
 | **Témoin 3**                      | Etienne BILLY, maréchal de 33 ans                                                                                       |
 | **Témoin 4**                      | Dominique BILLY, bordier de 47 ans                                                                                      |
 
+---
+
 <img src="./Arbre/desvallon5.png"/>
 
-## DESVALLON Louis <a name="desvallon10"/>
+## DESVALLON, Antoine Louis <a name="desvallon10"/>
+
+### Baptême, Louin, 17 janvier 1755
+
+<img src="./ActeNaissance/desvallon_antoine_louis.png"/>
+
+Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta7efb1b3d5802837a/daogrp/0/layout:table/idsearch:RECH_7637314785b1559b9fc3cf0854ca0f71?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta7efb1b3d5802837a%2Fcanvas%2F0%2F119&vx=1596.87&vy=-2937.9&vr=0&vz=6.35545
+
+#### Résumé
+
+| Commune                     | Louin                           |
+| --------------------------- | ------------------------------- |
+| **Enfant**                  | Antoine Louis DESVALLON         |
+| **Naissance**               | 17 janvier 1755                 |
+| **Père, âge et profession** | Louis Pierre DESVALLON          |
+| **Mère, âge et profession** | Pas indiqué (Marie-Anne BICHON) |
+| **Domicile**                | Bourg de Louin                  |
+| **Parrain**                 | Louis BICHON                    |
+| **Marraine**                | Michelle DESVALLON sa tante     |
+
+Remarque : Sa grande soeur est décédée il y a deux jours seulement le 15 janvier à l'âge de 18 mois et demi. Son acte de décès est justement celui qui précède ce baptême dans le registre.
 
 ### Acte de décès, Moutiers-sous-Argenton, 9 octobre 1820
 
@@ -383,17 +419,53 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta1b9a2d4ad71fe8dc/d
 
 #### Résumé
 
-| Commune                   | Moutiers-sous-Argenton                                 |
-| ------------------------- | ------------------------------------------------------ |
-| **Décédé**                | Louis DESVALLON, journalier, 72 ans                    |
-| **le**                    | 7 octobre 1820 à 20h                                   |
-| **Père**                  | N/A                                                    |
-| **Mère**                  | N/A                                                    |
-| **Domicile**              | Village de MIGAUDON à Moutiers-sous-Argenton           |
-| **Témoin 1 et déclarant** | Charles CHARRIER, maréchal de 37 ans, voisin du défunt |
-| **Témoin 2**              | Pierre DESVALLON, 28 ans, fils du défunt               |
+| Commune                   | Moutiers-sous-Argenton                                                  |
+| ------------------------- | ----------------------------------------------------------------------- |
+| **Décédé**                | Louis DESVALLON, journalier, 72 ans (erreur en fait il en avait 65 ans) |
+| **le**                    | 7 octobre 1820 à 20h                                                    |
+| **Père**                  | N/A                                                                     |
+| **Mère**                  | N/A                                                                     |
+| **Domicile**              | Village de MIGAUDON à Moutiers-sous-Argenton                            |
+| **Témoin 1 et déclarant** | Charles CHARRIER, maréchal de 37 ans, voisin du défunt                  |
+| **Témoin 2**              | Pierre DESVALLON, 28 ans, fils du défunt                                |
 
-## ROCHARD Marie Magdeleine <a name="desvallon11"/>
+## ROCHARD, Marie Magdeleine <a name="desvallon11"/>
+
+### Baptême, Chiché, 20 mars 1761
+
+<img src="./ActeNaissance/rochard_madeleine.png"/>
+
+Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vtab8a0478a7efb1a3f/daogrp/0/layout:table/idsearch:RECH_232db40d4ef9825911fd26dd55c19efb?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvtab8a0478a7efb1a3f%2Fcanvas%2F0%2F113&vx=3932.8&vy=-2984.49&vr=0&vz=6.34106 
+
+#### Résumé
+
+| Commune                     | Chiché                  |
+| --------------------------- | ----------------------- |
+| **Enfant**                  | Marie Madeleine ROCHARD |
+| **Naissance**               | 20 mars 1761            |
+| **Père, âge et profession** | Jean ROCHARD            |
+| **Mère, âge et profession** | Marie BIARDEAU          |
+| **Domicile**                | Chiché                  |
+| **Parrain**                 | Germain DEBOEUF         |
+| **Marraine**                | Marie DEBOEUF           |
+
+### Acte de décès, Moutiers-sous-Argenton, 25 février 1829
+
+<img src="./ActeDeces/rochard_madeleine.png"/>
+
+Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta1b9a2d4ad71fe8dc/daogrp/0/layout:table/idsearch:RECH_287c441c1c0b38ea96ba7443546268f2?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta1b9a2d4ad71fe8dc%2Fcanvas%2F0%2F215&vx=2800.12&vy=-977.937&vr=0&vz=7.1457
+
+#### Résumé
+
+| Commune                   | Moutiers-sous-Argenton, canton d'Argenton-le-Château                        |
+| ------------------------- | --------------------------------------------------------------------------- |
+| **Décédée**               | Marie Madeleine ROCHARD, 68 ans, veuve de Louis DESVALLON                   |
+| **le**                    | 25 février 1829 à 7h00 du matin                                             |
+| **Père**                  | René ROCHARD (contradiction avec le baptême ou c'est Jean ROCHARD)          |
+| **Mère**                  | Madeleine BELIARD (a dû se remarier)                                        |
+| **Domicile**              | Bourg de Moutiers-sous-Argenton                                             |
+| **Témoin 1 et déclarant** | Louis DESVALLON, son fils, 42 ans, bordier                                  |
+| **Témoin 2**              | Pierre DESVALLON, son fils, 37 ans, domestique domicilié à Mauzé-Thouarsais |
 
 ## Mariage de Louis DESVALLON et de Madeleine ROCHARD <a name="desvallonrochard"/>
 
@@ -407,7 +479,7 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta1b9a2d4ad71fe8dc/d
 | **Femme**                                       | Magdeleine ROCHARD, domestique chez dame Noirault à Thouars         |
 | **Mariage**                                     | 4 juillet 1785                                                      |
 | **Père du marié**                               | Louis DESVALLON, tisserand. Rattaché à la paroisse d'Airvault       |
-| **Mère du marié**                               | Marianne BICHON, décédée. Rattachée à la paroisse d'Airvault        |
+| **Mère du marié**                               | Marie-Anne BICHON, décédée. Rattachée à la paroisse d'Airvault      |
 | **Père de la mariée**                           | Jean ROCHARD, décédé, paroisse de Chiché                            |
 | **Mère de la mariée**                           | Marie BIARDEAU, paroisse de Chiché                                  |
 | **Domicile**                                    | N/A                                                                 |
@@ -418,4 +490,88 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta1b9a2d4ad71fe8dc/d
 | **Témoin 5 : mère de la mariée**                | Marie BIARDEAU                                                      |
 | **Témoin 6 : ami de la mariée**                 | Jean AMINOT                                                         |
 
-## 
+## Recensement à Louin en 1796
+
+<img src="./Recensement/desvallon_rochard.png"/>
+
+Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vtad234b14e1d71ce36/daogrp/0/layout:table/idsearch:RECH_c101add60cf2d7501d288ac0120097e3?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvtad234b14e1d71ce36%2Fcanvas%2F0%2F8&vx=951.323&vy=-1474.98&vr=0&vz=4.37038
+
+---
+
+<img src="./Arbre/desvallon6.png"/>
+
+## DESVALLON, Louis Pierre <a name="desvallon12"/>
+
+### Baptême, Louin, 10 novembre 1717
+
+<img src="./ActeNaissance/desvallon_louis_pierre.png"/>
+
+Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta94cec7b10dcd434e/daogrp/0/layout:table/idsearch:RECH_7637314785b1559b9fc3cf0854ca0f71?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta94cec7b10dcd434e%2Fcanvas%2F0%2F50&vx=1871.31&vy=-2738.21&vr=0&vz=6.79569
+
+#### Résumé
+
+| Commune                     | Louin                  |
+| --------------------------- | ---------------------- |
+| **Enfant**                  | Louis Pierre DESVALLON |
+| **Naissance**               | 10 novembre 1717       |
+| **Père, âge et profession** | Pierre DESVALLON       |
+| **Mère, âge et profession** | Marie FAUVEAU          |
+| **Domicile**                |                        |
+| **Parrain**                 | Louis DESCHAMPS        |
+| **Marraine**                | Marie LAURENCE         |
+
+### Acte de décès, Louin, 9 décembre 1793 (19 frimaire An 2)
+
+<img src="./ActeDeces/desvallon_louis_pierre.png"/>
+
+Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta56019b9f32bbe474/daogrp/0/layout:table/idsearch:RECH_7637314785b1559b9fc3cf0854ca0f71?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta56019b9f32bbe474%2Fcanvas%2F0%2F7&vx=3714.67&vy=-3034.95&vr=0&vz=5.98787
+
+#### Résumé
+
+| Commune                   | Louin                                                                              |
+| ------------------------- | ---------------------------------------------------------------------------------- |
+| **Décédé**                | Louis Pierre DESVALLON, 78 ans (en fait il en avait 76), veuf de Marie-Anne BICHON |
+| **le**                    | 9 décembre 1793                                                                    |
+| **Père**                  | Non indiqué                                                                        |
+| **Mère**                  | Non indiqué                                                                        |
+| **Domicile**              | Bourg de Louin                                                                     |
+| **Témoin 1 et déclarant** | Louis DESVALLON, son fils, tisserand                                               |
+| **Témoin 2**              | Louis ROUX, vigneron                                                               |
+
+## BICHON, Marie-Anne <a name="desvallon13"/>
+
+## Mariage de Louis DESVALLON et de Marie-Anne BICHON <a name="desvallonbichon"/>
+
+Pas trouvé ni à Airvault, ni à Louin, ni à Soulièvres. A probablement eu lieu entre 1750 et 1753 car l'ainée a été déclarée légitime.
+
+---
+
+## DESVALLON, Pierre <a name="desvallon14"/>
+
+### Acte de décès, Louin, 6 juillet 1747
+
+<img src="./ActeDeces/desvallon_pierre.png"/>
+
+Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta7efb1b3d5802837a/daogrp/0/layout:table/idsearch:RECH_7637314785b1559b9fc3cf0854ca0f71?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta7efb1b3d5802837a%2Fcanvas%2F0%2F37&vx=1522.79&vy=-860.503&vr=0&vz=5.4924
+
+#### Résumé
+
+| Commune                   | Moutiers-sous-Argenton, canton d'Argenton-le-Château                        |
+| ------------------------- | --------------------------------------------------------------------------- |
+| **Décédé**                | Marie Madeleine ROCHARD, 68 ans, veuve de Louis DESVALLON                   |
+| **le**                    | 25 février 1829 à 7h00 du matin                                             |
+| **Père**                  | René ROCHARD (contradiction avec le baptême ou c'est Jean ROCHARD)          |
+| **Mère**                  | Madeleine BELIARD (a dû se remarier)                                        |
+| **Domicile**              | Bourg de Moutiers-sous-Argenton                                             |
+| **Témoin 1 et déclarant** | Louis DESVALLON, son fils, 42 ans, bordier                                  |
+| **Témoin 2**              | Pierre DESVALLON, son fils, 37 ans, domestique domicilié à Mauzé-Thouarsais |
+
+### Second mariage avec Marie FILLATRAULT
+
+Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta7efb1b3d5802837a/daogrp/0/layout:table/idsearch:RECH_74abf8232cc72f2a36f2ed467d6fe0f5?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta7efb1b3d5802837a%2Fcanvas%2F0%2F8&vx=3969.42&vy=-2834.12&vr=0&vz=5.32625
+
+Elle est décédée un peu après leur mariage, le 15 avril 1746 (source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta7efb1b3d5802837a/daogrp/0/layout:table/idsearch:RECH_74abf8232cc72f2a36f2ed467d6fe0f5?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta7efb1b3d5802837a%2Fcanvas%2F0%2F19&vx=3968.05&vy=-1539.62&vr=0&vz=6.0032)
+
+## FAUVEAU, Marie <a name="desvallon15"/>
+
+## Mariage de Pierre DESVALLON et de Marie FAUVEAU <a name="desvallonfauveau"/>
