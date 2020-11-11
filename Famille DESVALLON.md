@@ -12,7 +12,9 @@ Chaque famille possède sa section qui permet de connaître l'ensemble de la fra
 
 Parfois j'ai des doutes sur certaines informations, auquel cas elles sont en *italique* dans le document.
 
-Les arrières-grands-parents DESVALLON sont issus du Maine-et-Loire, qui est un département assez avare en terme de documents. 1902 est la date limite de consultation des actes d'état civil, et il n'y a ni recensement (en cours de numérisation apparemment) et ni successions. Les premières sources ne sont donc pas fiables à 100%.
+Les arrières-grands-parents DESVALLON sont issus du Maine-et-Loire, qui est un département assez avare en terme de documents. 1902 est la date limite de consultation des actes d'état civil, et il n'y a ni recensement (en cours de numérisation apparemment) et ni successions, d'ou le manque d'informations par endroits.
+
+On remarque que le nom DESVALLON est assez récent, sa première apparition date de 1875. A l'origine les vicaires (paroisse) écrivaient DAVALON, même si plusieurs membres de la famille signaient DAVALLON. Après la Révolution française, les maires ont transformés le nom en DEVALLON puis DESVALLON. Mention honorable aux 3 frères Henri François et Louis (entre 1858 et 1875) qui ont chacun eu une orthographe différente !
 
 # Table des matières
 
@@ -36,43 +38,49 @@ Les arrières-grands-parents DESVALLON sont issus du Maine-et-Loire, qui est un 
 
 - Quadrisaïeuls paternels
   
-  - [DESVALLON, Henri Pierre](#desvallon6)
+  - [DEVALLON, Henri Pierre](#desvallon6)
   
   - [JOUET, Françoise Francisque](#desvallon7)
   
-  - [Mariage de Henri DESVALLON et de Françoise JOUET](#desvallonjouet)
+  - [Mariage de Henri DEVALLON et de Françoise JOUET](#desvallonjouet)
 
 - Quinquisaïeuls paternels
   
-  - [DESVALLON, Louis Alexis](#desvallon8)
+  - [DAVALON, Louis Alexis](#desvallon8)
   
   - [BRAULT, Louise](#desvallon9)
   
-  - [Mariage de Alexis Louis DESVALLON et de Louise BRAULT](#desvallonbrault)
+  - [Mariage de Alexis Louis DAVALON et de Louise BRAULT](#desvallonbrault)
 
 - Sextaïeuls paternels
   
-  - [DESVALLON, Antoine Louis](#desvallon10)
+  - [DAVALON, Antoine Louis](#desvallon10)
   
   - [ROCHARD, Madeleine](#desvallon11)
   
-  - [Mariage de Louis DESVALLON et de Madeleine ROCHARD](#desvallonrochard)
+  - [Mariage de Louis DAVALON et de Madeleine ROCHARD](#desvallonrochard)
 
 - Septaïeuls paternels
   
-  - [DESVALLON, Louis Pierre](#desvallon12)
+  - [DAVALON, Louis Pierre](#desvallon12)
   
   - [BICHON, Marie-Anne](#desvallon13)
   
-  - [Mariage de Louis DESVALLON et de Marie-Anne BICHON](#desvallonbichon)
+  - [Mariage de Louis DAVALON et de Marie-Anne BICHON](#desvallonbichon)
 
 - Octaïeuls paternels
   
-  - [DESVALLON, Pierre](#desvallon14)
+  - [DAVALON, Pierre](#desvallon14)
   
   - [FAUVEAU, Marie](#desvallon15)
   
-  - [Mariage de Pierre DESVALLON et de Marie FAUVEAU](#desvallonfauveau)
+  - [Mariage de Pierre DAVALON et de Marie FAUVEAU](#desvallonfauveau)
+
+- Nonaïeuls paternels
+  
+  - [DAVALON, Jacques Pierre](#desvallon16)
+  
+  - [PROUST, Marie](#desvallon17)
 
 ## Souche de l'arbre <a name=souche/>
 
@@ -120,7 +128,7 @@ Source : [Registres d'état civil - Visualiseur](https://www.archinoe.fr/v2/ad49
 
 | Commune                     | Nueil-sur-Layon, canton de Vihiers                            |
 | --------------------------- | ------------------------------------------------------------- |
-| **Enfant**                  | Gabriel Joseph Alexandre VION                                 |
+| **Enfant**                  | Louis Eugène DESVALLON                                        |
 | **Naissance**               | 7 janvier 1875 à 15h00                                        |
 | **Père, âge et profession** | Henri DESVALLON, journalier de 42 ans                         |
 | **Mère, âge et profession** | Françoise JOUET, journalière de 38 ans                        |
@@ -174,26 +182,26 @@ Source : [Registres d'état civil - Visualiseur](https://www.archinoe.fr/v2/ad49
 
 #### Résumé
 
-| Commune                           | Nueil-sur-Layon, canton de Vihiers                                                                                                              |
-| --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Mari**                          | Louis Eugène DESVALLON, domestique âgé de 26 ans, né le 7 janvier 1875 dans cette commune. Fils de Henri DESVALLON et , cultivateurs domiciliés |
-| **Femme**                         | Joséphine BOUGUIER, couturière de 19 ans, née le 15 octobre 1882 aux Verchers                                                                   |
-| **Mariage**                       | 18 novembre 1901                                                                                                                                |
-| **Père du marié**                 | Henri DESVALLON, cultivateur à la Caillonnerie de Nueil, ici présent                                                                            |
-| **Mère du marié**                 | Françoise JOUET, cultivateur à la Caillonnerie de Nueil, ici présente                                                                           |
-| **Père de la mariée**             | Joseph BOUGUIER, cultivateur à Nueil, ici présent                                                                                               |
-| **Mère de la mariée**             | Modeste Henriette CHARPENTIER, cultivateur à Nueil, ici présente                                                                                |
-| **Domicile**                      | Nueil-sur-Layon                                                                                                                                 |
-| **Témoin 1 : frère du marié**     | François DESVALLON, cultivateur de 37 ans domicilié à Bouillé-Saint-Paul                                                                        |
-| **Témoin 2 : cousin du marié**    | Auguste FRESNEAU, journalier de 45 ans à Nueil                                                                                                  |
-| **Témoin 3 : oncle de la mariée** | Pierre BOUGUIER, cultivateur de 48 ans à Nueil                                                                                                  |
-| **Témoin 4 : oncle de la mariée** | David LOUIS, cultivateur de 63 ans à Cléré                                                                                                      |
+| Commune                           | Nueil-sur-Layon, canton de Vihiers                                                        |
+| --------------------------------- | ----------------------------------------------------------------------------------------- |
+| **Mari**                          | Louis Eugène DESVALLON, domestique âgé de 26 ans, né le 7 janvier 1875 dans cette commune |
+| **Femme**                         | Joséphine BOUGUIER, couturière de 19 ans, née le 15 octobre 1882 aux Verchers             |
+| **Mariage**                       | 18 novembre 1901                                                                          |
+| **Père du marié**                 | Henri DESVALLON, cultivateur à la Caillonnerie de Nueil, ici présent                      |
+| **Mère du marié**                 | Françoise JOUET, cultivateur à la Caillonnerie de Nueil, ici présente                     |
+| **Père de la mariée**             | Joseph BOUGUIER, cultivateur à Nueil, ici présent                                         |
+| **Mère de la mariée**             | Modeste Henriette CHARPENTIER, cultivateur à Nueil, ici présente                          |
+| **Domicile**                      | Nueil-sur-Layon                                                                           |
+| **Témoin 1 : frère du marié**     | François DESVALLON, cultivateur de 37 ans domicilié à Bouillé-Saint-Paul                  |
+| **Témoin 2 : cousin du marié**    | Auguste FRESNEAU, journalier de 45 ans à Nueil                                            |
+| **Témoin 3 : oncle de la mariée** | Pierre BOUGUIER, cultivateur de 48 ans à Nueil                                            |
+| **Témoin 4 : oncle de la mariée** | David LOUIS, cultivateur de 63 ans à Cléré                                                |
 
 ---
 
 <img src="./Arbre/desvallon3.png"/>
 
-## DESVALLON, Henri Pierre <a name="desvallon6"/>
+## DEVALLON, Henri Pierre <a name="desvallon6"/>
 
 ### Acte de naissance, Moutiers-sous-Argenton, 4 mai 1833
 
@@ -205,9 +213,9 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta38a8995f24456bf9/
 
 | Commune                     | Moutiers-sous-Argenton, arrondissement de Bressuire |
 | --------------------------- | --------------------------------------------------- |
-| **Enfant**                  | Pierre Henri DESVALLON                              |
+| **Enfant**                  | Pierre Henri DEVALLON                               |
 | **Naissance**               | 4 mai 1833 à 14h00                                  |
-| **Père, âge et profession** | Louis DESVALLON, 46 ans, bordier                    |
+| **Père, âge et profession** | Louis DAVALON, 46 ans, bordier                      |
 | **Mère, âge et profession** | Louise BRAULT, 34 ans                               |
 | **Domicile**                | Bourg de Moutiers                                   |
 | **Témoin 1**                | Louis MERCERON, cultivateur de 45 ans à Moutiers    |
@@ -221,15 +229,15 @@ Source : [Registres d'état civil - Visualiseur](https://www.archinoe.fr/v2/ad49
 
 #### Résumé
 
-| Commune                   | Nueil-sur-Layon, canton de Vihiers                                                 |
-| ------------------------- | ---------------------------------------------------------------------------------- |
-| **Décédé**                | Pierre Henri DESVALLON, jouurnalier de 68 ans, époux de Françoise Francisque JOUET |
-| **le**                    | 10 décembre 1901 à 2h00 du matin                                                   |
-| **Père**                  | Louis DESVALLON, décédé                                                            |
-| **Mère**                  | Louise BRAULT, décédée                                                             |
-| **Domicile**              | La Caillonerie, Nueil-sur-Layon                                                    |
-| **Témoin 1 et déclarant** | Joseph TALBOT, fermier de 59 ans, voisin du défunt                                 |
-| **Témoin 2**              | Pierre MORET, cultivateur de 66 ans, ami du défunt                                 |
+| Commune                   | Nueil-sur-Layon, canton de Vihiers                                                |
+| ------------------------- | --------------------------------------------------------------------------------- |
+| **Décédé**                | Pierre Henri DEVALLON, jouurnalier de 68 ans, époux de Françoise Francisque JOUET |
+| **le**                    | 10 décembre 1901 à 2h00 du matin                                                  |
+| **Père**                  | Louis DEVALLON, décédé                                                            |
+| **Mère**                  | Louise BRAULT, décédée                                                            |
+| **Domicile**              | La Caillonerie, Nueil-sur-Layon                                                   |
+| **Témoin 1 et déclarant** | Joseph TALBOT, fermier de 59 ans, voisin du défunt                                |
+| **Témoin 2**              | Pierre MORET, cultivateur de 66 ans, ami du défunt                                |
 
 ## JOUET, Françoise Francisque <a name="desvallon7"/>
 
@@ -251,7 +259,7 @@ Source : [Registres d'état civil - Visualiseur](https://www.archinoe.fr/v2/ad49
 | **Témoin 1**                | André Lemoine, propriétaire, 24 ans       |
 | **Témoin 2**                | Michel Claude GUJARD, instituteur, 29 ans |
 
-## Mariage de Henri DESVALLON et de Françoise JOUET <a name="desvallonjouet"/>
+## Mariage de Henri DEVALLON et de Françoise JOUET <a name="desvallonjouet"/>
 
 <img src="./ActeMariage/desvallon_jouet.png"/>
 
@@ -259,26 +267,26 @@ Source : [Registres d'état civil - Visualiseur](https://www.archinoe.fr/v2/ad49
 
 #### Résumé
 
-| Commune                           | Nueil-sur-Layon, canton de Vihiers                          |
-| --------------------------------- | ----------------------------------------------------------- |
-| **Mari**                          | Pierre Henri DESVALLON, domestique,                         |
-| **Femme**                         | Françoise Francisque JOUET, domestique                      |
-| **Mariage**                       | 25 juin 1857                                                |
-| **Père du marié**                 | Louis DESVALLON, décédé à Mauzé-Thouarsais le 11 avril 1849 |
-| **Mère du marié**                 | Louise BRAULT, journalière, ici présente                    |
-| **Père de la mariée**             | Louis JOUET, ici présent                                    |
-| **Mère de la mariée**             | Margueritte NOMBALAIS, ici présente                         |
-| **Domicile**                      | La Touche, les Verchers-sur-Layon                           |
-| **Témoin 1 : frère du marié**     | Alexis DESVALLON, journalier de 42 ans à Nueil              |
-| **Témoin 2 : ami des mariés**     | Suzanne PERDRIX, cordonnier à Nueil de 26 ans               |
-| **Témoin 3 : frère de la mariée** | Jean JOUET, domestique de 24 ans à Nueil                    |
-| **Témoin 4 : ami des mariés**     | Charles LEMOINE, meunier à Nueil de 44 ans                  |
+| Commune                           | Nueil-sur-Layon, canton de Vihiers                         |
+| --------------------------------- | ---------------------------------------------------------- |
+| **Mari**                          | Pierre Henri DEVALLON, domestique,                         |
+| **Femme**                         | Françoise Francisque JOUET, domestique                     |
+| **Mariage**                       | 25 juin 1857                                               |
+| **Père du marié**                 | Louis DEVALLON, décédé à Mauzé-Thouarsais le 11 avril 1849 |
+| **Mère du marié**                 | Louise BRAULT, journalière, ici présente                   |
+| **Père de la mariée**             | Louis JOUET, ici présent                                   |
+| **Mère de la mariée**             | Margueritte NOMBALAIS, ici présente                        |
+| **Domicile**                      | La Touche, les Verchers-sur-Layon                          |
+| **Témoin 1 : frère du marié**     | Alexis DEVALLON, journalier de 42 ans à Nueil              |
+| **Témoin 2 : ami des mariés**     | Suzanne PERDRIX, cordonnier à Nueil de 26 ans              |
+| **Témoin 3 : frère de la mariée** | Jean JOUET, domestique de 24 ans à Nueil                   |
+| **Témoin 4 : ami des mariés**     | Charles LEMOINE, meunier à Nueil de 44 ans                 |
 
 ---
 
 <img src="./Arbre/desvallon4.png"/>
 
-## DESVALLON, Louis Alexis <a name="desvallon8"/>
+## DAVALON, Louis Alexis <a name="desvallon8"/>
 
 ### Baptême, Louin, 27 août 1786
 
@@ -290,7 +298,7 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta39b3739a54f651fc/
 
 | Commune                     | Louin, entre Bressuire et Parthenay |
 | --------------------------- | ----------------------------------- |
-| **Enfant**                  | Alexis Louis DESVALLON              |
+| **Enfant**                  | Alexis Louis DAVALON                |
 | **Baptême et naissance**    | 27 août 1786                        |
 | **Père, âge et profession** | Louis DESVALLON                     |
 | **Mère, âge et profession** | Madeleine ROCHARD                   |
@@ -389,7 +397,7 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta5a647b6a440575c7/d
 
 <img src="./Arbre/desvallon5.png"/>
 
-## DESVALLON, Antoine Louis <a name="desvallon10"/>
+## DAVALON, Antoine Louis <a name="desvallon10"/>
 
 ### Baptême, Louin, 17 janvier 1755
 
@@ -401,9 +409,9 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta7efb1b3d5802837a/d
 
 | Commune                     | Louin                           |
 | --------------------------- | ------------------------------- |
-| **Enfant**                  | Antoine Louis DESVALLON         |
+| **Enfant**                  | Antoine Louis DAVALON           |
 | **Naissance**               | 17 janvier 1755                 |
-| **Père, âge et profession** | Louis Pierre DESVALLON          |
+| **Père, âge et profession** | Louis Pierre DAVALON            |
 | **Mère, âge et profession** | Pas indiqué (Marie-Anne BICHON) |
 | **Domicile**                | Bourg de Louin                  |
 | **Parrain**                 | Louis BICHON                    |
@@ -419,15 +427,15 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta1b9a2d4ad71fe8dc/d
 
 #### Résumé
 
-| Commune                   | Moutiers-sous-Argenton                                                  |
-| ------------------------- | ----------------------------------------------------------------------- |
-| **Décédé**                | Louis DESVALLON, journalier, 72 ans (erreur en fait il en avait 65 ans) |
-| **le**                    | 7 octobre 1820 à 20h                                                    |
-| **Père**                  | N/A                                                                     |
-| **Mère**                  | N/A                                                                     |
-| **Domicile**              | Village de MIGAUDON à Moutiers-sous-Argenton                            |
-| **Témoin 1 et déclarant** | Charles CHARRIER, maréchal de 37 ans, voisin du défunt                  |
-| **Témoin 2**              | Pierre DESVALLON, 28 ans, fils du défunt                                |
+| Commune                   | Moutiers-sous-Argenton                                                 |
+| ------------------------- | ---------------------------------------------------------------------- |
+| **Décédé**                | Louis DAVALLON, journalier, 72 ans (erreur en fait il en avait 65 ans) |
+| **le**                    | 7 octobre 1820 à 20h                                                   |
+| **Père**                  | N/A                                                                    |
+| **Mère**                  | N/A                                                                    |
+| **Domicile**              | Village de MIGAUDON à Moutiers-sous-Argenton                           |
+| **Témoin 1 et déclarant** | Charles CHARRIER, maréchal de 37 ans, voisin du défunt                 |
+| **Témoin 2**              | Pierre DAVALLON, 28 ans, fils du défunt                                |
 
 ## ROCHARD, Marie Magdeleine <a name="desvallon11"/>
 
@@ -467,28 +475,28 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta1b9a2d4ad71fe8dc/d
 | **Témoin 1 et déclarant** | Louis DESVALLON, son fils, 42 ans, bordier                                  |
 | **Témoin 2**              | Pierre DESVALLON, son fils, 37 ans, domestique domicilié à Mauzé-Thouarsais |
 
-## Mariage de Louis DESVALLON et de Madeleine ROCHARD <a name="desvallonrochard"/>
+## Mariage de Louis DAVALON et de Madeleine ROCHARD <a name="desvallonrochard"/>
 
 <img src="./ActeMariage/desvallon_rochard.png"/>
 
 #### Résumé
 
-| Commune                                         | Airvault                                                            |
-| ----------------------------------------------- | ------------------------------------------------------------------- |
-| **Mari**                                        | Louis DESVALLON, domestique chez Mr Bodin Ménard marchand à Thouars |
-| **Femme**                                       | Magdeleine ROCHARD, domestique chez dame Noirault à Thouars         |
-| **Mariage**                                     | 4 juillet 1785                                                      |
-| **Père du marié**                               | Louis DESVALLON, tisserand. Rattaché à la paroisse d'Airvault       |
-| **Mère du marié**                               | Marie-Anne BICHON, décédée. Rattachée à la paroisse d'Airvault      |
-| **Père de la mariée**                           | Jean ROCHARD, décédé, paroisse de Chiché                            |
-| **Mère de la mariée**                           | Marie BIARDEAU, paroisse de Chiché                                  |
-| **Domicile**                                    | N/A                                                                 |
-| **Témoin 1 : père du marié**                    | Louis DESVALLON                                                     |
-| **Témoin 2 : cousin germain maternel du marié** | Louis RIMBAULT                                                      |
-| **Témoin 3 : ami du marié**                     | Pierre GACHET, tisserand                                            |
-| **Témoin 4 : frère de la mariée**               | François ROCHARD                                                    |
-| **Témoin 5 : mère de la mariée**                | Marie BIARDEAU                                                      |
-| **Témoin 6 : ami de la mariée**                 | Jean AMINOT                                                         |
+| Commune                                         | Airvault                                                          |
+| ----------------------------------------------- | ----------------------------------------------------------------- |
+| **Mari**                                        | Louis DAVALON, domestique chez Mr Bodin Ménard marchand à Thouars |
+| **Femme**                                       | Magdeleine ROCHARD, domestique chez dame Noirault à Thouars       |
+| **Mariage**                                     | 4 juillet 1785                                                    |
+| **Père du marié**                               | Louis DAVALON, tisserand. Rattaché à la paroisse d'Airvault       |
+| **Mère du marié**                               | Marie-Anne BICHON, décédée. Rattachée à la paroisse d'Airvault    |
+| **Père de la mariée**                           | Jean ROCHARD, décédé, paroisse de Chiché                          |
+| **Mère de la mariée**                           | Marie BIARDEAU, paroisse de Chiché                                |
+| **Domicile**                                    | N/A                                                               |
+| **Témoin 1 : père du marié**                    | Louis DAVALON                                                     |
+| **Témoin 2 : cousin germain maternel du marié** | Louis RIMBAULT                                                    |
+| **Témoin 3 : ami du marié**                     | Pierre GACHET, tisserand                                          |
+| **Témoin 4 : frère de la mariée**               | François ROCHARD                                                  |
+| **Témoin 5 : mère de la mariée**                | Marie BIARDEAU                                                    |
+| **Témoin 6 : ami de la mariée**                 | Jean AMINOT                                                       |
 
 ## Recensement à Louin en 1796
 
@@ -500,7 +508,7 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vtad234b14e1d71ce36/d
 
 <img src="./Arbre/desvallon6.png"/>
 
-## DESVALLON, Louis Pierre <a name="desvallon12"/>
+## DAVALON, Louis Pierre <a name="desvallon12"/>
 
 ### Baptême, Louin, 10 novembre 1717
 
@@ -510,15 +518,15 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta94cec7b10dcd434e/d
 
 #### Résumé
 
-| Commune                     | Louin                  |
-| --------------------------- | ---------------------- |
-| **Enfant**                  | Louis Pierre DESVALLON |
-| **Naissance**               | 10 novembre 1717       |
-| **Père, âge et profession** | Pierre DESVALLON       |
-| **Mère, âge et profession** | Marie FAUVEAU          |
-| **Domicile**                |                        |
-| **Parrain**                 | Louis DESCHAMPS        |
-| **Marraine**                | Marie LAURENCE         |
+| Commune                     | Louin                |
+| --------------------------- | -------------------- |
+| **Enfant**                  | Louis Pierre DAVALON |
+| **Naissance**               | 10 novembre 1717     |
+| **Père, âge et profession** | Pierre DAVALON       |
+| **Mère, âge et profession** | Marie FAUVEAU        |
+| **Domicile**                |                      |
+| **Parrain**                 | Louis DESCHAMPS      |
+| **Marraine**                | Marie LAURENCE       |
 
 ### Acte de décès, Louin, 9 décembre 1793 (19 frimaire An 2)
 
@@ -528,15 +536,15 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta56019b9f32bbe474/d
 
 #### Résumé
 
-| Commune                   | Louin                                                                              |
-| ------------------------- | ---------------------------------------------------------------------------------- |
-| **Décédé**                | Louis Pierre DESVALLON, 78 ans (en fait il en avait 76), veuf de Marie-Anne BICHON |
-| **le**                    | 9 décembre 1793                                                                    |
-| **Père**                  | Non indiqué                                                                        |
-| **Mère**                  | Non indiqué                                                                        |
-| **Domicile**              | Bourg de Louin                                                                     |
-| **Témoin 1 et déclarant** | Louis DESVALLON, son fils, tisserand                                               |
-| **Témoin 2**              | Louis ROUX, vigneron                                                               |
+| Commune                   | Louin                                                                            |
+| ------------------------- | -------------------------------------------------------------------------------- |
+| **Décédé**                | Louis Pierre DAVALON, 78 ans (en fait il en avait 76), veuf de Marie-Anne BICHON |
+| **le**                    | 9 décembre 1793                                                                  |
+| **Père**                  | Non indiqué                                                                      |
+| **Mère**                  | Non indiqué                                                                      |
+| **Domicile**              | Bourg de Louin                                                                   |
+| **Témoin 1 et déclarant** | Louis DAVALON, son fils, tisserand                                               |
+| **Témoin 2**              | Louis ROUX, vigneron                                                             |
 
 ## BICHON, Marie-Anne <a name="desvallon13"/>
 
@@ -573,10 +581,10 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta1e54db3e5d9fd4b4/d
 | **Père**                  | Non indiqué                                      |
 | **Mère**                  | Non indiquée                                     |
 | **Domicile**              | Non indiqué                                      |
-| **Témoin 1 et déclarant** | Louis Pierre DESVALLON, son mari, tisserand      |
+| **Témoin 1 et déclarant** | Louis Pierre DAVALON, son mari, tisserand        |
 | **Témoin 2**              | Ses enfants Louis, Joseph et d'autres            |
 
-## Mariage de Louis DESVALLON et de Marie-Anne BICHON <a name="desvallonbichon"/>
+## Mariage de Louis DAVALON et de Marie-Anne BICHON <a name="desvallonbichon"/>
 
 Pas trouvé ni à Airvault, ni à Louin, ni à Soulièvres. A probablement eu lieu entre 1750 et 1753 car l'ainée a été déclarée légitime.
 
@@ -584,7 +592,7 @@ Pas trouvé ni à Airvault, ni à Louin, ni à Soulièvres. A probablement eu li
 
 <img src="./Arbre/desvallon7.png"/>
 
-## DESVALLON, Pierre <a name="desvallon14"/>
+## DAVALON, Pierre <a name="desvallon14"/>
 
 ### Acte de décès, Louin, 6 juillet 1747
 
@@ -594,15 +602,15 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta7efb1b3d5802837a/d
 
 #### Résumé
 
-| Commune                   | Louin                                                                                                                               |
-| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| **Décédé**                | Pierre DESVALLON, 54 ans                                                                                                            |
-| **le**                    | 6 juillet 1747                                                                                                                      |
-| **Père**                  | Non indiqué                                                                                                                         |
-| **Mère**                  | Non indiquée                                                                                                                        |
-| **Domicile**              | Non indiqué                                                                                                                         |
-| **Témoin 1 et déclarant** | Paul DESVALLON son fils                                                                                                             |
-| **Témoin 2**              | Ses filles Marie-Jeanne DESVALLON, Jeanne DESVALLON et Michelle DESVALLON, Pierre FAUVEAU son beau-frère, Martin BONTEMPS son neveu |
+| Commune                   | Louin                                                                                                                         |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| **Décédé**                | Pierre DAVALON, 54 ans                                                                                                        |
+| **le**                    | 6 juillet 1747                                                                                                                |
+| **Père**                  | Non indiqué                                                                                                                   |
+| **Mère**                  | Non indiquée                                                                                                                  |
+| **Domicile**              | Non indiqué                                                                                                                   |
+| **Témoin 1 et déclarant** | Paul DAVALON son fils                                                                                                         |
+| **Témoin 2**              | Ses filles Marie-Jeanne DAVALON, Jeanne DAVALON et Michelle DAVALON, Pierre FAUVEAU son beau-frère, Martin BONTEMPS son neveu |
 
 ### Second mariage avec Marie FILLATRAULT
 
@@ -614,7 +622,7 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta7efb1b3d5802837a/d
 
 | Commune                                | Airvault                                    |
 | -------------------------------------- | ------------------------------------------- |
-| **Mari**                               | Pierre DESVALLON, veuf de Marie FAUVEAU     |
+| **Mari**                               | Pierre DAVALON, veuf de Marie FAUVEAU       |
 | **Femme**                              | Marie FILLATRAULT, veuve de Nicolas BOIVIEN |
 | **Mariage**                            | 30 mai 1745                                 |
 | **Père du marié**                      | Non indiqué                                 |
@@ -642,19 +650,19 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vtab6f4f871a0533f84/d
 
 #### Résumé
 
-| Commune                   | Louin                                                                           |
-| ------------------------- | ------------------------------------------------------------------------------- |
-| **Décédée**               | Marie FAUVEAU, 45 ans                                                           |
-| **le**                    | 4 mai 1738                                                                      |
-| **Père**                  | Non indiqué                                                                     |
-| **Mère**                  | Non indiquée                                                                    |
-| **Domicile**              | Non indiqué                                                                     |
-| **Témoin 1 et déclarant** | Pierre DESVALLON son mari, <mark>drapier </mark> de ce bourg                    |
-| **Témoin 2**              | Ses enfants Louis et Paul DESVALLON, Pierre FAUVEAU son frère, Pierre SAUVAGEAU |
+| Commune                   | Louin                                                                         |
+| ------------------------- | ----------------------------------------------------------------------------- |
+| **Décédée**               | Marie FAUVEAU, 45 ans                                                         |
+| **le**                    | 4 mai 1738                                                                    |
+| **Père**                  | Non indiqué                                                                   |
+| **Mère**                  | Non indiquée                                                                  |
+| **Domicile**              | Non indiqué                                                                   |
+| **Témoin 1 et déclarant** | Pierre DAVALON son mari, <mark>drapier </mark> de ce bourg                    |
+| **Témoin 2**              | Ses enfants Louis et Paul DAVALON, Pierre FAUVEAU son frère, Pierre SAUVAGEAU |
 
 <mark>drapier</mark> : Fabricant et/ou marchand de draps
 
-## Mariage de Pierre DESVALLON et de Marie FAUVEAU <a name="desvallonfauveau"/>
+## Mariage de Pierre DAVALON et de Marie FAUVEAU <a name="desvallonfauveau"/>
 
 <img src="./ActeMariage/desvallon_fauveau.png"/>
 
@@ -664,16 +672,16 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta94cec7b10dcd434e/d
 
 | Commune                           | Louin                      |
 | --------------------------------- | -------------------------- |
-| **Mari**                          | Pierre DESVALLON           |
+| **Mari**                          | Pierre DAVALON             |
 | **Femme**                         | Marie FAUVEAU              |
 | **Mariage**                       | 26 janvier 1717            |
-| **Père du marié**                 | Jacques DESVALLON, décédé  |
+| **Père du marié**                 | Jacques DAVALON, décédé    |
 | **Mère du marié**                 | Marie PROUST, présente     |
 | **Père de la mariée**             | François FAUVEAU, présent  |
 | **Mère de la mariée**             | Barthélémie JOLY, présente |
 | **Domicile**                      | N/A                        |
-| **Témoin 1 : mère du marié**      | Marie DESVALLON née PROUST |
-| **Témoin 2 : soeur du marié**     | Marie DESVALLON            |
+| **Témoin 1 : mère du marié**      | Marie DAVALON née PROUST   |
+| **Témoin 2 : soeur du marié**     | Marie DAVALON              |
 | **Témoin 3**                      | Louis DESCHAMPS            |
 | **Témoin 4 : père de la mariée**  | François FAUVEAU           |
 | **Témoin 5 : mère de la mariée**  | Barthélémie JOLY           |
@@ -685,11 +693,11 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta94cec7b10dcd434e/d
 
 <img src="./Arbre/desvallon8.png"/>
 
-## DESVALLON, Jacques Pierre
+## DAVALON, Jacques Pierre <a name="desvallon16"/>
 
 On sait juste qu'il était décédé quand son fils s'est marié en 1717.
 
-## PROUST, Marie
+## PROUST, Marie <a name="desvallon17"/>
 
 ### Acte de décès, Louin, 31 mars 1721
 
@@ -699,12 +707,12 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta94cec7b10dcd434e/d
 
 #### Résumé
 
-| Commune                   | Louin                                                                                                |
-| ------------------------- | ---------------------------------------------------------------------------------------------------- |
-| **Décédée**               | Marie PROUST, environ 60 ans, veuve du défunt (Jacques) Pierre DESVALLON                             |
-| **le**                    | 31 mars 1721                                                                                         |
-| **Père**                  | Non indiqué                                                                                          |
-| **Mère**                  | Non indiquée                                                                                         |
-| **Domicile**              | Non indiqué                                                                                          |
-| **Témoin 1 et déclarant** | Pierre DESVALLON son fils                                                                            |
-| **Témoin 2**              | Marie DESVALLON sa fille, Martin et Philippe SAUVAGEAU, René BAREAU, Jacques COINDRE et Pierre GALLY |
+| Commune                   | Louin                                                                                              |
+| ------------------------- | -------------------------------------------------------------------------------------------------- |
+| **Décédée**               | Marie PROUST, environ 60 ans, veuve du défunt (Jacques) Pierre DAVALON                             |
+| **le**                    | 31 mars 1721                                                                                       |
+| **Père**                  | Non indiqué                                                                                        |
+| **Mère**                  | Non indiquée                                                                                       |
+| **Domicile**              | Non indiqué                                                                                        |
+| **Témoin 1 et déclarant** | Pierre DAVALON son fils                                                                            |
+| **Témoin 2**              | Marie DAVALON sa fille, Martin et Philippe SAUVAGEAU, René BAREAU, Jacques COINDRE et Pierre GALLY |
