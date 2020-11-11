@@ -300,7 +300,7 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta39b3739a54f651fc/
 | --------------------------- | ----------------------------------- |
 | **Enfant**                  | Alexis Louis DAVALON                |
 | **Baptême et naissance**    | 27 août 1786                        |
-| **Père, âge et profession** | Louis DESVALLON                     |
+| **Père, âge et profession** | Louis DAVALON                       |
 | **Mère, âge et profession** | Madeleine ROCHARD                   |
 | **Domicile**                | Louin                               |
 | **Parrain**                 | Alexis BERTHONNIAU                  |
@@ -316,21 +316,21 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta95c8bae27bc1820e/d
 
 #### Résumé
 
-| Commune                           | La Chapelle Gaudin, canton de Saint-Varent         |
-| --------------------------------- | -------------------------------------------------- |
-| **Mari**                          | Alexis Louis DESVALLON, né le 27 août 1786 à Louin |
-| **Femme**                         | Jeanne CLOCHARD, 27 ans, née à La Chapelle Gaudin  |
-| **Mariage**                       | 3 novembre 1810                                    |
-| **Père du marié**                 | Louis DESVALLON, bordier à Moutiers, présent       |
-| **Mère du marié**                 | Madeleine ROCHARD, présente                        |
-| **Père de la mariée**             | Jean CLOCHARD, journalier, décédé                  |
-| **Mère de la mariée**             | Jeanne THURPAU, décédée                            |
-| **Domicile**                      | N/A                                                |
-| **Témoin 1 : père du marié**      | Louis DESVALLON, bordier de 58 ans                 |
-| **Témoin 2 : frère du marié**     | Pierre DESVALLON                                   |
-| **Témoin 3**                      | Pierre GABARD ou GALLARD                           |
-| **Témoin 4 : frère de la mariée** | X CLOCHARD, bordier à La Chapelle Gaudin           |
-| **Témoin 5 : frère de la mariée** | Louis CLOCHARD, journalier à la Chapelle Gaudin    |
+| Commune                           | La Chapelle Gaudin, canton de Saint-Varent        |
+| --------------------------------- | ------------------------------------------------- |
+| **Mari**                          | Alexis Louis DAVALON, né le 27 août 1786 à Louin  |
+| **Femme**                         | Jeanne CLOCHARD, 27 ans, née à La Chapelle Gaudin |
+| **Mariage**                       | 3 novembre 1810                                   |
+| **Père du marié**                 | Louis DAVALON, bordier à Moutiers, présent        |
+| **Mère du marié**                 | Madeleine ROCHARD, présente                       |
+| **Père de la mariée**             | Jean CLOCHARD, journalier, décédé                 |
+| **Mère de la mariée**             | Jeanne THURPAU, décédée                           |
+| **Domicile**                      | N/A                                               |
+| **Témoin 1 : père du marié**      | Louis DAVALON, bordier de 58 ans                  |
+| **Témoin 2 : frère du marié**     | Pierre DAVALON                                    |
+| **Témoin 3**                      | Pierre GABARD ou GALLARD                          |
+| **Témoin 4 : frère de la mariée** | X CLOCHARD, bordier à La Chapelle Gaudin          |
+| **Témoin 5 : frère de la mariée** | Louis CLOCHARD, journalier à la Chapelle Gaudin   |
 
 ### Acte de décès, Mauzé-Thouarsais, 11 avril 1849
 
@@ -340,15 +340,15 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vtaa38f97c11d0e3865/d
 
 #### Résumé
 
-| Commune                   | Mauzé-Thouarsais, canton de Thouars                                           |
-| ------------------------- | ----------------------------------------------------------------------------- |
-| **Décédé**                | Louis DESVALLON, journalier, époux de Louise BRAULT, 64 ans                   |
-| **le**                    | 11 avril 1849 à 9h du matin                                                   |
-| **Père**                  | N/A                                                                           |
-| **Mère**                  | N/A                                                                           |
-| **Domicile**              | La Capinière, Mauzé-Thouarsais                                                |
-| **Témoin 1 et déclarant** | Louis DESVALLON, journalier, 36 ans, fils du défunt, domicilié à La Capinière |
-| **Témoin 2**              | Jean DUBOIT, vigneron, 60 ans, domicilié à La Capinière                       |
+| Commune                   | Mauzé-Thouarsais, canton de Thouars                                          |
+| ------------------------- | ---------------------------------------------------------------------------- |
+| **Décédé**                | Louis DEVALLON, journalier, époux de Louise BRAULT, 64 ans                   |
+| **le**                    | 11 avril 1849 à 9h du matin                                                  |
+| **Père**                  | N/A                                                                          |
+| **Mère**                  | N/A                                                                          |
+| **Domicile**              | La Capinière, Mauzé-Thouarsais                                               |
+| **Témoin 1 et déclarant** | Louis DEVALLON, journalier, 36 ans, fils du défunt, domicilié à La Capinière |
+| **Témoin 2**              | Jean DUBOIT, vigneron, 60 ans, domicilié à La Capinière                      |
 
 ## BRAULT Louise <a name="desvallon9"/>
 
@@ -370,7 +370,7 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vtab323397ddaa0481e/d
 | **Témoin 1**                | Louis XXXXX, laboureur de 41 ans à Cersay |
 | **Témoin 2**                | Louise MELE, 22 ans à Cersay              |
 
-## Mariage de Alexis Louis DESVALLON et de Louise BRAULT <a name="desvallonbrault"/>
+## Mariage de Alexis Louis DAVALON et de Louise BRAULT <a name="desvallonbrault"/>
 
 <img src="./ActeMariage/desvallon_brault.png"/>
 
@@ -378,20 +378,20 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta5a647b6a440575c7/d
 
 #### Résumé
 
-| Commune                           | Moutiers-sous-Argenton, canton d'Argenton le Château                                                                    |
-| --------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| **Mari**                          | Alexis Louis DESVALLON, né le 27 août 1786 à Louin, 40 ans, veuf de Jeanne CLOCHARD décédée à Moutiers le 20 avril 1826 |
-| **Femme**                         | Louise BRAULT, servante domestique, domiciliée au village de la Charpentrie à Moutiers, 28 ans,                         |
-| **Mariage**                       | 27 février 1827 à 9h00                                                                                                  |
-| **Père du marié**                 | Louis DESVALLON, décédé à Moutiers le 9 octobre 1820 (en fait c'était le 7)                                             |
-| **Mère du marié**                 | Madeleine ROCHARD, fileuse de laine, 65 ans à Mauzé, présente                                                           |
-| **Père de la mariée**             | Pierre BRAULT, journalier de 63 ans à Breuil-sous-Argenton, présent                                                     |
-| **Mère de la mariée**             | Agathe LE COMTE, décédée à Breuil le 27 juin 1817                                                                       |
-| **Domicile**                      | N/A                                                                                                                     |
-| **Témoin 1 : prêtre de Moutiers** | Jean Charles DOYEN, 46 ans                                                                                              |
-| **Témoin 2**                      | Joseph LUJER, domestique de 25 ans à Boesse                                                                             |
-| **Témoin 3**                      | Etienne BILLY, maréchal de 33 ans                                                                                       |
-| **Témoin 4**                      | Dominique BILLY, bordier de 47 ans                                                                                      |
+| Commune                           | Moutiers-sous-Argenton, canton d'Argenton le Château                                                                  |
+| --------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| **Mari**                          | Alexis Louis DAVALON, né le 27 août 1786 à Louin, 40 ans, veuf de Jeanne CLOCHARD décédée à Moutiers le 20 avril 1826 |
+| **Femme**                         | Louise BRAULT, servante domestique, domiciliée au village de la Charpentrie à Moutiers, 28 ans,                       |
+| **Mariage**                       | 27 février 1827 à 9h00                                                                                                |
+| **Père du marié**                 | Louis DAVALON, décédé à Moutiers le 9 octobre 1820 (en fait c'était le 7)                                             |
+| **Mère du marié**                 | Madeleine ROCHARD, fileuse de laine, 65 ans à Mauzé, présente                                                         |
+| **Père de la mariée**             | Pierre BRAULT, journalier de 63 ans à Breuil-sous-Argenton, présent                                                   |
+| **Mère de la mariée**             | Agathe LE COMTE, décédée à Breuil le 27 juin 1817                                                                     |
+| **Domicile**                      | N/A                                                                                                                   |
+| **Témoin 1 : prêtre de Moutiers** | Jean Charles DOYEN, 46 ans                                                                                            |
+| **Témoin 2**                      | Joseph LUJER, domestique de 25 ans à Boesse                                                                           |
+| **Témoin 3**                      | Etienne BILLY, maréchal de 33 ans                                                                                     |
+| **Témoin 4**                      | Dominique BILLY, bordier de 47 ans                                                                                    |
 
 ---
 
@@ -415,7 +415,7 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta7efb1b3d5802837a/d
 | **Mère, âge et profession** | Pas indiqué (Marie-Anne BICHON) |
 | **Domicile**                | Bourg de Louin                  |
 | **Parrain**                 | Louis BICHON                    |
-| **Marraine**                | Michelle DESVALLON sa tante     |
+| **Marraine**                | Michelle DAVALON sa tante       |
 
 Remarque : Sa grande soeur est décédée il y a deux jours seulement le 15 janvier à l'âge de 18 mois et demi. Son acte de décès est justement celui qui précède ce baptême dans le registre.
 
@@ -465,15 +465,15 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta1b9a2d4ad71fe8dc/d
 
 #### Résumé
 
-| Commune                   | Moutiers-sous-Argenton, canton d'Argenton-le-Château                        |
-| ------------------------- | --------------------------------------------------------------------------- |
-| **Décédée**               | Marie Madeleine ROCHARD, 68 ans, veuve de Louis DESVALLON                   |
-| **le**                    | 25 février 1829 à 7h00 du matin                                             |
-| **Père**                  | René ROCHARD (contradiction avec le baptême ou c'est Jean ROCHARD)          |
-| **Mère**                  | Madeleine BELIARD (a dû se remarier)                                        |
-| **Domicile**              | Bourg de Moutiers-sous-Argenton                                             |
-| **Témoin 1 et déclarant** | Louis DESVALLON, son fils, 42 ans, bordier                                  |
-| **Témoin 2**              | Pierre DESVALLON, son fils, 37 ans, domestique domicilié à Mauzé-Thouarsais |
+| Commune                   | Moutiers-sous-Argenton, canton d'Argenton-le-Château                      |
+| ------------------------- | ------------------------------------------------------------------------- |
+| **Décédée**               | Marie Madeleine ROCHARD, 68 ans, veuve de Louis DAVALON                   |
+| **le**                    | 25 février 1829 à 7h00 du matin                                           |
+| **Père**                  | René ROCHARD (contradiction avec le baptême ou c'est Jean ROCHARD)        |
+| **Mère**                  | Madeleine BELIARD (a dû se remarier)                                      |
+| **Domicile**              | Bourg de Moutiers-sous-Argenton                                           |
+| **Témoin 1 et déclarant** | Louis DAVALON, son fils, 42 ans, bordier                                  |
+| **Témoin 2**              | Pierre DAVALON, son fils, 37 ans, domestique domicilié à Mauzé-Thouarsais |
 
 ## Mariage de Louis DAVALON et de Madeleine ROCHARD <a name="desvallonrochard"/>
 
