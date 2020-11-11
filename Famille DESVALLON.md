@@ -540,11 +540,49 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta56019b9f32bbe474/d
 
 ## BICHON, Marie-Anne <a name="desvallon13"/>
 
+### Baptême, Airvault, 24 août 1724
+
+<img src="./ActeNaissance/bichon_marie.png"/>
+
+Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vtac8499ba4e1f70578/daogrp/0/layout:table/idsearch:RECH_c78c137465effb24b3622cae90b6273a?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvtac8499ba4e1f70578%2Fcanvas%2F0%2F34&vx=3736.04&vy=-1299.28&vr=0&vz=5.49802
+
+#### Résumé
+
+| Commune                     | Airvault                  |
+| --------------------------- | ------------------------- |
+| **Enfant**                  | Marie-Anne BICHON         |
+| **Naissance**               | 24 août 1724              |
+| **Père, âge et profession** | Georges BICHON, boulanger |
+| **Mère, âge et profession** | Marie Madeleine FLEURY    |
+| **Domicile**                |                           |
+| **Parrain**                 | Antoine CRESPEAU          |
+| **Marraine**                | Marie Anne TURQUOIS       |
+
+### Acte de décès, Airvault, 24 janvier 1778
+
+<img src="./ActeDeces/bichon_marie.png"/>
+
+Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta1e54db3e5d9fd4b4/daogrp/0/layout:table/idsearch:RECH_c78c137465effb24b3622cae90b6273a?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta1e54db3e5d9fd4b4%2Fcanvas%2F0%2F108&vx=1539.08&vy=-1012.76&vr=0&vz=6.36834
+
+#### Résumé
+
+| Commune                   | Airvault                                         |
+| ------------------------- | ------------------------------------------------ |
+| **Décédée**               | Marie-Anne BICHON, sage-femme d'Airvault, 53 ans |
+| **le**                    | 24 janvier 1778                                  |
+| **Père**                  | Non indiqué                                      |
+| **Mère**                  | Non indiquée                                     |
+| **Domicile**              | Non indiqué                                      |
+| **Témoin 1 et déclarant** | Louis Pierre DESVALLON, son mari, tisserand      |
+| **Témoin 2**              | Ses enfants Louis, Joseph et d'autres            |
+
 ## Mariage de Louis DESVALLON et de Marie-Anne BICHON <a name="desvallonbichon"/>
 
 Pas trouvé ni à Airvault, ni à Louin, ni à Soulièvres. A probablement eu lieu entre 1750 et 1753 car l'ainée a été déclarée légitime.
 
 ---
+
+<img src="./Arbre/desvallon7.png"/>
 
 ## DESVALLON, Pierre <a name="desvallon14"/>
 
@@ -552,26 +590,121 @@ Pas trouvé ni à Airvault, ni à Louin, ni à Soulièvres. A probablement eu li
 
 <img src="./ActeDeces/desvallon_pierre.png"/>
 
-Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta7efb1b3d5802837a/daogrp/0/layout:table/idsearch:RECH_7637314785b1559b9fc3cf0854ca0f71?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta7efb1b3d5802837a%2Fcanvas%2F0%2F37&vx=1522.79&vy=-860.503&vr=0&vz=5.4924
+Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta7efb1b3d5802837a/daogrp/0?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta7efb1b3d5802837a%2Fcanvas%2F0%2F37
 
 #### Résumé
 
-| Commune                   | Moutiers-sous-Argenton, canton d'Argenton-le-Château                        |
-| ------------------------- | --------------------------------------------------------------------------- |
-| **Décédé**                | Marie Madeleine ROCHARD, 68 ans, veuve de Louis DESVALLON                   |
-| **le**                    | 25 février 1829 à 7h00 du matin                                             |
-| **Père**                  | René ROCHARD (contradiction avec le baptême ou c'est Jean ROCHARD)          |
-| **Mère**                  | Madeleine BELIARD (a dû se remarier)                                        |
-| **Domicile**              | Bourg de Moutiers-sous-Argenton                                             |
-| **Témoin 1 et déclarant** | Louis DESVALLON, son fils, 42 ans, bordier                                  |
-| **Témoin 2**              | Pierre DESVALLON, son fils, 37 ans, domestique domicilié à Mauzé-Thouarsais |
+| Commune                   | Louin                                                                                                                               |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **Décédé**                | Pierre DESVALLON, 54 ans                                                                                                            |
+| **le**                    | 6 juillet 1747                                                                                                                      |
+| **Père**                  | Non indiqué                                                                                                                         |
+| **Mère**                  | Non indiquée                                                                                                                        |
+| **Domicile**              | Non indiqué                                                                                                                         |
+| **Témoin 1 et déclarant** | Paul DESVALLON son fils                                                                                                             |
+| **Témoin 2**              | Ses filles Marie-Jeanne DESVALLON, Jeanne DESVALLON et Michelle DESVALLON, Pierre FAUVEAU son beau-frère, Martin BONTEMPS son neveu |
 
 ### Second mariage avec Marie FILLATRAULT
 
-Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta7efb1b3d5802837a/daogrp/0/layout:table/idsearch:RECH_74abf8232cc72f2a36f2ed467d6fe0f5?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta7efb1b3d5802837a%2Fcanvas%2F0%2F8&vx=3969.42&vy=-2834.12&vr=0&vz=5.32625
+<img src="./ActeMariage/desvallon_fillatrault.png"/>
 
-Elle est décédée un peu après leur mariage, le 15 avril 1746 (source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta7efb1b3d5802837a/daogrp/0/layout:table/idsearch:RECH_74abf8232cc72f2a36f2ed467d6fe0f5?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta7efb1b3d5802837a%2Fcanvas%2F0%2F19&vx=3968.05&vy=-1539.62&vr=0&vz=6.0032)
+Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta7efb1b3d5802837a/daogrp/0?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta7efb1b3d5802837a%2Fcanvas%2F0%2F8
+
+#### Résumé
+
+| Commune                                | Airvault                                    |
+| -------------------------------------- | ------------------------------------------- |
+| **Mari**                               | Pierre DESVALLON, veuf de Marie FAUVEAU     |
+| **Femme**                              | Marie FILLATRAULT, veuve de Nicolas BOIVIEN |
+| **Mariage**                            | 30 mai 1745                                 |
+| **Père du marié**                      | Non indiqué                                 |
+| **Mère du marié**                      | Non indiquée                                |
+| **Père de la mariée**                  | Martin François FILLATRAULT                 |
+| **Mère de la mariée**                  | Jaquette LAUVAUT                            |
+| **Domicile**                           | N/A                                         |
+| **Témoin 1 : père de la mariée**       | Martin François FILLATRAULT                 |
+| **Témoin 2 : frère de la mariée**      | François FILLATRAULT                        |
+| **Témoin 3 : beau-frère de la mariée** | François MARSAULT                           |
+| **Témoin 4 : voisin de la mariée**     | Jean GOUDEAU                                |
+| **Témoin 5 : mère de la mariée**       | Jaquette LAUVAUT                            |
+
+Marie FILLATRAULT est décédée un peu après leur mariage, le 15 avril 1746 
+
+-> source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta7efb1b3d5802837a/daogrp/0?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta7efb1b3d5802837a%2Fcanvas%2F0%2F19&vx=3819.73&vy=-1415.12&vr=0&vz=5.49801 
 
 ## FAUVEAU, Marie <a name="desvallon15"/>
 
+### Acte de décès, Louin, 4 mai 1738
+
+<img src="./ActeDeces/fauveau_marie.png"/>
+
+Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vtab6f4f871a0533f84/daogrp/0/layout:table/idsearch:RECH_74abf8232cc72f2a36f2ed467d6fe0f5?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvtab6f4f871a0533f84%2Fcanvas%2F0%2F92&vx=4023.08&vy=-672.896&vr=0&vz=6.63942
+
+#### Résumé
+
+| Commune                   | Louin                                                                           |
+| ------------------------- | ------------------------------------------------------------------------------- |
+| **Décédée**               | Marie FAUVEAU, 45 ans                                                           |
+| **le**                    | 4 mai 1738                                                                      |
+| **Père**                  | Non indiqué                                                                     |
+| **Mère**                  | Non indiquée                                                                    |
+| **Domicile**              | Non indiqué                                                                     |
+| **Témoin 1 et déclarant** | Pierre DESVALLON son mari, <mark>drapier </mark> de ce bourg                    |
+| **Témoin 2**              | Ses enfants Louis et Paul DESVALLON, Pierre FAUVEAU son frère, Pierre SAUVAGEAU |
+
+<mark>drapier</mark> : Fabricant et/ou marchand de draps
+
 ## Mariage de Pierre DESVALLON et de Marie FAUVEAU <a name="desvallonfauveau"/>
+
+<img src="./ActeMariage/desvallon_fauveau.png"/>
+
+Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta94cec7b10dcd434e/daogrp/0/layout:table/idsearch:RECH_74abf8232cc72f2a36f2ed467d6fe0f5?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta94cec7b10dcd434e%2Fcanvas%2F0%2F41
+
+#### Résumé
+
+| Commune                           | Louin                      |
+| --------------------------------- | -------------------------- |
+| **Mari**                          | Pierre DESVALLON           |
+| **Femme**                         | Marie FAUVEAU              |
+| **Mariage**                       | 26 janvier 1717            |
+| **Père du marié**                 | Jacques DESVALLON, décédé  |
+| **Mère du marié**                 | Marie PROUST, présente     |
+| **Père de la mariée**             | François FAUVEAU, présent  |
+| **Mère de la mariée**             | Barthélémie JOLY, présente |
+| **Domicile**                      | N/A                        |
+| **Témoin 1 : mère du marié**      | Marie DESVALLON née PROUST |
+| **Témoin 2 : soeur du marié**     | Marie DESVALLON            |
+| **Témoin 3**                      | Louis DESCHAMPS            |
+| **Témoin 4 : père de la mariée**  | François FAUVEAU           |
+| **Témoin 5 : mère de la mariée**  | Barthélémie JOLY           |
+| **Témoin 6 : frère de la mariée** | André FAUVEAU              |
+| **Témoin 7**                      | Louis MORGEON              |
+| **Témoin 8**                      | André GUILLON              |
+
+---
+
+<img src="./Arbre/desvallon8.png"/>
+
+## DESVALLON, Jacques Pierre
+
+On sait juste qu'il était décédé quand son fils s'est marié en 1717.
+
+## PROUST, Marie
+
+### Acte de décès, Louin, 31 mars 1721
+
+<img src="./ActeDeces/proust_marie.png"/>
+
+Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta94cec7b10dcd434e/daogrp/0/layout:table/idsearch:RECH_74abf8232cc72f2a36f2ed467d6fe0f5?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta94cec7b10dcd434e%2Fcanvas%2F0%2F84&vx=3687.47&vy=-2370.58&vr=0&vz=5.46327
+
+#### Résumé
+
+| Commune                   | Louin                                                                                                |
+| ------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Décédée**               | Marie PROUST, environ 60 ans, veuve du défunt (Jacques) Pierre DESVALLON                             |
+| **le**                    | 31 mars 1721                                                                                         |
+| **Père**                  | Non indiqué                                                                                          |
+| **Mère**                  | Non indiquée                                                                                         |
+| **Domicile**              | Non indiqué                                                                                          |
+| **Témoin 1 et déclarant** | Pierre DESVALLON son fils                                                                            |
+| **Témoin 2**              | Marie DESVALLON sa fille, Martin et Philippe SAUVAGEAU, René BAREAU, Jacques COINDRE et Pierre GALLY |
