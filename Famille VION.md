@@ -333,7 +333,7 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta1d14e756a3ce1e86/
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Mari**                           | Pierre Alexandre VION, 37 ans, né à la Coudre le 18 avril 1847, cultivateur demeurant au Pin, veuf en premières noces de Philomène HERAULT |
 | **Femme**                          | Elisa Victorine MAROLLEAU, 29 ans, née à Noirterre le 7 octobre 1854, sans profession, demeurant à Combrand                                |
-| **Mariage**                        | 7 novembre 1905 à 09h00 du matin                                                                                                           |
+| **Mariage**                        | 29 avril 1884                                                                                                                              |
 | **Père du marié**                  | Pierre VION, décédé à Nueil-les-Aubiers le 24 août 1881                                                                                    |
 | **Mère du marié**                  | Marie-Jeanne HAYE, décédée à Boësse le 3 octobre 1851                                                                                      |
 | **Père de la mariée**              | Pierre MAROLLEAU, cultivateur de 68 ans à Combrand                                                                                         |
@@ -513,7 +513,7 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta81aa9c192a625b6c/
 | --------------------------- | -------------------------------------------- |
 | **Enfant**                  | Pierre Louis VION                            |
 | **Naissance**               | 10 février 1813 à 04h00 du matin             |
-| **Père, âge et profession** | Pierre Vion, <mark>bordier </mark> de 33 ans |
+| **Père, âge et profession** | Pierre VION, <mark>bordier </mark> de 33 ans |
 | **Mère, âge et profession** | Marie MOREAU                                 |
 | **Domicile**                | Non indiqué (mais probablement Brétignolles) |
 | **Témoin 1**                | _Pierre HÉRAULT_, bordier                    |
@@ -715,7 +715,7 @@ Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vtaaadeac145ba14ac2/
 
 ## Succession
 
-<img src="./TableSuccessions/vion_pierre.png""/>
+<img src="./TableSuccessions/vion_pierre.png"/>
 
 Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vta10663c0044ac9b89/daogrp/0/layout:table/idsearch:RECH_b4fdde5c5160327c207f47ec67c26344#id:1493916748?gallery=true&brightness=100.00&contrast=100.00¢er=2178.166,-1854.237&zoom=11&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vta10663c0044ac9b89/daogrp/0/layout:table/idsearch:RECH_b4fdde5c5160327c207f47ec67c26344#id:1493916748?gallery=true&brightness=100.00&contrast=100.00&center=2178.166,-1854.237&zoom=11&rotation=0.000)
 
