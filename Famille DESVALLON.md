@@ -16,6 +16,8 @@ Les arrières-grands-parents DESVALLON sont issus du Maine-et-Loire, qui est un 
 
 On remarque que le nom DESVALLON est assez récent, sa première apparition date de 1875. A l'origine les vicaires (paroisse) écrivaient DAVALON, même si plusieurs membres de la famille signaient DAVALLON. Après la Révolution française, les maires ont transformés le nom en DEVALLON puis DESVALLON. Mention honorable aux 3 frères Henri François et Louis (entre 1858 et 1875) qui ont chacun eu une orthographe différente !
 
+<u>Lien Geneanet de l'arbre généalogique complet</u> : [Benjamin François VION : généalogie par Benjamin VION - Geneanet](https://gw.geneanet.org/kribouille_w?lang=fr&p=benjamin+francois&n=vion&oc=0)
+
 # Table des matières
 
 - [Souche de l'arbre](#souche)

@@ -12,6 +12,8 @@ Chaque famille possède sa section qui permet de connaître l'ensemble de la fra
 
 Parfois j'ai des doutes sur certaines informations, auquel cas elles sont en *italique* dans le document.
 
+Lien Geneanet de l'arbre généalogique complet : [Benjamin François VION : généalogie par Benjamin VION - Geneanet](https://gw.geneanet.org/kribouille_w?lang=fr&p=benjamin+francois&n=vion&oc=0)
+
 ---
 
 # Table des matières
@@ -825,6 +827,8 @@ A ce moment-là, ils vivaient seuls avec leur dernière fille Marie née en 1824
 Source : [https://archives-deux-sevres-vienne.fr/ark:/58825/vtab4b867e370b804e7/daogrp/0/layout:table/idsearch:RECH_ac8759c32f4fed7e511f97fa759541fe#id:67093996?gallery=true&brightness=100.00&contrast=100.00¢er=639.461,-2666.837&zoom=12&rotation=0.000](https://archives-deux-sevres-vienne.fr/ark:/58825/vtab4b867e370b804e7/daogrp/0/layout:table/idsearch:RECH_ac8759c32f4fed7e511f97fa759541fe#id:67093996?gallery=true&brightness=100.00&contrast=100.00&center=639.461,-2666.837&zoom=12&rotation=0.000)
 
 ---
+
+<img src="./Arbre/vion6.png"/>
 
 ## VION, Jean Pierre <a name="vion12"/>
 
