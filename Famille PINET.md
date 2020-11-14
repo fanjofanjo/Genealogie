@@ -162,7 +162,7 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta21f8e28382ea98c9/d
 
 Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta90b9a263e8bbac2d/daogrp/0/layout:table/idsearch:RECH_b0bd50ead5fec93462f2b1d7da665871?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta90b9a263e8bbac2d%2Fcanvas%2F0%2F5&vx=1100.43&vy=-1271.35&vr=0&vz=4.2852
 
-Résumé
+#### Résumé
 
 | Commune                                | Saint-Amand-sur-Sèvre, canton de Châtillon                                |
 | -------------------------------------- | ------------------------------------------------------------------------- |
@@ -191,12 +191,63 @@ Arrivés depuis peu à Saint-Maurice (ils habitaient Argenton-l-Eglise), avec le
 
 ## PINET, Firmin Auguste <a name="pinet6"/>
 
+### Acte de naissance, Saint-Mesmin, 27 juillet 1841
 
+<img src="./ActeNaissance/pinet_firmin_auguste.png"/>
+
+Source : [Visionneuse - Archives départementales de la Vendée](https://etatcivil-archives.vendee.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo3OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMTEtMTQiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6MTtzOjQ6InJlZjIiO2k6Mzc4MDc7czoyMDoicmVmX2Fya19mYWNldHRlX2NvbmYiO3M6OToiZXRhdGNpdmlsIjtzOjE2OiJ2aXNpb25uZXVzZV9odG1sIjtiOjE7czoyMToidmlzaW9ubmV1c2VfaHRtbF9tb2RlIjtzOjQ6InByb2QiO30=)
+
+#### Résumé
+
+| Commune                     | Saint-Mesmin, canton de Pouzauges   |
+| --------------------------- | ----------------------------------- |
+| **Enfant**                  | Firmin Auguste PINET                |
+| **Naissance**               | 27 juillet 1841 à 17h00             |
+| **Père, âge et profession** | Toussaint PINET, 35 ans, bordier    |
+| **Mère, âge et profession** | Louise AUDOUIN                      |
+| **Domicile**                | La *Catissière*, Saint-Mesmin       |
+| **Témoin 1**                | Louis GUILLOTEAU, 41 ans, menuisier |
+| **Témoin 2**                | Pierre COMPAGNON, 64 ans, jardinier |
+
+### Acte de décès, Etusson, 11 octobre 1901
+
+<img src="./ActeDeces/pinet_firmin.png"/>
+
+Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta32b483a70640d865/daogrp/0/layout:table/idsearch:RECH_cb559c99111e5cc122a59e8234d26075?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta32b483a70640d865%2Fcanvas%2F0%2F23&vx=1160.54&vy=-767.822&vr=0&vz=6.40666
+
+#### Résumé
+
+| Commune                   | Etusson, canton d'Argenton-Château                    |
+| ------------------------- | ----------------------------------------------------- |
+| **Décédé**                | PINET Firmin, 61 ans (60 en vérité)                   |
+| **le**                    | 11 octobre 1901 à 1h00 du matin                       |
+| **Père**                  | Toussaint PINET, décédé                               |
+| **Mère**                  | Louise BAUDOIN, décédée                               |
+| **Domicile**              | Le Breillet, Etusson                                  |
+| **Témoin 1 et déclarant** | Pierre PINET, 28 ans, cultivateur à Etusson, son fils |
+| **Témoin 2**              | Firmin PINET, 29 ans, domestique à Boësse, son fils   |
 
 ## MORISSET, Henriette <a name="pinet7"/>
 
-
-
 ## Mariage de Firmin PINET et de Henriette MORISSET <a name="pinetmorisset"/>
 
+<img src="./ActeMariage/pinet_morisset.png"/>
 
+Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta3e3d0a407df04b6f/daogrp/0/layout:table/idsearch:RECH_05fd12d8fe0014d018466deab8a82026?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta3e3d0a407df04b6f%2Fcanvas%2F0%2F141&vx=2459.67&vy=-1703.36&vr=0&vz=6.60928
+
+#### Résumé
+
+| Commune                           | Nueil-sous-les-Aubiers, canton de Châtillon                |
+| --------------------------------- | ---------------------------------------------------------- |
+| **Mari**                          | Firmin Auguste PINET, domestique                           |
+| **Femme**                         | Marie Henriette MORISSET, sans profession                  |
+| **Mariage**                       | 23 novembre 1869 à 9h00                                    |
+| **Père du marié**                 | Toussaint PINET, marchand de porcs à Saint-Mesmin, présent |
+| **Mère du marié**                 | Louise AUDOUIN, décédée à St Mesmin le 20 novembre 1849    |
+| **Père de la mariée**             | Charles MORISSET, cultivateur à Nueil, présent             |
+| **Mère de la mariée**             | Victoire COUTANT, sans profession, Nueil, présente         |
+| **Domicile**                      | Nueil                                                      |
+| **Témoin 1 : cousin du marié**    | Pierre GEAUTREAU, 56 ans, cultivateur à Brétignolles       |
+| **Témoin 2 : ami du marié**       | Joseph CHOUTTEAU, 48 ans, cultivateur à Nueil              |
+| **Témoin 3 : frère de la mariée** | Jean-Baptiste MORISSET, 23 ans, cultivateur à Nueil        |
+| **Témoin 4 : frère du marié**     | Toussaint PINET, 41 ans, cultivateur à Nueil               |
