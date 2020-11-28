@@ -459,7 +459,7 @@ Source : [Visionneuse - Archives départementales de la Vendée](https://etatciv
 
 ## COLONNIER, Marie Rose <a name="pinet11"/>
 
-### Acte de naissance, Montournais, 19 avril 1781
+### Baptême, Montournais, 19 avril 1781
 
 ### Acte de décès, Saint-André-sur-Sèvre, 3 mai 1845
 
@@ -472,7 +472,7 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta73d504dcc5b1c246/d
 | Commune                   | Saint-André-sur-Sèvre, canton de Cerizay          |
 | ------------------------- | ------------------------------------------------- |
 | **Décédée**               | Rose COLONNIER, 64 ans                            |
-| **le**                    | 9 mai 1810 à 22h00                                |
+| **le**                    | 3 mai 1845 à 8h00                                 |
 | **Père**                  | Toussaint COLONNIER, décédé                       |
 | **Mère**                  | Rose ROUTHIAU, décédée                            |
 | **Domicile**              | Saint-André-sur-Sèvre                             |
