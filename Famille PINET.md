@@ -40,9 +40,25 @@ Parfois j'ai des doutes sur certaines informations, auquel cas elles sont en *it
   
   - [PINET, Firmin Auguste](#pinet6)
   
-  - [MORISSET, Henriette](#pinet7)
+  - [MORISSET, Marie Henriette](#pinet7)
   
   - [Mariage de Firmin PINET et de Henriette MORISSET](#pinetmorisset)
+
+- Quinquisaïeuls paternels
+  
+  - [PINET, Toussaint Jean](#pinet8)
+  
+  - [AUDOUIN, Louise Thérèse](#pinet9)
+  
+  - [Mariage de Toussaint PINET et de Louise AUDOUIN](#pinetaudouin)
+
+- Sextaïeuls paternels
+  
+  - [PINET, Pierre](#pinet10)
+  
+  - [COLONNIER, Marie Rose](#pinet11)
+  
+  - [Mariage de Pierre PINET et de Marie Rose COLONNIER](#pinetcolonnier)
 
 ## Souche de l'arbre <a name="souche"/>
 
@@ -189,6 +205,8 @@ Arrivés depuis peu à Saint-Maurice (ils habitaient Argenton-l-Eglise), avec le
 
 ---
 
+<img src="./Arbre/pinet3.png"/>
+
 ## PINET, Firmin Auguste <a name="pinet6"/>
 
 ### Acte de naissance, Saint-Mesmin, 27 juillet 1841
@@ -227,7 +245,23 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta32b483a70640d865/d
 | **Témoin 1 et déclarant** | Pierre PINET, 28 ans, cultivateur à Etusson, son fils |
 | **Témoin 2**              | Firmin PINET, 29 ans, domestique à Boësse, son fils   |
 
-## MORISSET, Henriette <a name="pinet7"/>
+## MORISSET, Marie Henriette <a name="pinet7"/>
+
+<img src="./ActeNaissance/morisset_henriette.png"/>
+
+Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta64057a5a151af376/daogrp/0/layout:table/idsearch:RECH_05fd12d8fe0014d018466deab8a82026?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta64057a5a151af376%2Fcanvas%2F0%2F91&vx=2640.52&vy=-2232.42&vr=0&vz=6.9289
+
+#### Résumé
+
+| Commune                     | Nueil-sous-les-Aubiers, canton de Chatillon |
+| --------------------------- | ------------------------------------------- |
+| **Enfant**                  | Marie Henriette MORISSET                    |
+| **Naissance**               | 1 juin 1844 à 6h                            |
+| **Père, âge et profession** | Charles MORISSET, 30 ans, cultivateur       |
+| **Mère, âge et profession** | Victoire COUTANT, 31 ans, sans profession   |
+| **Domicile**                | La Chagnelais, Nueil                        |
+| **Témoin 1**                | Pierre NEAU, 30 ans, instituteur            |
+| **Témoin 2**                | Pierre PAILLAT, 46 ans, menuisier           |
 
 ## Mariage de Firmin PINET et de Henriette MORISSET <a name="pinetmorisset"/>
 
@@ -251,3 +285,199 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta3e3d0a407df04b6f/d
 | **Témoin 2 : ami du marié**       | Joseph CHOUTTEAU, 48 ans, cultivateur à Nueil              |
 | **Témoin 3 : frère de la mariée** | Jean-Baptiste MORISSET, 23 ans, cultivateur à Nueil        |
 | **Témoin 4 : frère du marié**     | Toussaint PINET, 41 ans, cultivateur à Nueil               |
+
+## Recensement à Nueil-sous-les-Aubiers en 1886
+
+<img src="./Recensement/pinet_morisset.png"/>
+
+Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta08bb7b36a785af96/daogrp/0/layout:table/idsearch:RECH_65a307a0dd459d1f401425d0c9937337?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta08bb7b36a785af96%2Fcanvas%2F0%2F59&vx=1520.42&vy=-1087.83&vr=0&vz=6.04261
+
+Tout le monde est là, il manque juste le petit dernier qui va naître plus tard dans l'année.
+
+## Recensement à Etusson en 1901 et 1906
+
+<img src="./Recensement/pinet_morisset_etusson.png"/>
+
+Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta8245e587d780e728/daogrp/0/layout:table/idsearch:RECH_56595a8805e62e8f2127b61f262bc92d?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta8245e587d780e728%2Fcanvas%2F0%2F19&vx=1249.32&vy=-2694.18&vr=0&vz=5.13224
+
+En 1901, les parents et leurs 3 derniers enfants ont déménagés à Etusson. Firmin va décéder dans cette année.
+
+<img src="./Recensement/pinet_morisset_etusson_2.png"/>
+
+Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta0c38250f8f14d667/daogrp/0/layout:table/idsearch:RECH_56595a8805e62e8f2127b61f262bc92d?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta0c38250f8f14d667%2Fcanvas%2F0%2F21&vx=1355.35&vy=-2518.48&vr=0&vz=6.06034
+
+Ils ont encore déménagé, Dominique gère une ferme avec sa mère et un domestique. 
+
+---
+
+<img src="./Arbre/pinet4.png"/>
+
+## PINET, Toussaint Jean <a name="pinet8"/>
+
+### Acte de naissance, Courlay, 30 avril 1805
+
+<img src="./ActeNaissance/pinet_toussaint.png"/>
+
+Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vtacfbcb6a1cad11bff/daogrp/0/layout:table/idsearch:RECH_2d3736332ec47f5e4101fbaa31e1370c?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvtacfbcb6a1cad11bff%2Fcanvas%2F0%2F12&vx=1529.27&vy=-1401.53&vr=0&vz=5.94277
+
+#### Résumé
+
+| Commune                     | Courlay, arrondissement de Bressuire                              |
+| --------------------------- | ----------------------------------------------------------------- |
+| **Enfant**                  | Jean Toussaint PINET                                              |
+| **Naissance**               | 10 Floréal An 13 de la République Française (30 avril 1805)       |
+| **Père, âge et profession** | Pierre PINET, bordier                                             |
+| **Mère, âge et profession** | Marie Rose COLONIEU                                               |
+| **Domicile**                | La Laimière, Courlay                                              |
+| **Témoin 1**                | Jean PINET, 36 ans, bordier à La Laimière, oncle de l'enfant      |
+| **Témoin 2**                | Laurent PINET, 32 ans, tisserand à La Laimière, oncle de l'enfant |
+
+### Second mariage avec Marie GUEDON
+
+<img src="./Arbre/pinet4bis.png"/>
+
+<img src="./ActeMariage/pinet_guedon.png"/>
+
+#### Résumé
+
+| Commune                        | Saint-Mesmin, canton de Pouzauges                                                                             |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------- |
+| **Mari**                       | Jean Toussaint PINET, journalier, 44 ans, demeurant à Saint-Mesmin, veuf en premières noces de Louise AUDOUIN |
+| **Femme**                      | Marie GUEDON, servante à Saint-Mesmin, 41 ans, veuve en premières noces de Pierre BLANCHET                    |
+| **Mariage**                    | 21 janvier 1851 à 9h du matin                                                                                 |
+| **Père du marié**              | Pierre PINET, décédé à Montournais le 9 mai 1810                                                              |
+| **Mère du marié**              | Marie Rose COLONNIER, décédée à Saint-André sur Sèvre le 3 mai 1845                                           |
+| **Père de la mariée**          | Jean GUEDON, tisserand, décédé                                                                                |
+| **Mère de la mariée**          | Marie HERISSE, décédée                                                                                        |
+| **Domicile**                   | N/A                                                                                                           |
+| **Témoin 1 : ami des mariés**  | Joseph GIRARDEAU, bordier, 70 ans, Cerizay                                                                    |
+| **Témoin 2 : ami des mariés**  | Jean GIRARDEAU, journalier, 64 ans, Cerizay                                                                   |
+| **Témoin 3 : amie des mariés** | Marie DIGUET, jounralier, 38 ans, Cerizay                                                                     |
+| **Témoin 4 : ami des mariés**  | Pierre BILLAUD, 34 ans, domestique à Saint-Mesmin                                                             |
+
+### Acte de décès, Saint-Mesmin, 18 décembre 1878
+
+<img src="./ActeDeces/pinet_toussaint.png"/>
+
+Source : [Visionneuse - Archives départementales de la Vendée](https://etatcivil-archives.vendee.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo3OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMTEtMTUiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6MTtzOjQ6InJlZjIiO2k6Mzc4MTY7czoyMDoicmVmX2Fya19mYWNldHRlX2NvbmYiO3M6OToiZXRhdGNpdmlsIjtzOjE2OiJ2aXNpb25uZXVzZV9odG1sIjtiOjE7czoyMToidmlzaW9ubmV1c2VfaHRtbF9tb2RlIjtzOjQ6InByb2QiO30=)
+
+#### Résumé
+
+| Commune                   | Saint-Mesmin, canton de Pouzauges                                                       |
+| ------------------------- | --------------------------------------------------------------------------------------- |
+| **Décédé**                | PINET Toussaint, 71 ans (73 en vérité), veuf de Louise AUDOUIN et époux de Marie GUEDON |
+| **le**                    | 18 décembre 1878 à 15h00                                                                |
+| **Père**                  | Pierre PINET, décédé                                                                    |
+| **Mère**                  | Rose COLONNIEU, décédée                                                                 |
+| **Domicile**              | La Roche-Gautreau, Saint-Mesmin                                                         |
+| **Témoin 1 et déclarant** | René BITAUDEAU, 49 ans, domestique, allié du défunt                                     |
+| **Témoin 2**              | Auguste PINET, 50 ans, fermier à La Vacherasse, son fils                                |
+
+## AUDOUIN, Louise Thérèse <a name="pinet9"/>
+
+### Acte de naissance, Saint-Mesmin, 16 mars 1806
+
+<img src="./ActeNaissance/audouin_louise.png"/>
+
+Source : [Visionneuse - Archives départementales de la Vendée](https://etatcivil-archives.vendee.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo3OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMTEtMTUiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6MTtzOjQ6InJlZjIiO2k6Mzc4MDQ7czoyMDoicmVmX2Fya19mYWNldHRlX2NvbmYiO3M6OToiZXRhdGNpdmlsIjtzOjE2OiJ2aXNpb25uZXVzZV9odG1sIjtiOjE7czoyMToidmlzaW9ubmV1c2VfaHRtbF9tb2RlIjtzOjQ6InByb2QiO30=)
+
+#### Résumé
+
+| Commune                     | Saint-Mesmin, canton de Pouzauges     |
+| --------------------------- | ------------------------------------- |
+| **Enfant**                  | Louise Thérèse AUDOUIN                |
+| **Naissance**               | 16 mars 1806 à 19h00                  |
+| **Père, âge et profession** | Louis AUDOUIN, bordier                |
+| **Mère, âge et profession** | Thérèse COUTANT                       |
+| **Domicile**                | Le Begnon, Saint-Mesmin               |
+| **Témoin 1**                | Louis BOUREAU, 23 ans, laboureur      |
+| **Témoin 2**                | Jacques *BAYARD*, 26 ans, charpentier |
+
+### Acte de décès, Saint-Mesmin, 19 novembre 1849
+
+<img src="./ActeDeces/audouin_louise.png"/>
+
+Source : [Visionneuse - Archives départementales de la Vendée](https://etatcivil-archives.vendee.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo3OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMTEtMjEiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6MTtzOjQ6InJlZjIiO2k6Mzc4MDg7czoyMDoicmVmX2Fya19mYWNldHRlX2NvbmYiO3M6OToiZXRhdGNpdmlsIjtzOjE2OiJ2aXNpb25uZXVzZV9odG1sIjtiOjE7czoyMToidmlzaW9ubmV1c2VfaHRtbF9tb2RlIjtzOjQ6InByb2QiO30=)
+
+#### Résumé
+
+| Commune                   | Saint-Mesmin, canton de Pouzauges       |
+| ------------------------- | --------------------------------------- |
+| **Décédée**               | Louise AUDOUIN, 44 ans, sans profession |
+| **le**                    | 19 novembre 1849 à 14h00                |
+| **Père**                  | Louis AUDOUIN, décédé                   |
+| **Mère**                  | Thérèse COUTAND, décédée                |
+| **Domicile**              | Saint-Mesmin                            |
+| **Témoin 1 et déclarant** | Jean CHAIGNEAU, 36 ans, cordonnier      |
+| **Témoin 2**              | Aimé BIRAUD, 35 ans, bordier            |
+
+## Mariage de Toussaint PINET et de Louise AUDOUIN <a name="pinetaudouin"/>
+
+<img src="./ActeMariage/pinet_audouin.png"/>
+
+Source : [Visionneuse - Archives départementales de la Vendée](https://etatcivil-archives.vendee.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo3OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMTEtMjEiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6MTtzOjQ6InJlZjIiO2k6Mzc4MDY7czoyMDoicmVmX2Fya19mYWNldHRlX2NvbmYiO3M6OToiZXRhdGNpdmlsIjtzOjE2OiJ2aXNpb25uZXVzZV9odG1sIjtiOjE7czoyMToidmlzaW9ubmV1c2VfaHRtbF9tb2RlIjtzOjQ6InByb2QiO30=)
+
+#### Résumé
+
+| Commune                                | Saint-Mesmin, canton de Pouzauges                                                     |
+| -------------------------------------- | ------------------------------------------------------------------------------------- |
+| **Mari**                               | Jean Toussaint PINET, 21 ans, demeurant au village de Puiboit à Saint-André-sur-Sèvre |
+| **Femme**                              | Louise Thérèse AUDOUIN, 20 ans, demeurant au village de la Chagnais de Saint-Mesmin   |
+| **Mariage**                            | 19 février 1827 à 16h00                                                               |
+| **Père du marié**                      | Pierre PINET, décédé à Montournais le 9 mai 1810                                      |
+| **Mère du marié**                      | Marie Rose COLONIER, présente                                                         |
+| **Père de la mariée**                  | Louis AUDOUIN, propriétaire décédé à Saint-Mesmin le 24 avril 1819                    |
+| **Mère de la mariée**                  | Thérèse COUTAND, présente                                                             |
+| **Domicile**                           | N/A                                                                                   |
+| **Témoin 1**                           | Pierre DENIAUD, laboureur, 54 ans, Saint-Mesmin                                       |
+| **Témoin 2 : oncle du marié**          | Jacques PINET, tisserand, 47 ans, Pouzauges                                           |
+| **Témoin 3 : demi-frère de la mariée** | Louis DELAVAUD, propriétaire à Saint-Mesmin, 29 ans                                   |
+| **Témoin 4 : demi-frère du marié**     | Louis AUDOUIN, domestique à Saint-Mesmin, 27 ans                                      |
+
+---
+
+## PINET, Pierre <a name="pinet10"/>
+
+### Acte de décès, Montournais, 9 mai 1810
+
+<img src="./ActeDeces/pinet_pierre.png"/>
+
+Source : [Visionneuse - Archives départementales de la Vendée](https://etatcivil-archives.vendee.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo3OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMTEtMjgiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6MTtzOjQ6InJlZjIiO2k6MjE5OTU7czoyMDoicmVmX2Fya19mYWNldHRlX2NvbmYiO3M6OToiZXRhdGNpdmlsIjtzOjE2OiJ2aXNpb25uZXVzZV9odG1sIjtiOjE7czoyMToidmlzaW9ubmV1c2VfaHRtbF9tb2RlIjtzOjQ6InByb2QiO30=)
+
+#### Résumé
+
+| Commune                   | Montournais                                                        |
+| ------------------------- | ------------------------------------------------------------------ |
+| **Décédé**                | Pierre PINET, 42 ans, bordier propriétaire, mari de Rose COLONNIER |
+| **le**                    | 9 mai 1810 à 22h00                                                 |
+| **Père**                  | Michel PINET, décédé à Courlay                                     |
+| **Mère**                  | Perrine PRIEUR, décédée à Courlay                                  |
+| **Domicile**              | La Haute Gazelière, Montournais                                    |
+| **Témoin 1 et déclarant** | Jacques PINET, frère du défunt, 31 ans                             |
+| **Témoin 2**              | Pierre CREMOIS, bordier de 50 ans, voisin et ami                   |
+| **Témoin 3**              | Jacques CHARRON, métayer de 38 ans, voisin et ami                  |
+
+## COLONNIER, Marie Rose <a name="pinet11"/>
+
+### Acte de naissance, Montournais, 19 avril 1781
+
+### Acte de décès, Saint-André-sur-Sèvre, 3 mai 1845
+
+<img src="./ActeDeces/colonnier_rose.png"/>
+
+Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta73d504dcc5b1c246/daogrp/0/layout:table/idsearch:RECH_7d5924e0b532ae83cd49aef3c9cf5c6c?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta73d504dcc5b1c246%2Fcanvas%2F0%2F51&vx=2974.35&vy=-1815.5&vr=0&vz=6.10123
+
+#### Résumé
+
+| Commune                   | Saint-André-sur-Sèvre, canton de Cerizay          |
+| ------------------------- | ------------------------------------------------- |
+| **Décédée**               | Rose COLONNIER, 64 ans                            |
+| **le**                    | 9 mai 1810 à 22h00                                |
+| **Père**                  | Toussaint COLONNIER, décédé                       |
+| **Mère**                  | Rose ROUTHIAU, décédée                            |
+| **Domicile**              | Saint-André-sur-Sèvre                             |
+| **Témoin 1 et déclarant** | Mari GARRAUD, son époux, 65 ans                   |
+| **Témoin 2**              | Joseph AUBINEAU, métayer, 62 ans, voisin et ami   |
+| **Témoin 3**              | Jacques CHARRON, métayer de 38 ans, voisin et ami |
+
+## Mariage de Pierre PINET et de Marie Rose COLONNIER <a name="pinetcolonnier"/>
