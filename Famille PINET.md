@@ -60,6 +60,22 @@ Parfois j'ai des doutes sur certaines informations, auquel cas elles sont en *it
   
   - [Mariage de Pierre PINET et de Marie Rose COLONNIER](#pinetcolonnier)
 
+- Septaïeuls paternels
+  
+  - [PINET, Michel](#pinet12)
+  
+  - [PRIEUR, Perrine](#pinet13)
+  
+  - [Mariage de Michel PINET et de Perrine PRIEUR](#pinetprieur)
+
+- Octaïeuls paternels
+  
+  - [PINET, Pierre](#pinet14)
+  
+  - [DE LA BASSE, Léonarde](#pinet15)
+  
+  - [Mariage de Pierre PINET et de Léonarde DE LA BASSE](#pinetdelabasse)
+
 ## Souche de l'arbre <a name="souche"/>
 
 <img src="./Arbre/soucheArbre.png"/>
@@ -436,6 +452,8 @@ Source : [Visionneuse - Archives départementales de la Vendée](https://etatciv
 
 ---
 
+<img src="./Arbre/pinet5.png"/>
+
 ## PINET, Pierre <a name="pinet10"/>
 
 ### Acte de décès, Montournais, 9 mai 1810
@@ -461,6 +479,22 @@ Source : [Visionneuse - Archives départementales de la Vendée](https://etatciv
 
 ### Baptême, Montournais, 19 avril 1781
 
+<img src="./ActeNaissance/colonnier_rose.png"/>
+
+Source : [Visionneuse - Archives départementales de la Vendée](https://etatcivil-archives.vendee.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo3OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMTEtMzAiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6MTtzOjQ6InJlZjIiO2k6MjIwMTk7czoyMDoicmVmX2Fya19mYWNldHRlX2NvbmYiO3M6OToiZXRhdGNpdmlsIjtzOjE2OiJ2aXNpb25uZXVzZV9odG1sIjtiOjE7czoyMToidmlzaW9ubmV1c2VfaHRtbF9tb2RlIjtzOjQ6InByb2QiO30=)
+
+#### Résumé
+
+| Commune                     | Moutournais                            |
+| --------------------------- | -------------------------------------- |
+| **Enfant**                  | Marie Rose COLONNIER                   |
+| **Naissance**               | 19 avril 1781                          |
+| **Père, âge et profession** | Toussaint COLONNIER                    |
+| **Mère, âge et profession** | Rose ROUTIEAU                          |
+| **Domicile**                | N/A                                    |
+| **Témoin 1**                | Pierre BREMAUD le parrain              |
+| **Témoin 2**                | Marianne ROUTIEAU la marraine et tante |
+
 ### Acte de décès, Saint-André-sur-Sèvre, 3 mai 1845
 
 <img src="./ActeDeces/colonnier_rose.png"/>
@@ -481,3 +515,68 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta73d504dcc5b1c246/d
 | **Témoin 3**              | Jacques CHARRON, métayer de 38 ans, voisin et ami |
 
 ## Mariage de Pierre PINET et de Marie Rose COLONNIER <a name="pinetcolonnier"/>
+
+<img src="./ActeMariage/pinet_colonnier.png"/>
+
+Source : [Visionneuse - Archives départementales de la Vendée](https://etatcivil-archives.vendee.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo3OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMTEtMzAiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6MTtzOjQ6InJlZjIiO2k6MjIwMjI7czoyMDoicmVmX2Fya19mYWNldHRlX2NvbmYiO3M6OToiZXRhdGNpdmlsIjtzOjE2OiJ2aXNpb25uZXVzZV9odG1sIjtiOjE7czoyMToidmlzaW9ubmV1c2VfaHRtbF9tb2RlIjtzOjQ6InByb2QiO30=)
+
+#### Résumé
+
+| Commune                          | Montournais                                                                                                                                                                                    |
+| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Mari**                         | Pierre PINET, 30(?) ans, propriétaire cultivateur demeurant à Courlay. Son acte de baptême a été perdu durant les guerres civiles (cette guerre aurait eu lieu en 1793 d'après les historiens) |
+| **Femme**                        | Marie Rose COLONNIER, 23 ans                                                                                                                                                                   |
+| **Mariage**                      | 30 mai 1804 (10 prairial An XII)                                                                                                                                                               |
+| **Père du marié**                | Michel PINET, décédé à Courlay                                                                                                                                                                 |
+| **Mère du marié**                | Marie PRIEUR, décédée à Courlay                                                                                                                                                                |
+| **Père de la mariée**            | Toussaint COLONNIER                                                                                                                                                                            |
+| **Mère de la mariée**            | Andrée Rose ROUTIAU                                                                                                                                                                            |
+| **Domicile**                     | N/A                                                                                                                                                                                            |
+| **Témoin 1 : père de la mariée** | Toussaint COLONNIER, propriétaire, 84 ans                                                                                                                                                      |
+| **Témoin 2 : ami du marié**      | Mathurin GATINEAU, journalier, 40 ans                                                                                                                                                          |
+| **Témoin 3 : ami de la mariée**  | Mathurin PERRIN, métayer, 27 ans                                                                                                                                                               |
+| **Témoin 4 : ami du marié**      | Pierre Jean CAILLAUD, maréchal ferrand, 30 ans                                                                                                                                                 |
+
+---
+
+## PINET, Michel <a name="pinet12"/>
+
+### Baptême, Poussanges (Creuse), 15 octobre 1733
+
+<img src="./ActeNaissance/pinet_michel.png"/>
+
+Source : [Visionneuse - AD Creuse - Arkotheque](https://archives.creuse.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMTItMDEiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6MjtzOjQ6InJlZjIiO2k6NTk3NTtzOjE2OiJ2aXNpb25uZXVzZV9odG1sIjtiOjE7czoyMToidmlzaW9ubmV1c2VfaHRtbF9tb2RlIjtzOjQ6InByb2QiO30=#uielem_move=-1311%2C116&uielem_islocked=0&uielem_zoom=156&uielem_brightness=0&uielem_contrast=0&uielem_isinverted=0&uielem_rotate=F)
+
+### Second mariage avec Marie BISLEAU
+
+<img src="./ActeMariage/pinet_bisleau.png"/>
+
+Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta99d9d9f67e6240a7/daogrp/0/layout:table/idsearch:RECH_2d3736332ec47f5e4101fbaa31e1370c?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta99d9d9f67e6240a7%2Fcanvas%2F0%2F11&vx=1018.3&vy=-1706.54&vr=0&vz=8.35345
+
+## PRIEUR, Marie Perrine <a name="pinet13"/>
+
+### Baptême, Courlay, 4 mars 1743
+
+<img src="./ActeNaissance/prieur_perrine.png"/>
+
+Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vtaa9a96de64bb96eb8/daogrp/0/layout:table/idsearch:RECH_2d3736332ec47f5e4101fbaa31e1370c?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvtaa9a96de64bb96eb8%2Fcanvas%2F0%2F31&vx=1276.15&vy=-2052.87&vr=0&vz=6.85586
+
+### Acte de décès, Courlay, 19 mai 1773
+
+<img src="./ActeDeces/prieur_perrine.png"/>
+
+Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta18908ba5bae3546c/daogrp/0/layout:table/idsearch:RECH_2d3736332ec47f5e4101fbaa31e1370c?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta18908ba5bae3546c%2Fcanvas%2F0%2F137&vx=2492.9&vy=-1235.51&vr=0&vz=7.86491
+
+## Mariage de Michel PINET et de Perrine PRIEUR <a name="pinetprieur"/>
+
+<img src="./ActeMariage/pinet_prieur.png"/>
+
+Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta18908ba5bae3546c/daogrp/0/layout:table/idsearch:RECH_2d3736332ec47f5e4101fbaa31e1370c?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta18908ba5bae3546c%2Fcanvas%2F0%2F31&vx=2541.47&vy=-1531.85&vr=0&vz=6.52897
+
+___
+
+## PINET, Pierre <a name="pinet14"/>
+
+## DE LA BASSE, Léonarde <a name="pinet15"/>
+
+## Mariage de Pierre PINET et de Léonarde DE LA BASSE <a name="pinetdelabasse"/>
