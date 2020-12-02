@@ -539,6 +539,8 @@ Source : [Visionneuse - Archives départementales de la Vendée](https://etatciv
 
 ---
 
+<img src="./Arbre/pinet6.png"/>
+
 ## PINET, Michel <a name="pinet12"/>
 
 ### Baptême, Poussanges (Creuse), 15 octobre 1733
@@ -547,13 +549,42 @@ Source : [Visionneuse - Archives départementales de la Vendée](https://etatciv
 
 Source : [Visionneuse - AD Creuse - Arkotheque](https://archives.creuse.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMTItMDEiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6MjtzOjQ6InJlZjIiO2k6NTk3NTtzOjE2OiJ2aXNpb25uZXVzZV9odG1sIjtiOjE7czoyMToidmlzaW9ubmV1c2VfaHRtbF9tb2RlIjtzOjQ6InByb2QiO30=#uielem_move=-1311%2C116&uielem_islocked=0&uielem_zoom=156&uielem_brightness=0&uielem_contrast=0&uielem_isinverted=0&uielem_rotate=F)
 
+#### Résumé
+
+| Commune                     | Poussanges, Creuse            |
+| --------------------------- | ----------------------------- |
+| **Enfant**                  | Michel PINET                  |
+| **Naissance**               | 15 octobre 1733               |
+| **Père, âge et profession** | Pierre PINET                  |
+| **Mère, âge et profession** | Léonarde DE LA BASSE          |
+| **Domicile**                | Bourg de Poussanges           |
+| **Témoin 1**                | Michel DE LA BASSE le parrain |
+| **Témoin 2**                | Margueritte GOUZE la marraine |
+
 ### Second mariage avec Marie BISLEAU
 
 <img src="./ActeMariage/pinet_bisleau.png"/>
 
 Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta99d9d9f67e6240a7/daogrp/0/layout:table/idsearch:RECH_2d3736332ec47f5e4101fbaa31e1370c?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta99d9d9f67e6240a7%2Fcanvas%2F0%2F11&vx=1018.3&vy=-1706.54&vr=0&vz=8.35345
 
-## PRIEUR, Marie Perrine <a name="pinet13"/>
+#### Résumé
+
+| Commune               | Courlay                                         |
+| --------------------- | ----------------------------------------------- |
+| **Mari**              | Michel PINET, veuf de la défunte Perrine PRIEUR |
+| **Femme**             | Marie BISLEAU                                   |
+| **Mariage**           | 17 juillet 1777                                 |
+| **Père du marié**     | Non indiqué                                     |
+| **Mère du marié**     | Non indiquée                                    |
+| **Père de la mariée** | Pierre BISLEAU, décédé                          |
+| **Mère de la mariée** | Suzanne NICOLEAU                                |
+| **Domicile**          | N/A                                             |
+| **Témoin 1**          | Pierre LA BASSE                                 |
+| **Témoin 2**          | Jacques *MALEGNE*                               |
+| **Témoin 3**          | Gabriel BISLEAU                                 |
+| **Témoin 4**          | Antoine BISLEAU                                 |
+
+## PRIEUR, Perrine <a name="pinet13"/>
 
 ### Baptême, Courlay, 4 mars 1743
 
@@ -561,11 +592,35 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta99d9d9f67e6240a7/d
 
 Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vtaa9a96de64bb96eb8/daogrp/0/layout:table/idsearch:RECH_2d3736332ec47f5e4101fbaa31e1370c?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvtaa9a96de64bb96eb8%2Fcanvas%2F0%2F31&vx=1276.15&vy=-2052.87&vr=0&vz=6.85586
 
+#### Résumé
+
+| Commune                     | Courlay           |
+| --------------------------- | ----------------- |
+| **Enfant**                  | Perrine PRIEUR    |
+| **Naissance**               | 4 mars 1743       |
+| **Père, âge et profession** | Pierre PRIEUR     |
+| **Mère, âge et profession** | Marie Anne DECRON |
+| **Domicile**                | N/A               |
+| **Témoin 1**                | Jean *REVY*       |
+| **Témoin 2**                | Perrine *REVY*    |
+
 ### Acte de décès, Courlay, 19 mai 1773
 
 <img src="./ActeDeces/prieur_perrine.png"/>
 
 Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta18908ba5bae3546c/daogrp/0/layout:table/idsearch:RECH_2d3736332ec47f5e4101fbaa31e1370c?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta18908ba5bae3546c%2Fcanvas%2F0%2F137&vx=2492.9&vy=-1235.51&vr=0&vz=7.86491
+
+#### Résumé
+
+| Commune                   | Courlay                   |
+| ------------------------- | ------------------------- |
+| **Décédée**               | Perrine PRIEUR, 33(?) ans |
+| **le**                    | 19 mai 1773               |
+| **Père**                  | Pierre PRIEUR             |
+| **Mère**                  | Non indiquée              |
+| **Domicile**              | N/A                       |
+| **Témoin 1 et déclarant** | Michel PINET son mari     |
+| **Témoin 2**              | Pierre PRIEUR son père    |
 
 ## Mariage de Michel PINET et de Perrine PRIEUR <a name="pinetprieur"/>
 
@@ -573,10 +628,127 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta18908ba5bae3546c/d
 
 Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta18908ba5bae3546c/daogrp/0/layout:table/idsearch:RECH_2d3736332ec47f5e4101fbaa31e1370c?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta18908ba5bae3546c%2Fcanvas%2F0%2F31&vx=2541.47&vy=-1531.85&vr=0&vz=6.52897
 
+#### Résumé
+
+| Commune               | Courlay                                                                        |
+| --------------------- | ------------------------------------------------------------------------------ |
+| **Mari**              | Michel PINET, de la paroisse de Saint-Pierre de Poussanges, diocèse de Limoges |
+| **Femme**             | Perrine PRIEUR                                                                 |
+| **Mariage**           | 8 février 1762                                                                 |
+| **Père du marié**     | Pierre PINET, décédé                                                           |
+| **Mère du marié**     | Léonarde DE BASSE, décédée                                                     |
+| **Père de la mariée** | Pierre PRIEUR                                                                  |
+| **Mère de la mariée** | Marie Anne DECREON                                                             |
+| **Domicile**          | N/A                                                                            |
+| **Témoin 1**          | Pierre PRIEUR                                                                  |
+| **Témoin 2**          | François *VENNA*                                                               |
+| **Témoin 3**          | Gabriel VOUNEAU                                                                |
+| **Témoin 4**          | Jean Louis FUSEAU                                                              |
+| **Témoin 5**          | Jean PRIEUR                                                                    |
+
 ___
+
+<img src="./Arbre/pinet7.png"/>
 
 ## PINET, Pierre <a name="pinet14"/>
 
+### Baptême, Poussanges, 8 septembre 1697
+
+<img src="./ActeNaissance/pinet_pierre.png"/>
+
+Source : [Visionneuse - AD Creuse - Arkotheque](https://archives.creuse.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMTItMDIiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6MjtzOjQ6InJlZjIiO2k6NTk3NTtzOjE2OiJ2aXNpb25uZXVzZV9odG1sIjtiOjE7czoyMToidmlzaW9ubmV1c2VfaHRtbF9tb2RlIjtzOjQ6InByb2QiO30=#uielem_move=-388%2C-671&uielem_islocked=0&uielem_zoom=185&uielem_brightness=0&uielem_contrast=0&uielem_isinverted=0&uielem_rotate=F)
+
+#### Résumé
+
+| Commune                     | Poussanges                   |
+| --------------------------- | ---------------------------- |
+| **Enfant**                  | Pierre PINET                 |
+| **Naissance**               | 8 septembre 1697             |
+| **Père, âge et profession** | Jacques PINET                |
+| **Mère, âge et profession** | Marguerite LOULERGUES        |
+| **Domicile**                | N/A                          |
+| **Témoin 1**                | Pierre LOULERGUES le parrain |
+| **Témoin 2**                | Jeanne PINET la marainne     |
+
+### Acte de décès, Poussanges, 28 décembre 1746
+
+<img src="./ActeDeces/pinet_pierre_1746.png"/>
+
+Source : [Visionneuse - AD Creuse - Arkotheque](https://archives.creuse.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMTItMDIiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6MjtzOjQ6InJlZjIiO2k6MzQyNjtzOjE2OiJ2aXNpb25uZXVzZV9odG1sIjtiOjE7czoyMToidmlzaW9ubmV1c2VfaHRtbF9tb2RlIjtzOjQ6InByb2QiO30=#uielem_move=137%2C-370&uielem_islocked=0&uielem_zoom=130&uielem_brightness=0&uielem_contrast=0&uielem_isinverted=0&uielem_rotate=F)
+
+#### Résumé
+
+| Commune                   | Poussanges                                |
+| ------------------------- | ----------------------------------------- |
+| **Décédé**                | Pierre PINET, 50 ans, charron de ce bourg |
+| **le**                    | dans la nuit du 27 au 28 décembre 1746    |
+| **Père**                  | Non indiqué                               |
+| **Mère**                  | Non indiquée                              |
+| **Domicile**              | N/A                                       |
+| **Témoin 1 et déclarant** | Denis BOUTOUNET                           |
+| **Témoin 2**              | François VENNAL                           |
+| **Témoin 3**              | Antoine ***IQUE*                          |
+
 ## DE LA BASSE, Léonarde <a name="pinet15"/>
 
+### Baptême, Poussanges, 19 février 1701
+
+<img src="./ActeNaissance/delabasse_leonarde.png"/>
+
+Source : [Visionneuse - AD Creuse - Arkotheque](https://archives.creuse.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMTItMDIiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6MjtzOjQ6InJlZjIiO2k6NTk3NTtzOjE2OiJ2aXNpb25uZXVzZV9odG1sIjtiOjE7czoyMToidmlzaW9ubmV1c2VfaHRtbF9tb2RlIjtzOjQ6InByb2QiO30=#uielem_move=-1619%2C-719&uielem_islocked=0&uielem_zoom=180&uielem_brightness=0&uielem_contrast=0&uielem_isinverted=0&uielem_rotate=F)
+
+#### Résumé
+
+| Commune                     | Poussanges                  |
+| --------------------------- | --------------------------- |
+| **Enfant**                  | Léonarde DE LA BASSE        |
+| **Naissance**               | 19 février 1701             |
+| **Père, âge et profession** | Gabriel DE LA BASSE         |
+| **Mère, âge et profession** | Léonarde XXXXXXX            |
+| **Domicile**                | N/A                         |
+| **Témoin 1**                | Jean DE LA BASSE le parrain |
+| **Témoin 2**                | Léonarde XXXXXX la marainne |
+
+### Acte de décès, Poussanges, 24 janvier 1753
+
+<img src="./ActeDeces/delabasse_leonarde.png"/>
+
+Source : [Visionneuse - AD Creuse - Arkotheque](https://archives.creuse.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMTItMDIiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6MjtzOjQ6InJlZjIiO2k6MzQyNjtzOjE2OiJ2aXNpb25uZXVzZV9odG1sIjtiOjE7czoyMToidmlzaW9ubmV1c2VfaHRtbF9tb2RlIjtzOjQ6InByb2QiO30=#uielem_move=-2178%2C-746&uielem_islocked=0&uielem_zoom=208&uielem_brightness=0&uielem_contrast=0&uielem_isinverted=0&uielem_rotate=F)
+
+#### Résumé
+
+| Commune                   | Poussanges                                          |
+| ------------------------- | --------------------------------------------------- |
+| **Décédée**               | Léonarde DE LA BASSE, 52 ans, veuve de Pierre PINET |
+| **le**                    | 24 janvier 1753                                     |
+| **Père**                  | Non indiqué                                         |
+| **Mère**                  | Non indiquée                                        |
+| **Domicile**              | Village de LA BASSE à Poussanges                    |
+| **Témoin 1 et déclarant** | Jean NIOU                                           |
+| **Témoin 2**              | Léonard NIOU                                        |
+| **Témoin 3**              | Annet LAVALEIX                                      |
+
 ## Mariage de Pierre PINET et de Léonarde DE LA BASSE <a name="pinetdelabasse"/>
+
+<img src="./ActeMariage/pinet_delabasse.png"/>
+
+Source : [Visionneuse - AD Creuse - Arkotheque](https://archives.creuse.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMTItMDIiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6MjtzOjQ6InJlZjIiO2k6NTk3NTtzOjE2OiJ2aXNpb25uZXVzZV9odG1sIjtiOjE7czoyMToidmlzaW9ubmV1c2VfaHRtbF9tb2RlIjtzOjQ6InByb2QiO30=#uielem_move=-399%2C-1236&uielem_islocked=0&uielem_zoom=189&uielem_brightness=0&uielem_contrast=0&uielem_isinverted=0&uielem_rotate=F)
+
+#### Résumé
+
+| Commune               | Poussanges           |
+| --------------------- | -------------------- |
+| **Mari**              | Pierre PINET         |
+| **Femme**             | Léonarde DE LA BASSE |
+| **Mariage**           | 28 septembre 1723    |
+| **Père du marié**     | Non indiqué          |
+| **Mère du marié**     | Non indiqué          |
+| **Père de la mariée** | Non indiqué          |
+| **Mère de la mariée** | Non indiqué          |
+| **Domicile**          | N/A                  |
+| **Témoin 1**          | Denis BOUTOUNET      |
+| **Témoin 2**          | Jean DU MILIEU       |
+| **Témoin 3**          | Jean DE LA BASSE     |
+| **Témoin 4**          | Léonarde BOUTONNET   |
+
+---
