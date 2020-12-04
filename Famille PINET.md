@@ -76,6 +76,22 @@ Parfois j'ai des doutes sur certaines informations, auquel cas elles sont en *it
   
   - [Mariage de Pierre PINET et de Léonarde DE LA BASSE](#pinetdelabasse)
 
+- Nonaïeuls paternels
+  
+  - [PINET, Jacques](#pinet16)
+  
+  - [DE LOULERGUES, Marie](#pinet17)
+  
+  - [Mariage de Jacques PINET et de Marguerite DE LOULERGUES](#pinetdeloulergues)
+
+- Decaïeuls paternels
+  
+  - [PINET, Etienne](#pinet18)
+  
+  - [DUTEYRAT, Catherine](#pinet19)
+  
+  - [Mariage de Etienne PINET et de Catherine DUTEYRAT](#pinetduteyrat)
+
 ## Souche de l'arbre <a name="souche"/>
 
 <img src="./Arbre/soucheArbre.png"/>
@@ -752,3 +768,130 @@ Source : [Visionneuse - AD Creuse - Arkotheque](https://archives.creuse.fr/arkot
 | **Témoin 4**          | Léonarde BOUTONNET   |
 
 ---
+
+<img src="./Arbre/pinet8.png"/>
+
+## PINET, Jacques <a name="pinet16"/>
+
+### Baptême, Poussanges, 22 juillet 1665
+
+<img src="./ActeNaissance/pinet_jacques.png"/>
+
+Source : [Visionneuse - AD Creuse - Arkotheque](https://archives.creuse.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMTItMDMiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6MjtzOjQ6InJlZjIiO2k6NTk3NDtzOjE2OiJ2aXNpb25uZXVzZV9odG1sIjtiOjE7czoyMToidmlzaW9ubmV1c2VfaHRtbF9tb2RlIjtzOjQ6InByb2QiO30=#uielem_move=-1748%2C-1127&uielem_islocked=0&uielem_zoom=184&uielem_brightness=0&uielem_contrast=0&uielem_isinverted=0&uielem_rotate=F)
+
+#### Résumé
+
+| Commune                     | Poussanges                     |
+| --------------------------- | ------------------------------ |
+| **Enfant**                  | Jacques PINET                  |
+| **Naissance**               | 22 juillet 1665                |
+| **Père, âge et profession** | Etienne PINET                  |
+| **Mère, âge et profession** | Catherine DU TEYRAT            |
+| **Domicile**                | N/A                            |
+| **Témoin 1**                | Jacques BOURDANEZOY le parrain |
+| **Témoin 2**                | Marguerite PINET la marainne   |
+
+### Acte de décès, Poussanges, 4 août 1730
+
+<img src="./ActeDeces/pinet_jacques.png"/>
+
+Source : [Visionneuse - AD Creuse - Arkotheque](https://archives.creuse.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMTItMDMiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6MjtzOjQ6InJlZjIiO2k6NTk3NTtzOjE2OiJ2aXNpb25uZXVzZV9odG1sIjtiOjE7czoyMToidmlzaW9ubmV1c2VfaHRtbF9tb2RlIjtzOjQ6InByb2QiO30=#uielem_move=-1477%2C-1302&uielem_islocked=0&uielem_zoom=169&uielem_brightness=0&uielem_contrast=0&uielem_isinverted=0&uielem_rotate=F)
+
+#### Résumé
+
+| Commune                   | Poussanges                         |
+| ------------------------- | ---------------------------------- |
+| **Décédé**                | Jacques PINET                      |
+| **le**                    | 4 août 1730                        |
+| **Père**                  | Non indiqué                        |
+| **Mère**                  | Non indiquée                       |
+| **Domicile**              | Village de LA RAJOUZE à Poussanges |
+| **Témoin 1 et déclarant** | Denis BOUTONNET                    |
+| **Témoin 2**              | Léonard BOUTONNET                  |
+
+## DE LOULERGUES, Marguerite <a name="pinet17"/>
+
+### Baptême, Poussanges, 21 août 1673
+
+<img src="./ActeNaissance/deloulergues_marguerite.png"/>
+
+Source : [Visionneuse - AD Creuse - Arkotheque](https://archives.creuse.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMTItMDMiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6MjtzOjQ6InJlZjIiO2k6NTk3NDtzOjE2OiJ2aXNpb25uZXVzZV9odG1sIjtiOjE7czoyMToidmlzaW9ubmV1c2VfaHRtbF9tb2RlIjtzOjQ6InByb2QiO30=#uielem_move=-1641%2C-490&uielem_islocked=0&uielem_zoom=174&uielem_brightness=0&uielem_contrast=0&uielem_isinverted=0&uielem_rotate=F)
+
+#### Résumé
+
+| Commune                     | Poussanges                    |
+| --------------------------- | ----------------------------- |
+| **Enfant**                  | Marguerite DE LOULERGUES      |
+| **Naissance**               | 21 août 1673                  |
+| **Père, âge et profession** | Annet DE LOULERGUES           |
+| **Mère, âge et profession** | Georgie DE PLAIGNE            |
+| **Domicile**                | N/A                           |
+| **Témoin 1**                | Léonard DE PLAIGNE le parrain |
+| **Témoin 2**                | Marguerite PRADAT la marainne |
+
+### Acte de décès, Poussanges, 18 novembre 1749
+
+<img src="./ActeDeces/deloulergues_marguerite.png"/>
+
+Source : [Visionneuse - AD Creuse - Arkotheque](https://archives.creuse.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMTItMDMiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6MjtzOjQ6InJlZjIiO2k6MzQyNjtzOjE2OiJ2aXNpb25uZXVzZV9odG1sIjtiOjE7czoyMToidmlzaW9ubmV1c2VfaHRtbF9tb2RlIjtzOjQ6InByb2QiO30=#uielem_move=-326%2C-1581&uielem_islocked=0&uielem_zoom=208&uielem_brightness=0&uielem_contrast=0&uielem_isinverted=0&uielem_rotate=F)
+
+#### Résumé
+
+| Commune                   | Poussanges                                       |
+| ------------------------- | ------------------------------------------------ |
+| **Décédée**               | Marguerite DE LOULERGUES, veuve de Jacques PINET |
+| **le**                    | 18 novembre 1749                                 |
+| **Père**                  | Non indiqué                                      |
+| **Mère**                  | Non indiquée                                     |
+| **Domicile**              | Village de LA RAJOUZE à Poussanges               |
+| **Témoin 1 et déclarant** | Louis et Antoine DE L'ARBRE laboureurs           |
+| **Témoin 2**              | Michel et Léonard DORY tisserands                |
+
+## Mariage de Jacques PINET et de Marguerite DE LOULERGUES <a name="pinetdeloulergues"/>
+
+<img src="./ActeMariage/pinet_deloulergues.png"/>
+
+Source : [Visionneuse - AD Creuse - Arkotheque](https://archives.creuse.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMTItMDMiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6MjtzOjQ6InJlZjIiO2k6NTk3NTtzOjE2OiJ2aXNpb25uZXVzZV9odG1sIjtiOjE7czoyMToidmlzaW9ubmV1c2VfaHRtbF9tb2RlIjtzOjQ6InByb2QiO30=#uielem_move=-283%2C154&uielem_islocked=0&uielem_zoom=155&uielem_brightness=0&uielem_contrast=0&uielem_isinverted=0&uielem_rotate=F)
+
+#### Résumé
+
+| Commune               | Poussanges                        |
+| --------------------- | --------------------------------- |
+| **Mari**              | Jacques PINET (23 ans)            |
+| **Femme**             | Marguerite DE LOULERGUES (15 ans) |
+| **Mariage**           | 11 février 1688                   |
+| **Père du marié**     | Etienne PINET                     |
+| **Mère du marié**     | Catherine DUTEYRAT                |
+| **Père de la mariée** | Annet DE LOULERGUES               |
+| **Mère de la mariée** | Georgie DE PLAIGNE                |
+| **Domicile**          | N/A                               |
+| **Témoin 1**          | Pattes de mouche                  |
+| **Témoin 2**          | Pattes de mouche                  |
+| **Témoin 3**          | Pattes de mouche                  |
+| **Témoin 4**          | Pattes de mouche                  |
+
+---
+
+## PINET, Etienne <a name="pinet18"/>
+
+### Acte de décès, 17 avril 1691
+
+<img src="./ActeDeces/pinet_etienne.png"/>
+
+Source : [Visionneuse - AD Creuse - Arkotheque](https://archives.creuse.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMTItMDMiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6MjtzOjQ6InJlZjIiO2k6NTk3NTtzOjE2OiJ2aXNpb25uZXVzZV9odG1sIjtiOjE7czoyMToidmlzaW9ubmV1c2VfaHRtbF9tb2RlIjtzOjQ6InByb2QiO30=#uielem_move=-192%2C265&uielem_islocked=0&uielem_zoom=170&uielem_brightness=0&uielem_contrast=0&uielem_isinverted=0&uielem_rotate=F)
+
+#### Résumé
+
+| Commune                   | Poussanges                          |
+| ------------------------- | ----------------------------------- |
+| **Décédé**                | Etienne PINET, âgé d'environ 70 ans |
+| **le**                    | 17 avril 1691                       |
+| **Père**                  | Non indiqué                         |
+| **Mère**                  | Non indiquée                        |
+| **Domicile**              | Village de LA RAJOUZE à Poussanges  |
+| **Témoin 1 et déclarant** |                                     |
+| **Témoin 2**              |                                     |
+
+## DUTEYRAT, Catherine <a name"pinet19"/>
+
+## Mariage de Etienne PINET et de Catherine DUTEYRAT <a name="pinetduteyrat"/>
