@@ -872,6 +872,8 @@ Source : [Visionneuse - AD Creuse - Arkotheque](https://archives.creuse.fr/arkot
 
 ---
 
+<img src="./Arbre/pinet9.png"/>
+
 ## PINET, Etienne <a name="pinet18"/>
 
 ### Acte de décès, 17 avril 1691
