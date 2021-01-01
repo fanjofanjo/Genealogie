@@ -44,7 +44,14 @@ Parfois j'ai des doutes sur certaines informations, auquel cas elles sont en *it
 
 - Quinquisaïeuls paternels
   
-  - 
+  - [BERTHELOT, Michel Joseph](#berthelot8)
+  - [JOTREAU, Jeanne](#berthelot9)
+  - [Mariage de Michel BERTHELOT et de Jeanne JOTREAU](#berthelotjotreau)
+
+- Sextaïeuls paternels
+  
+  - [BERTHELOT, Jacques](#berthelot10)
+  - [GUERIN, Marie](#berthelot11)
 
 ## Souche de l'arbre <a name="souche"/>
 
@@ -290,15 +297,49 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta258e1a056ace7688/d
 
 ---
 
+<img src="./Arbre/berthelot4.png"/>
+
 ## BERTHELOT, Michel Joseph <a name="berthelot8"/>
 
+### Acte de décès, Montigny, 12 février 1845
 
+<img src="./ActeDeces/berthelot_michel.png"/>
 
-## JOTTREAU, Jeanne<a name="berthelot9"/>
+Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta9fe789aa57c8efb4/daogrp/0/layout:table/idsearch:RECH_bc84e1bc87c13bc9205af0a9e66769de?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta9fe789aa57c8efb4%2Fcanvas%2F0%2F33&vx=1399.36&vy=-927.091&vr=0&vz=6.63112
 
+#### Résumé
 
+| Commune                   | Montigny, canton de Cerizay                                              |
+| ------------------------- | ------------------------------------------------------------------------ |
+| **Décédé**                | Michel BERTHELOT, métayer, 73 ans, veuf de Jeanne JOTREAU, né à Cirières |
+| **le**                    | 12 février 1845 à 23h00                                                  |
+| **Père**                  | Jacques BERTHELOT                                                        |
+| **Mère**                  | Marie GUERIN                                                             |
+| **Domicile**              | Le Poirier                                                               |
+| **Témoin 1 et déclarant** | Baptiste BERTHELOT, 36 ans, métayer, fils du défunt                      |
+| **Témoin 2**              | Benjamin BERTHELOT, 32 ans, domestique à Brétignolles                    |
 
-## Mariage de Michel BERTHELOT et de Jeanne JOTTREAU
+## JOTREAU, Jeanne<a name="berthelot9"/>
+
+### Acte de décès, Cirières, 19 février 1838
+
+<img src="./ActeDeces/jottreau_jeanne.png"/>
+
+Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta7e7f62a43c23f156/daogrp/0/layout:table/idsearch:RECH_654fdd0f390a25b4dd0efa45f1acc12a?id=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fark%3A%2F58825%2Fvta7e7f62a43c23f156%2Fcanvas%2F0%2F12&vx=2812.55&vy=-2017.06&vr=0&vz=5.46711
+
+#### Résumé
+
+| Commune                   | Cirières, canton de Cerizay                                                     |
+| ------------------------- | ------------------------------------------------------------------------------- |
+| **Décédée**               | Jeanne JOTREAU épouse de Michel BERTHELOT, 67 ans, née à Nueil-sous-les-Aubiers |
+| **le**                    | 19 février 1838 à 15h00                                                         |
+| **Père**                  | André JOTREAU                                                                   |
+| **Mère**                  | ROULLEAU                                                                        |
+| **Domicile**              | La Poture                                                                       |
+| **Témoin 1 et déclarant** | Henry DENIS, 55 ans, bordier, ami et voisin de la défunte                       |
+| **Témoin 2**              | Joseph POINT, 45 ans,                                                           |
+
+## Mariage de Michel BERTHELOT et de Jeanne JOTREAU <a name="berthelotjotreau"/>
 
 <img src="./ActeMariage/berthelot_jottreau.png"/>
 
@@ -321,4 +362,10 @@ Source : https://archives-deux-sevres-vienne.fr/ark:/58825/vta7db11f2531074708/d
 | **Témoin 3 : beau-frère de la mariée** | Jean BERTRAND, 33 ans, laboureur                                 |
 | **Témoin 4 : ami de la mariée**        | Louis PLANCHET, 25 ans, domestique                               |
 
+---
 
+<img src="./Arbre/berthelot5.png"/>
+
+## BERTHELOT, Jacques <a name="berthelot10"/>
+
+## GUERIN, Marie <a name="berthelot11"/>
